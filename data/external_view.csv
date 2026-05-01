@@ -176,16 +176,16 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 9,Main,9.16,Post-Sales,P1 — Standard,,1. Not Started,
 9,Main,9.17,Post-Sales,P1 — Standard,,1. Not Started,
 9,Main,9.18,Post-Sales,P1 — Standard,,1. Not Started,
-10,Employee,10.1,Employees & Management,P00 — Critical (cross-functional priority),Required,1. Not Started,
-10,Employee,10.2,Employees & Management,P00 — Critical (cross-functional priority),Required,1. Not Started,
-10,Employee,10.3,Employees & Management,P0 — High,,1. Not Started,
-10,Employee,10.4,Employees & Management,P00 — Critical (cross-functional priority),Required,1. Not Started,
-10,Employee,10.5,Employees & Management,P0 — High,,1. Not Started,
+10,Employee,10.1,Employees & Management,P00 — Critical (cross-functional priority),Required,1. Not Started,Alex Murtagh
+10,Employee,10.2,Employees & Management,P00 — Critical (cross-functional priority),Required,1. Not Started,Lauren Cullen
+10,Employee,10.3,Employees & Management,P0 — High,,1. Not Started,Lauren Cullen
+10,Employee,10.4,Employees & Management,P00 — Critical (cross-functional priority),Required,1. Not Started,Alex Murtagh
+10,Employee,10.5,Employees & Management,P0 — High,,1. Not Started,Stephanie Chin
 10,Employee,10.6,Employees & Management,P0 — High,,1. Not Started,
-10,Employee,10.7,Employees & Management,P0 — High,,1. Not Started,
-10,Employee,10.8,Employees & Management,P1 — Standard,,1. Not Started,
-10,Employee,10.9,Employees & Management,P1 — Standard,,1. Not Started,
-10,Employee,10.1,Employees & Management,P0 — High,,1. Not Started,
+10,Employee,10.7,Employees & Management,P0 — High,,1. Not Started,Alex Murtagh
+10,Employee,10.8,Employees & Management,P1 — Standard,,1. Not Started,Rachel Lanman
+10,Employee,10.9,Employees & Management,P1 — Standard,,1. Not Started,Anne Pierce
+10,Employee,10.1,Employees & Management,P0 — High,,1. Not Started,Stephanie Chin
 10,Employee,10.11,Employees & Management,P0 — High,,1. Not Started,
 10,Employee,10.12,Employees & Management,P0 — High,,1. Not Started,
 10,Employee,10.13,Employees & Management,P0 — High,,1. Not Started,
