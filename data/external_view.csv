@@ -24,7 +24,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 3,Main,3.7,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
 3,Main,3.8,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
 3,Main,3.9,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
-3,Main,3.1,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
+3,Main,3.10,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
 3,Main,3.11,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
 3,Main,3.12,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
 3,Main,3.13,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
@@ -34,7 +34,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 3,Main,3.17,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.18,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.19,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
-3,Main,3.2,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
+3,Main,3.20,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.21,Legal - Intellectual Property & Legal AI Integration,P0 — High Priority,,1. Not Started,
 3,Main,3.22,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.23,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
@@ -44,7 +44,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 3,Main,3.27,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.28,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.29,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
-3,Main,3.3,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
+3,Main,3.30,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.31,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.32,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
 3,Main,3.33,Legal - Intellectual Property & Legal AI Integration,P1 — Medium Priority,,1. Not Started,
@@ -62,7 +62,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 4,Main,4.7,"Legal - Regulatory, Litigation, Compliance & Integrity",P1 — Medium Priority,,1. Not Started,
 4,Main,4.8,"Legal - Regulatory, Litigation, Compliance & Integrity",P1 — Medium Priority,,1. Not Started,
 4,Main,4.9,"Legal - Regulatory, Litigation, Compliance & Integrity",P1 — Medium Priority,,1. Not Started,
-4,Main,4.1,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
+4,Main,4.10,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
 4,Main,4.11,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
 4,Main,4.12,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
 4,Main,4.13,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
@@ -72,7 +72,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 4,Main,4.17,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
 4,Main,4.18,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
 4,Main,4.19,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
-4,Main,4.2,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
+4,Main,4.20,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
 4,Main,4.21,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
 4,Main,4.22,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
 4,Main,4.23,"Legal - Regulatory, Litigation, Compliance & Integrity",P0 — High Priority,,1. Not Started,
@@ -93,7 +93,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 6,Main,6.7,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.8,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.9,Tech & Product,P0 — High Priority,,1. Not Started,
-6,Main,6.1,Tech & Product & GTM,P0 — High Priority,,1. Not Started,
+6,Main,6.10,Tech & Product & GTM,P0 — High Priority,,1. Not Started,
 6,Main,6.11,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.12,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.13,Tech & Product,P0 — High Priority,,1. Not Started,
@@ -103,7 +103,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 6,Main,6.17,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.18,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.19,Tech & Product,P1 — Medium Priority,,1. Not Started,
-6,Main,6.2,Tech & Product,P1 — Medium Priority,,1. Not Started,
+6,Main,6.20,Tech & Product,P1 — Medium Priority,,1. Not Started,
 6,Main,6.21,Tech & Product,P1 — Medium Priority,,1. Not Started,
 6,Main,6.22,Tech & Product,P1 — Medium Priority,,1. Not Started,
 6,Main,6.23,Tech & Product,P1 — Medium Priority,,1. Not Started,
@@ -113,7 +113,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 6,Main,6.27,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.28,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.29,Tech & Product,P0 — High Priority,,1. Not Started,
-6,Main,6.3,Tech & Product,P0 — High Priority,,1. Not Started,
+6,Main,6.30,Tech & Product,P0 — High Priority,,1. Not Started,
 6,Main,6.31,Tech & Product,P0 — High Priority,,1. Not Started,
 7,Main,7.1,Trust & Security,P00 — Critical (cross-functional priority),Required,1. Not Started,
 7,Main,7.2,Trust & Security,P0 — High Priority,,1. Not Started,
@@ -128,7 +128,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 8,Main,8.7,GTM,P0 — High Priority,,1. Not Started,Tommy Bettles
 8,Main,8.8,GTM,P00 — Critical (cross-functional priority),Required,1. Not Started,Tommy Bettles
 8,Main,8.9,GTM,P00 — Critical (cross-functional priority),,1. Not Started,Tommy Bettles
-8,Main,8.1,GTM,P1 — Medium Priority,,1. Not Started,Tommy Bettles
+8,Main,8.10,GTM,P1 — Medium Priority,,1. Not Started,Tommy Bettles
 8,Main,8.11,GTM,P0 — High Priority,,1. Not Started,Barry Wallace
 8,Main,8.12,GTM,P0 — High Priority,,1. Not Started,Tommy Bettles
 8,Main,8.13,GTM,P0 — High Priority,,1. Not Started,Tommy Bettles
@@ -138,7 +138,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 8,Main,8.17,GTM,P0 — High Priority,,1. Not Started,Tommy Bettles
 8,Main,8.18,GTM,P1 — Medium Priority,,1. Not Started,
 8,Main,8.19,GTM,P00 — Critical (cross-functional priority),Required,1. Not Started,Tommy Bettles
-8,Main,8.2,GTM,P00 — Critical (cross-functional priority),Required,1. Not Started,Tommy Bettles
+8,Main,8.20,GTM,P00 — Critical (cross-functional priority),Required,1. Not Started,Tommy Bettles
 8,Main,8.21,GTM,P00 — Critical (cross-functional priority),Required,1. Not Started,Tommy Bettles
 8,Main,8.22,GTM,P00 — Critical (cross-functional priority),Required,1. Not Started,
 8,Main,8.23,GTM,P0 — High Priority,,1. Not Started,
@@ -148,7 +148,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 8,Main,8.27,GTM,P0 — High Priority,,1. Not Started,
 8,Main,8.28,GTM,P0 — High Priority,,1. Not Started,
 8,Main,8.29,GTM,P0 — High Priority,,1. Not Started,Tommy Bettles
-8,Main,8.3,GTM,P0 — High Priority,,1. Not Started,
+8,Main,8.30,GTM,P0 — High Priority,,1. Not Started,
 8,Main,8.31,GTM,P0 — High Priority,,1. Not Started,
 8,Main,8.32,GTM,P1 — Medium Priority,,1. Not Started,
 8,Main,8.33,GTM,P1 — Medium Priority,,1. Not Started,
@@ -158,7 +158,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 8,Main,8.37,GTM,P0 — High Priority,,1. Not Started,Tommy Bettles
 8,Main,8.38,GTM,P0 — High Priority,,1. Not Started,Tommy Bettles
 8,Main,8.39,GTM,P1 — Medium Priority,,1. Not Started,Tommy Bettles
-8,Main,8.4,GTM,P1 — Medium Priority,,1. Not Started,
+8,Main,8.40,GTM,P1 — Medium Priority,,1. Not Started,
 8,Main,8.41,GTM,P0 — High Priority,,1. Not Started,
 8,Main,8.42,GTM,P1 — Medium Priority,,1. Not Started,
 9,Main,9.1,Post-Sales,P0 — High Priority,,1. Not Started,
@@ -170,7 +170,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 9,Main,9.7,Post-Sales,P1 — Medium Priority,,1. Not Started,
 9,Main,9.8,Post-Sales,P1 — Medium Priority,,1. Not Started,
 9,Main,9.9,Post-Sales,P0 — High Priority,,1. Not Started,
-9,Main,9.1,Post-Sales,P00 — Critical (cross-functional priority),Required,1. Not Started,
+9,Main,9.10,Post-Sales,P00 — Critical (cross-functional priority),Required,1. Not Started,
 9,Main,9.11,Post-Sales,P1 — Medium Priority,,1. Not Started,
 9,Main,9.12,Post-Sales,P1 — Medium Priority,,1. Not Started,
 9,Main,9.13,Post-Sales,P1 — Medium Priority,,1. Not Started,
@@ -188,7 +188,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 10,Employee,10.7,Employees & Management,P0 — High Priority,,1. Not Started,Alex Murtagh
 10,Employee,10.8,Employees & Management,P1 — Medium Priority,,1. Not Started,Rachel Lanman
 10,Employee,10.9,Employees & Management,P1 — Medium Priority,,1. Not Started,Lauren Cullen
-10,Employee,10.1,Employees & Management,P0 — High Priority,,No Action Required,Stephanie Chin
+10,Employee,10.10,Employees & Management,P0 — High Priority,,No Action Required,Stephanie Chin
 10,Employee,10.11,Employees & Management,P0 — High Priority,,1. Not Started,Salem Barakat
 10,Employee,10.12,Employees & Management,P0 — High Priority,,1. Not Started,Lauren Cullen
 10,Employee,10.13,Employees & Management,P0 — High Priority,,1. Not Started,Anne Pierce
@@ -197,9 +197,9 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 10,Employee,10.16,Employees & Management,P1 — Medium Priority,,1. Not Started,Alex Murtagh
 10,Employee,10.17,Employees & Management,P0 — High Priority,,1. Not Started,Stephanie Chin
 10,Employee,10.18,Employees & Management,P0 — High Priority,,1. Not Started,Stephanie Chin
+10,HR & Benefits,10.19,Employees & Management,P1 — Medium Priority,,1. Not Started,
 10,Employee,10.19,Employees & Management,P0 — High Priority,,1. Not Started,Lauren Cullen
-10,Employee,10.19,Employees & Management,P0 — High Priority,,1. Not Started,Lauren Cullen
-10,Employee,10.2,Employees & Management,P0 — High Priority,,1. Not Started,Stephanie Chin
+10,Employee,10.20,Employees & Management,P0 — High Priority,,1. Not Started,Stephanie Chin
 10,Employee,10.21,Employees & Management,P0 — High Priority,,1. Not Started,Stephanie Chin
 10,Employee,10.22,Employees & Management,P1 — Medium Priority,,No Action Required,Alex Murtagh
 10,Employee,10.23,Employees & Management,P1 — Medium Priority,,1. Not Started,Stephanie Chin
@@ -215,7 +215,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 11,Employee,11.7,Employee Benefits,P1 — Medium Priority,,1. Not Started,Lauren Cullen
 11,Employee,11.8,Employee Benefits,P0 — High Priority,,1. Not Started,Erika Brogger
 11,Employee,11.9,Employee Benefits,P1 — Medium Priority,,1. Not Started,Erika Brogger
-11,Employee,11.1,Employee Benefits,P1 — Medium Priority,,1. Not Started,Tommy Bettles
+11,Employee,11.10,Employee Benefits,P1 — Medium Priority,,1. Not Started,Tommy Bettles
 12,Main,12.1,Finance,P00 — Critical (cross-functional priority),,1. Not Started,
 12,Main,12.2,Finance,P00 — Critical (cross-functional priority),,1. Not Started,
 12,Main,12.3,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
@@ -225,7 +225,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 12,Main,12.7,Finance,P00 — Critical (cross-functional priority),Required,1. Not Started,Nikolay Trenin
 12,Main,12.8,Finance,P0 — High Priority,,1. Not Started,Nikolay Trenin
 12,Main,12.9,Finance,P0 — High Priority,,1. Not Started,Anne Pierce
-12,Main,12.1,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
+12,Main,12.10,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
 12,Main,12.11,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
 12,Main,12.12,Finance,P0 — High Priority,,1. Not Started,Nikolay Trenin
 12,Main,12.13,Finance,P1 — Medium Priority,,1. Not Started,Nikolay Trenin
@@ -235,7 +235,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 12,Main,12.17,Finance,P2 — Low Priority,,1. Not Started,Anne Pierce
 12,Main,12.18,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
 12,Main,12.19,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
-12,Main,12.2,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
+12,Main,12.20,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
 12,Main,12.21,Finance,P1 — Medium Priority,,1. Not Started,Anne Pierce
 12,Main,12.22,Finance,P0 — High Priority,,1. Not Started,Nikolay Trenin
 12,Main,12.23,Finance,P0 — High Priority,,1. Not Started,Tommy Bettles
@@ -251,7 +251,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 13,Main,13.7,Finance - Tax,P0 — High Priority,,1. Not Started,One Jae Paik
 13,Main,13.8,Finance - Tax,P1 — Medium Priority,,1. Not Started,One Jae Paik
 13,Main,13.9,Finance - Tax,P1 — Medium Priority,,1. Not Started,One Jae Paik
-13,Main,13.1,Finance - Tax,P1 — Medium Priority,,1. Not Started,One Jae Paik
+13,Main,13.10,Finance - Tax,P1 — Medium Priority,,1. Not Started,One Jae Paik
 13,Main,13.11,Finance - Tax,P1 — Medium Priority,,1. Not Started,One Jae Paik
 13,Main,13.12,Finance - Tax,P1 — Medium Priority,,1. Not Started,One Jae Paik
 13,Main,13.13,Finance - Tax,P0 — High Priority,,1. Not Started,One Jae Paik
