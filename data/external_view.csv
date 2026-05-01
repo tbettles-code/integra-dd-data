@@ -214,18 +214,18 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 11,Employee,11.9,Employee Benefits,P1 — Standard,,1. Not Started,Erika Brogger
 11,Employee,11.1,Employee Benefits,P1 — Standard,,1. Not Started,Tommy Bettles
 12,Main,12.1,Finance,P00 — Critical (cross-functional priority),Required,1. Not Started,
-12,Main,12.2,Finance,P00 — Critical (cross-functional priority),Required,1. Not Started,
-12,Main,12.3,Finance,P1 — Standard,,1. Not Started,
+12,Main,12.2,Finance,P00 — Critical (cross-functional priority),Required,1. Not Started,Anne Pierce
+12,Main,12.3,Finance,P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.4,Finance,P1 — Standard,,1. Not Started,
 12,Main,12.5,Finance,P00 — Critical (cross-functional priority),Required,1. Not Started,Tommy Bettles
 12,Main,12.6,Finance,P0 — High,,1. Not Started,
-12,Main,12.7,Finance,P00 — Critical (cross-functional priority),Required,1. Not Started,
-12,Main,12.8,Finance,P0 — High,,1. Not Started,
-12,Main,12.9,Finance,P0 — High,,1. Not Started,
-12,Main,12.1,Finance,P1 — Standard,,1. Not Started,
-12,Main,12.11,Finance,P1 — Standard,,1. Not Started,
-12,Main,12.12,Finance,P0 — High,,1. Not Started,
-12,Main,12.13,Finance,P1 — Standard,,1. Not Started,
+12,Main,12.7,Finance,P00 — Critical (cross-functional priority),Required,1. Not Started,Nikolay Trenin
+12,Main,12.8,Finance,P0 — High,,1. Not Started,Nikolay Trenin
+12,Main,12.9,Finance,P0 — High,,1. Not Started,Anne Pierce
+12,Main,12.1,Finance,P1 — Standard,,1. Not Started,Anne Pierce
+12,Main,12.11,Finance,P1 — Standard,,1. Not Started,Anne Pierce
+12,Main,12.12,Finance,P0 — High,,1. Not Started,Nikolay Trenin
+12,Main,12.13,Finance,P1 — Standard,,1. Not Started,Nikolay Trenin
 12,Main,12.14,Finance,P0 — High,,1. Not Started,Tommy Bettles
 12,Main,12.15,Finance,P1 — Standard,,1. Not Started,
 12,Main,12.16,Finance,P1 — Standard,,1. Not Started,
