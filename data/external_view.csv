@@ -120,13 +120,13 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 8,Main,8.2,GTM,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.3,GTM,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.4,GTM,P0 — High,,1. Not Started,Tommy Bettles
-8,Main,8.5,GTM,P0 — High,,1. Not Started,
+8,Main,8.5,GTM,P0 — High,,1. Not Started,Barry Wallace
 8,Main,8.6,GTM,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.7,GTM,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.8,GTM,P00 — Critical (cross-functional priority),Required,1. Not Started,Tommy Bettles
 8,Main,8.9,GTM,P2 — Low Priority,,1. Not Started,Tommy Bettles
 8,Main,8.1,GTM,P1 — Standard,,1. Not Started,Tommy Bettles
-8,Main,8.11,GTM,P0 — High,,1. Not Started,
+8,Main,8.11,GTM,P0 — High,,1. Not Started,Barry Wallace
 8,Main,8.12,GTM,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.13,GTM,P2 — Low Priority,,1. Not Started,Tommy Bettles
 8,Main,8.14,GTM,P0 — High,,1. Not Started,Tommy Bettles
@@ -206,7 +206,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 11,Employee,11.1,Employee Benefits,P0 — High,,1. Not Started,Erika Brogger
 11,Employee,11.2,Employee Benefits,P2 — Low Priority,,1. Not Started,Erika Brogger
 11,Employee,11.3,Employee Benefits,P2 — Low Priority,,1. Not Started,Erika Brogger
-11,Employee,11.4,Employee Benefits,P2 — Low Priority,,1. Not Started,
+11,Employee,11.4,Employee Benefits,P2 — Low Priority,,1. Not Started,Lauren Cullen
 11,Employee,11.5,Employee Benefits,P2 — Low Priority,,1. Not Started,Lauren Cullen
 11,Employee,11.6,Employee Benefits,P0 — High,,1. Not Started,Lauren Cullen
 11,Employee,11.7,Employee Benefits,P1 — Standard,,1. Not Started,Lauren Cullen
@@ -260,14 +260,14 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 14,Main,14.4,Digital Enterprise Technology,P1 — Standard,,1. Not Started,
 14,Main,14.5,Digital Enterprise Technology,P2 — Low Priority,,1. Not Started,
 14,Main,14.6,Digital Enterprise Technology,P1 — Standard,,1. Not Started,
-15,Main,15.1,Real Estate and Workplace,P0 — High,,1. Not Started,
-15,Main,15.2,Real Estate and Workplace,P0 — High,,1. Not Started,
-15,Main,15.3,Real Estate and Workplace,P0 — High,,1. Not Started,
-15,Main,15.4,Real Estate and Workplace,P0 — High,,1. Not Started,
-15,Main,15.5,Real Estate and Workplace,P1 — Standard,,1. Not Started,
-15,Main,15.6,Real Estate and Workplace,P1 — Standard,,1. Not Started,
-15,Main,15.7,Real Estate and Workplace,P1 — Standard,,1. Not Started,
-15,Main,15.8,Real Estate and Workplace,P1 — Standard,,1. Not Started,
+15,Main,15.1,Real Estate and Workplace,P0 — High,,1. Not Started,Lauren Cullen
+15,Main,15.2,Real Estate and Workplace,P0 — High,,1. Not Started,Lauren Cullen
+15,Main,15.3,Real Estate and Workplace,P0 — High,,1. Not Started,Anne Pierce
+15,Main,15.4,Real Estate and Workplace,P0 — High,,1. Not Started,Anne Pierce
+15,Main,15.5,Real Estate and Workplace,P1 — Standard,,1. Not Started,Lauren Cullen
+15,Main,15.6,Real Estate and Workplace,P1 — Standard,,1. Not Started,Anne Pierce
+15,Main,15.7,Real Estate and Workplace,P1 — Standard,,1. Not Started,Lauren Cullen
+15,Main,15.8,Real Estate and Workplace,P1 — Standard,,1. Not Started,Lauren Cullen
 16,Main,16.1,Global Safety & Security,P1 — Standard,,1. Not Started,
 16,Main,16.2,Global Safety & Security,P1 — Standard,,1. Not Started,
 16,Main,16.3,Global Safety & Security,P1 — Standard,,1. Not Started,
