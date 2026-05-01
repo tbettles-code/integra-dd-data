@@ -89,61 +89,61 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
   
  (ii) Provide details regarding any actual or alleged non-compliance with the above principles and policies.
   
- (iii) How does the Company monitor legal developments pertaining to Intelligent Product ethics or regulation?",P1 — Standard,,1. Not Started,Fergal Reid
+ (iii) How does the Company monitor legal developments pertaining to Intelligent Product ethics or regulation?",P1 — Standard,,1. Not Started,Michele Matsubara
 3,Main,3.18,"Has the Company used any generative AI tools or services in the development of Company IP? If so, what are the Company’s policies and processes regarding:
   
  (i) independent human review of the content being generated;
  (ii) security auditing of any code being generated;
  (iii) automated scanning of the generated content for inclusion of or similarity to third-party software or content;
- (iv) registration of copyrights in and to the generated content (including disclosure to the US Copyright Office the degree to which the works were AI-generated and/or contributed to by the Company’s personnel)?",P1 — Standard,,1. Not Started,Fergal Reid
+ (iv) registration of copyrights in and to the generated content (including disclosure to the US Copyright Office the degree to which the works were AI-generated and/or contributed to by the Company’s personnel)?",P1 — Standard,,1. Not Started,Thibault Candebat
 3,Main,3.19,Has the Company performed a risk and/or impact assessment to assess the potential harms arising from decisions and actions the Intelligent Products make? Please provide copies.,P1 — Standard,,1. Not Started,Thibault Candebat
 3,Main,3.20,"Who within the Company and what outside advisors, if any, are involved in managing the Intelligent Products and their trustworthiness and are they engaged throughout the product lifecycle?
   
  Who is ultimately responsible and who are the key decision makers?
- To what extent, if any, does the Company’s data governance committee address these issues?",P1 — Standard,,1. Not Started,Fergal Reid
-3,Main,3.21,"Are the Intelligent Products designed to ensure that (i) any of their output or decisions are not biased, and (ii) the data they use is accurate and continuously up-to-date? If so, please describe the steps that the Company took to design the Intelligent Products and any bias analysis done on them.",P0 — High,,1. Not Started,
-3,Main,3.22,"If the Intelligent Products are a feature of the Company’s other products, are Customers or users provided with a mechanism to opt-into or out of the use of the Intelligent Products and/or use of their data for improvement of Company products? If yes, please describe the process.",P1 — Standard,,1. Not Started,
-3,Main,3.23,"Describe (i) steps the Company takes to prevent customers from using Intelligent Products for illegal or illicit purposes, and (ii) provide a copy of any binding acceptable use policy applicable to customers’ use of Intelligent Products.",P1 — Standard,,1. Not Started,
+ To what extent, if any, does the Company’s data governance committee address these issues?",P1 — Standard,,1. Not Started,Thibault Candebat
+3,Main,3.21,"Are the Intelligent Products designed to ensure that (i) any of their output or decisions are not biased, and (ii) the data they use is accurate and continuously up-to-date? If so, please describe the steps that the Company took to design the Intelligent Products and any bias analysis done on them.",P0 — High,,1. Not Started,Thibault Candebat
+3,Main,3.22,"If the Intelligent Products are a feature of the Company’s other products, are Customers or users provided with a mechanism to opt-into or out of the use of the Intelligent Products and/or use of their data for improvement of Company products? If yes, please describe the process.",P1 — Standard,,1. Not Started,Michele Matsubara
+3,Main,3.23,"Describe (i) steps the Company takes to prevent customers from using Intelligent Products for illegal or illicit purposes, and (ii) provide a copy of any binding acceptable use policy applicable to customers’ use of Intelligent Products.",P1 — Standard,,1. Not Started,Michele Matsubara
 3,Main,3.24,"Do the Intelligent Products process personal data for the purpose of analyzing or predicting an individual’s performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location, movements or other characteristics? 
   
  Do the Intelligent Products provide analysis, decisions, or predictions that (i) affect an individual’s rights under law (e.g., qualification for benefits), or (ii) would have a significant impact on the individual, including on their health, finances, employment, or reputation?
   
- If so, in either case: (i) please describe; and (ii) indicate whether the product requires human involvement by the Company or its customer to make such an analysis, decision, or prediction.",P1 — Standard,,1. Not Started,
-3,Main,3.25,Describe steps the Company takes to minimize and protect personal data processed by Intelligent Products.,P1 — Standard,,1. Not Started,
-3,Main,3.26,Provide a list of the Company’s sources of data used to train the Intelligent Products or enrich their outputs.,P1 — Standard,,1. Not Started,
+ If so, in either case: (i) please describe; and (ii) indicate whether the product requires human involvement by the Company or its customer to make such an analysis, decision, or prediction.",P1 — Standard,,1. Not Started,Michele Matsubara
+3,Main,3.25,Describe steps the Company takes to minimize and protect personal data processed by Intelligent Products.,P1 — Standard,,1. Not Started,Michele Matsubara
+3,Main,3.26,Provide a list of the Company’s sources of data used to train the Intelligent Products or enrich their outputs.,P1 — Standard,,1. Not Started,Fergal Reid
 3,Main,3.27,"With respect to data from the Company’s customers:
   
  (i) Does the Company use such data to train the Intelligent Products? Is such data used to improve the Intelligent Products for all customers?
   
  (ii) If so, do such customers have written agreements with the Company that allow the Company to use their data in this manner? Do any such agreements give customers, or do customers otherwise assert, rights to technology derived from use of their data, or impose restrictions on use?
   
- (iii)What rights does the Company have to any inputs that the Company’s customers submit to the Intelligent Products?",P1 — Standard,,1. Not Started,
-3,Main,3.28,"Has the Company obtained any data gathered using web scraping, web crawling, web harvesting software or any other data gathering method for which the Company does not have an express license to collect and use it? If so, please provide a list of websites from where such data is gathered and the applicable terms of use.",P1 — Standard,,1. Not Started,
+ (iii)What rights does the Company have to any inputs that the Company’s customers submit to the Intelligent Products?",P1 — Standard,,1. Not Started,Michele Matsubara
+3,Main,3.28,"Has the Company obtained any data gathered using web scraping, web crawling, web harvesting software or any other data gathering method for which the Company does not have an express license to collect and use it? If so, please provide a list of websites from where such data is gathered and the applicable terms of use.",P1 — Standard,,1. Not Started,Michele Matsubara
 3,Main,3.29,"Describe all claims made by the Company to third parties pertaining to the bias, accuracy, safety, reliability or operation of the Intelligent Products.
   
- Provide a list of all instances where an Intelligent Product has not met the claim and the Company’s remediation actions to address the claim.",P1 — Standard,,1. Not Started,
+ Provide a list of all instances where an Intelligent Product has not met the claim and the Company’s remediation actions to address the claim.",P1 — Standard,,1. Not Started,Thibault Candebat
 3,Main,3.30,"Describe the testing, monitoring, and auditing that the Company performs with respect to its Intelligent Products throughout the products’ lifecycle.
   
- Provide any related process and procedure documentation pertaining to the design, development, release, and maintenance of the Intelligent Product throughout its lifecycle.",P1 — Standard,,1. Not Started,
-3,Main,3.31,"Describe the mechanisms, if any, the Company has in place to receive feedback about the Intelligent Products.",P1 — Standard,,1. Not Started,
-3,Main,3.32,"Describe the response mechanisms, if any, that are in place to respond to any trustworthiness issue in connection with any Intelligent Product.",P1 — Standard,,1. Not Started,
+ Provide any related process and procedure documentation pertaining to the design, development, release, and maintenance of the Intelligent Product throughout its lifecycle.",P1 — Standard,,1. Not Started,Fergal Reid
+3,Main,3.31,"Describe the mechanisms, if any, the Company has in place to receive feedback about the Intelligent Products.",P1 — Standard,,1. Not Started,Fergal Reid
+3,Main,3.32,"Describe the response mechanisms, if any, that are in place to respond to any trustworthiness issue in connection with any Intelligent Product.",P1 — Standard,,1. Not Started,Fergal Reid
 3,Main,3.33,"How does the Company make its Intelligent Products and the decisions made or facilitated by them transparent?
   
  Describe how the Company assesses what individuals or groups may be impacted by the Intelligent Product.
   
- Provide copies of all related notices, information, end user documentation, training and other relevant materials related to the Intelligent Product.",P1 — Standard,,1. Not Started,
-3,Main,3.34,Has the Company warranted or committed to defend or indemnify third parties against claims of IP infringement or misappropriation by the outputs of the Company’s Intelligent Products? Have any such claims been made or defended or indemnified by the Company?,P1 — Standard,,1. Not Started,
+ Provide copies of all related notices, information, end user documentation, training and other relevant materials related to the Intelligent Product.",P1 — Standard,,1. Not Started,Fergal Reid
+3,Main,3.34,Has the Company warranted or committed to defend or indemnify third parties against claims of IP infringement or misappropriation by the outputs of the Company’s Intelligent Products? Have any such claims been made or defended or indemnified by the Company?,P1 — Standard,,1. Not Started,Michele Matsubara
 3,Main,3.35,"Describe the measures the Company undertakes to protect its intellectual property rights or other interests in and to the Intelligent Products’ (i) prediction / analytical models and (ii) output data.
   
- Provide a list of third parties that have intellectual property rights in either (i) and/or (ii), and describe the nature of such rights.",P1 — Standard,,1. Not Started,
-3,Main,3.36,What policies and procedures does the Company have in place to regulate the disclosure of confidential information in connection with use of third-party generative AI services by Company personnel? Is the Company aware of any Company personnel submitting trade secrets as prompts to third-party generative AI services?,P1 — Standard,,1. Not Started,
+ Provide a list of third parties that have intellectual property rights in either (i) and/or (ii), and describe the nature of such rights.",P1 — Standard,,1. Not Started,Michele Matsubara
+3,Main,3.36,What policies and procedures does the Company have in place to regulate the disclosure of confidential information in connection with use of third-party generative AI services by Company personnel? Is the Company aware of any Company personnel submitting trade secrets as prompts to third-party generative AI services?,P1 — Standard,,1. Not Started,Michele Matsubara
 3,Main,3.37,"Does the Company operate and adhere to a data management system that allows the Company to track the source of, and the Company’s rights to, all data used by the Company in connection with any Intelligent Products or other products or services?
   
 What policies and procedures are in place to ensure that data is only used in a manner consistent with the Company’s rights to such data?
   
-Describe any mechanisms the Company has in place to physically and/or logically segregate: (i) data, (ii) prediction / analytical models, and (iii) Intelligent Products’ output, in cases where items (i), (ii) or (iii) are proprietary to, or such segregation is required by, a third party.",P1 — Standard,,1. Not Started,
-3,Main,3.38,"What AI/ML models does the Company use and does the Company use any “open” or “open source” (including under OSI-approved software licenses and other public licenses) AI/ML models and, if so, under what licenses?",P1 — Standard,,1. Not Started,
-4,Main,4.1,"Provide copies of all current permits, licenses, approvals, determinations and other qualifications issued by any federal, state, foreign or other governmental authority.",P0 — High,,1. Not Started,
+Describe any mechanisms the Company has in place to physically and/or logically segregate: (i) data, (ii) prediction / analytical models, and (iii) Intelligent Products’ output, in cases where items (i), (ii) or (iii) are proprietary to, or such segregation is required by, a third party.",P1 — Standard,,1. Not Started,Thibault Candebat
+3,Main,3.38,"What AI/ML models does the Company use and does the Company use any “open” or “open source” (including under OSI-approved software licenses and other public licenses) AI/ML models and, if so, under what licenses?",P1 — Standard,,1. Not Started,Fergal Reid
+4,Main,4.1,"Provide copies of all current permits, licenses, approvals, determinations and other qualifications issued by any federal, state, foreign or other governmental authority.",P0 — High,,1. Not Started,Brandon Kim
 4,Main,4.2,"Provide copies of any government audits or government investigations, refusals, deficiency notices, reports, correspondence, voluntary or involuntary disclosures and applications with or to governmental authorities, including relating to any alleged violations of governmental regulations or laws, including:
   
  (i) bid protests filed in any forum by the Company or involving an award made to the Company by a federal, state, or local governmental entity or an educational institution;
@@ -156,16 +156,16 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (viii) any internal investigations conducted by the Company to determine whether the Company or its personnel made a false statement to the government or otherwise engaged in improper conduct in connection with the performance of a contract;
  (ix) any instance in which the government has threatened or initiated debarment or suspension proceedings against the Company or any company personnel;
  (x) any known real or perceived organizational conflicts of interest (“OCIs”), potential OCI restrictions, or OCI mitigation plans currently in place; and
- (xi) trade-related audits, inquiries, investigations, requests for guidance, disclosures, notifications, or submissions, whether by or to customs, export controls, sanctions, or antiboycott officials or related agencies, in any country or region.",P0 — High,,1. Not Started,
+ (xi) trade-related audits, inquiries, investigations, requests for guidance, disclosures, notifications, or submissions, whether by or to customs, export controls, sanctions, or antiboycott officials or related agencies, in any country or region.",P0 — High,,1. Not Started,Stephanie Chin
 4,Main,4.3,"Describe any pending or threatened internal, governmental or other third-party (including inspector general, FBI, grand jury, Congress or the GAO) investigations or inquiries, and any remedial or enforcement actions with respect thereto, in the past five years.
   
  (i) Have any allegations of corruption ever been made against the Company or any officer, director, employee, counterparty, or third party, including partners and resellers, if applicable, acting on behalf of Company by any person or entity? If yes, please explain and attach the results.
  (ii) Does the Company have any past or pending criminal convictions, suspensions, debarments, proposed debarments, or other disqualifications related to conducting business with the U.S. government or any other foreign governments? If yes, please explain.
  (iii) Are there any reasons to believe that any of the Company’s contracts have been obtained or retained through improper payments?
  (iv) Are there reasons to believe that any of the Company’s employees or third parties offered, made, gave, authorized the giving of any improper payment to customers or government officials or facilitated such acts?
- (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,1. Not Started,
-4,Main,4.4,"Provide summaries of any pending or threatened litigation, proceeding (including arbitration) or claim (including those that pertain to specific subject areas covered elsewhere – e.g., intellectual property, employee matters, government contracts/subcontracts and trade-related matters, and whether as the recipient/defendant or claimant/plaintiff) involving the Company or any of its officers, directors or employees, in the past five years.",P00 — Critical (cross-functional priority),Required,1. Not Started,
-4,Main,4.5,Provide copies of litigation letters relating to the Company from outside legal counsel to independent auditors in the past five years.,P1 — Standard,,1. Not Started,
+ (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,1. Not Started,Stephanie Chin
+4,Main,4.4,"Provide summaries of any pending or threatened litigation, proceeding (including arbitration) or claim (including those that pertain to specific subject areas covered elsewhere – e.g., intellectual property, employee matters, government contracts/subcontracts and trade-related matters, and whether as the recipient/defendant or claimant/plaintiff) involving the Company or any of its officers, directors or employees, in the past five years.",P00 — Critical (cross-functional priority),Required,1. Not Started,Stephanie Chin
+4,Main,4.5,Provide copies of litigation letters relating to the Company from outside legal counsel to independent auditors in the past five years.,P1 — Standard,,1. Not Started,Anne Pierce
 4,Main,4.6,"Describe any closed, pending or threatened internal, governmental or other third-party investigation or inquiries with a summary of any remedial or enforcement actions (including related to IP, privacy and data security practices and employment). Provide copies of any related consent or other decrees, judgments, orders, releases, settlement agreements or other similar agreements. 
   
  Please also confirm:
@@ -445,7 +445,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 11,Employee,11.8,"Copies of all group health plan, retiree health plan, Section 125 Plan, 401(k) and other qualified pension and profit sharing plan documents, all amendments, summary plan descriptions, adoption agreements, trust agreements, administrative services agreements, group annuity contracts, resolutions, IRS opinion/determination letter, last five years nondiscrimination and compliance testing and last five years Form 5500.",P0 — High,,1. Not Started,Erika Brogger
 11,Employee,11.9,"Copy of COBRA, HIPAA and Cancer Rights Act notices and notice procedures.",P1 — Standard,,1. Not Started,Erika Brogger
 11,Employee,11.10,Please provide the annual merit adjustment budget for your employees,P1 — Standard,,1. Not Started,Tommy Bettles
-12,Main,12.1,"Please share an updated version of the financial model previously shared, and include latest actuals for Q1 FY27 and plan, alongside any additional / relevant key metrics",P00 — Critical (cross-functional priority),,1. Not Started,
+12,Main,12.1,"Please share an updated version of the financial model previously shared, and include latest actuals for Q1 FY27 and plan, alongside any additional / relevant key metrics",P00 — Critical (cross-functional priority),,1. Not Started,Tommy Bettles
 12,Main,12.2,"Provide consolidated audited financial statements for the last 3 fiscal years, as available.",P00 — Critical (cross-functional priority),,3. Ready for Legal & Fin Review,Anne Pierce
 12,Main,12.3,"Monthly trial balances (P&L, Balance Sheet and Cash Flow Statement) for last 2 fiscal years reconciling to the consolidated financial statements. Including, breakdown of expenses by type: (a) headcount vs. non-headcount (b) Cost of Sales / Operating Expenses (including operating expense breakdown in R&D, Sales / Marketing and G&A). Provide a mapping of the trial balance accounts to internal financial statements.",P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.4,Copies of internal management reports / presentations / board decks for the last 4 quarters,P1 — Standard,,1. Not Started,Dan Griggs
@@ -464,7 +464,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 12,Main,12.17,"Future lease commitment schedule, by lease by month, in local currency and USD",P2 — Low Priority,,1. Not Started,Anne Pierce
 12,Main,12.18,Lease ROU asset and liability amortization schedules (if accounted for under ASC 842),P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.19,"Future sublease rental income schedule, by lease by month, in local currency and USD (if applicable)",P1 — Standard,,1. Not Started,Anne Pierce
-12,Main,12.20,"Are you aware of actual litigation, any expressed intention to commence litigation or the threat of litigation against Ernst & Young (Diamond's audit firm) that may be brought by the Company, its officers or directors?",P1 — Standard,,1. Not Started,Anne Pierce
+12,Main,12.20,"Are you aware of actual litigation, any expressed intention to commence litigation or the threat of litigation against Ernst & Young (Diamond's audit firm) that may be brought by the Company, its officers or directors?",P1 — Standard,,3. Ready for Legal & Fin Review,Anne Pierce
 12,Main,12.21,Does the Company have any business or lending relationships with Ernst & Young (Diamond's audit firm) or any Ernst & Young affiliates?,P1 — Standard,,3. Ready for Legal & Fin Review,Anne Pierce
 12,Main,12.22,Please provide most current deferred commissions amortization schedule / waterfall,P0 — High,,1. Not Started,Nikolay Trenin
 12,Main,12.23,Please provide historical & forecasted cost to serve (COGS) broken out by product.,P0 — High,,1. Not Started,Tommy Bettles
