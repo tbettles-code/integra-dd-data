@@ -75,32 +75,32 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
 3,Main,3.6,Provide a list of any employees or consultants engaged in the development of any material IP for the Company and indicating who has not signed proprietary information and invention agreements.,P0 — High,,1. Not Started,Michele Matsubara
 3,Main,3.7,"Provide any freedom-to-operate, and landscape IP searches performed by the Company or on behalf of the Company.",P0 — High,,1. Not Started,Michele Matsubara
 3,Main,3.8,"Provide any analyses, opinions or reviews of IP rights of third parties, including any formal or informal opinions involving the Company’s IP and with respect to infringement, misappropriation or violation of the IP rights of the Company.",P0 — High,,1. Not Started,Michele Matsubara
-3,Main,3.9,"Provide copies of any documentation related to the Company’s use of open or open source software, including a list of all open source components distributed as part of the Company’s products and services, or used by the Company to host, deliver, develop or distribute the Company’s products or services, and the applicable licenses.",P0 — High,,1. Not Started,
-3,Main,3.10,"Provide a list of all open or open source projects that the Company has made public (e.g., GitHub and HuggingFace repositories) and a list of all open or open source projects to which the Company contributes.",P0 — High,,1. Not Started,
-3,Main,3.11,Provide a list of any standards bodies or similar organizations to which the Company belongs related to the Company’s products or services and the Company’s policies regarding compliance with standard setting rules or contractual obligations.,P0 — High,,1. Not Started,
-3,Main,3.12,Provide a list of all social media account names or handles used by the Company.,P0 — High,,1. Not Started,
+3,Main,3.9,"Provide copies of any documentation related to the Company’s use of open or open source software, including a list of all open source components distributed as part of the Company’s products and services, or used by the Company to host, deliver, develop or distribute the Company’s products or services, and the applicable licenses.",P0 — High,,1. Not Started,Brian Scanlan
+3,Main,3.10,"Provide a list of all open or open source projects that the Company has made public (e.g., GitHub and HuggingFace repositories) and a list of all open or open source projects to which the Company contributes.",P0 — High,,1. Not Started,Brian Scanlan
+3,Main,3.11,Provide a list of any standards bodies or similar organizations to which the Company belongs related to the Company’s products or services and the Company’s policies regarding compliance with standard setting rules or contractual obligations.,P0 — High,,1. Not Started,Brian Scanlan
+3,Main,3.12,Provide a list of all social media account names or handles used by the Company.,P0 — High,,1. Not Started,Barry Wallace
 3,Main,3.13,Provide copies of agreements obligating the Company to provide source code or AI/ML models or algorithms to a third party upon the occurrence of certain events.,P0 — High,,1. Not Started,
-3,Main,3.14,Provide copies of agreements in which the customers’ right to use the services converts to a perpetual right as a result of a triggering event.,P0 — High,,1. Not Started,
-3,Main,3.15,"Describe how the Company’s products and services are shipped from the United States and downloaded or otherwise delivered outside of the United States, and the jurisdictions to which they are delivered.",P0 — High,,1. Not Started,
-3,Main,3.16,"Provide a list of past, pending, threatened, or potential actions, proceedings, or offers to license involving the technology or IP of the Company made by or against the Company.",P1 — Standard,,1. Not Started,
+3,Main,3.14,Provide copies of agreements in which the customers’ right to use the services converts to a perpetual right as a result of a triggering event.,P0 — High,,1. Not Started,Michele Matsubara
+3,Main,3.15,"Describe how the Company’s products and services are shipped from the United States and downloaded or otherwise delivered outside of the United States, and the jurisdictions to which they are delivered.",P0 — High,,1. Not Started,Brian Scanlan
+3,Main,3.16,"Provide a list of past, pending, threatened, or potential actions, proceedings, or offers to license involving the technology or IP of the Company made by or against the Company.",P1 — Standard,,1. Not Started,Michele Matsubara
 3,Main,3.17,"Provide copies of any ethical or governance principles and policies that the Company has adopted with respect to its machine learning (“ML”), artificial intelligence (“AI”) and/or other decision making or decision supporting software and/or its other data analytics products (including derived from pre-existing third-party material) (collectively, “Intelligent Products”).
   
  (i) What steps has the Company taken to operationalize its above principles and policies and/or otherwise ensure that its Intelligent Products are trustworthy?
   
  (ii) Provide details regarding any actual or alleged non-compliance with the above principles and policies.
   
- (iii) How does the Company monitor legal developments pertaining to Intelligent Product ethics or regulation?",P1 — Standard,,1. Not Started,
+ (iii) How does the Company monitor legal developments pertaining to Intelligent Product ethics or regulation?",P1 — Standard,,1. Not Started,Fergal Reid
 3,Main,3.18,"Has the Company used any generative AI tools or services in the development of Company IP? If so, what are the Company’s policies and processes regarding:
   
  (i) independent human review of the content being generated;
  (ii) security auditing of any code being generated;
  (iii) automated scanning of the generated content for inclusion of or similarity to third-party software or content;
- (iv) registration of copyrights in and to the generated content (including disclosure to the US Copyright Office the degree to which the works were AI-generated and/or contributed to by the Company’s personnel)?",P1 — Standard,,1. Not Started,
-3,Main,3.19,Has the Company performed a risk and/or impact assessment to assess the potential harms arising from decisions and actions the Intelligent Products make? Please provide copies.,P1 — Standard,,1. Not Started,
+ (iv) registration of copyrights in and to the generated content (including disclosure to the US Copyright Office the degree to which the works were AI-generated and/or contributed to by the Company’s personnel)?",P1 — Standard,,1. Not Started,Fergal Reid
+3,Main,3.19,Has the Company performed a risk and/or impact assessment to assess the potential harms arising from decisions and actions the Intelligent Products make? Please provide copies.,P1 — Standard,,1. Not Started,Thibault Candebat
 3,Main,3.20,"Who within the Company and what outside advisors, if any, are involved in managing the Intelligent Products and their trustworthiness and are they engaged throughout the product lifecycle?
   
  Who is ultimately responsible and who are the key decision makers?
- To what extent, if any, does the Company’s data governance committee address these issues?",P1 — Standard,,1. Not Started,
+ To what extent, if any, does the Company’s data governance committee address these issues?",P1 — Standard,,1. Not Started,Fergal Reid
 3,Main,3.21,"Are the Intelligent Products designed to ensure that (i) any of their output or decisions are not biased, and (ii) the data they use is accurate and continuously up-to-date? If so, please describe the steps that the Company took to design the Intelligent Products and any bias analysis done on them.",P0 — High,,1. Not Started,
 3,Main,3.22,"If the Intelligent Products are a feature of the Company’s other products, are Customers or users provided with a mechanism to opt-into or out of the use of the Intelligent Products and/or use of their data for improvement of Company products? If yes, please describe the process.",P1 — Standard,,1. Not Started,
 3,Main,3.23,"Describe (i) steps the Company takes to prevent customers from using Intelligent Products for illegal or illicit purposes, and (ii) provide a copy of any binding acceptable use policy applicable to customers’ use of Intelligent Products.",P1 — Standard,,1. Not Started,
