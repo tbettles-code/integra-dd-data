@@ -93,7 +93,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 6,Main,6.7,Tech & Product,P0 — High,,1. Not Started,
 6,Main,6.8,Tech & Product,P0 — High,,1. Not Started,
 6,Main,6.9,Tech & Product,P0 — High,,1. Not Started,
-6,Main,6.10,Tech & Product & GTM,P0 — High,,1. Not Started,
+6,Main,6.10,GTM,P0 — High,,1. Not Started,
 6,Main,6.11,Tech & Product,P0 — High,,1. Not Started,
 6,Main,6.12,Tech & Product,P0 — High,,1. Not Started,
 6,Main,6.13,Tech & Product,P0 — High,,1. Not Started,
@@ -197,7 +197,7 @@ Section,Folder,DD Ref,Topic,Diamond Priority,Intercom Priority,Status,Owner
 10,Employee,10.16,Employees & Management,P1 — Standard,,1. Not Started,Alex Murtagh
 10,Employee,10.17,Employees & Management,P0 — High,,1. Not Started,Stephanie Chin
 10,Employee,10.18,Employees & Management,P0 — High,,1. Not Started,Stephanie Chin
-10,HR & Benefits,10.19,Employees & Management,P1 — Standard,,1. Not Started,
+10,Employee,10.19,Employees & Management,P1 — Standard,,1. Not Started,
 10,Employee,10.19,Employees & Management,P0 — High,,1. Not Started,Lauren Cullen
 10,Employee,10.20,Employees & Management,P0 — High,,1. Not Started,Stephanie Chin
 10,Employee,10.21,Employees & Management,P0 — High,,1. Not Started,Stephanie Chin
