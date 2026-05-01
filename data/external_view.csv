@@ -237,7 +237,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iv) who has access to such data and how access is controlled;
  (v) the third parties with whom such data is shared and the purpose of the sharing; and
  (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,1. Not Started,Stephanie Chin
-5,Main,5.2,"Provide (i) copies of all agreements with customers, affiliates, service providers, or other third parties relating to the processing or transfer (including cross-border transfer) of data; and (ii) a list of all affiliated or third-party entities that collect or otherwise process data on behalf of the Company.",P0 — High,,1. Not Started,
+5,Main,5.2,"Provide (i) copies of all agreements with customers, affiliates, service providers, or other third parties relating to the processing or transfer (including cross-border transfer) of data; and (ii) a list of all affiliated or third-party entities that collect or otherwise process data on behalf of the Company.",P0 — High,,1. Not Started,Brandon Kim
 5,Main,5.3,"Provide copies of all current and historical:
  (i) Privacy notices or policies;
  (ii) Privacy impact assessments;
@@ -248,12 +248,12 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (viii) Vendor security questionnaires/audit procedures;
  (ix) Cross-border transfer mechanism certifications or documentation;
  (x) Registrations and approvals from any data protection authorities or regulators; and
- (xi) Data retention schedules.",P0 — High,,1. Not Started,
+ (xi) Data retention schedules.",P0 — High,,1. Not Started,Stephanie Chin
 5,Main,5.4,"Provide copies of all current and historical data subject request intake and response procedures, including with respect to personal data used to train the Intelligent Products or otherwise used by the Company’s products.
   
  Indicate whether the Company’s products provide customers with controls to respond to such requests and, if so, describe the controls.
   
- Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,1. Not Started,
+ Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,1. Not Started,Stephanie Chin
 5,Main,5.5,"Copies of the following certifications/audit results/attestations or similar:
  (i) PCI DSS
  (ii) ISO 27001
@@ -261,14 +261,14 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iv) External pen test/vulnerability scan results
  (v) Data security policies and procedures
   
- If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,1. Not Started,
+ If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,1. Not Started,Brandon Kim
 5,Main,5.6,"With what contractual and/or regulatory data security standards is the Company required to comply (e.g., NIST SP 800-171, NIST SP 800-53, DoD SRG, DISA STIG)?
   
- What audit or other steps does the Company take to ensure such compliance?",P0 — High,,1. Not Started,
+ What audit or other steps does the Company take to ensure such compliance?",P0 — High,,1. Not Started,Brandon Kim
 5,Main,5.7,"Has the Company experienced any actual, alleged, or suspected data breach, cybersecurity incident, or other unauthorized intrusion into its IT systems during the past ten years?
   
- Has the Company experienced any material, repeated, or persistent interruptions of its IT systems or products during the past ten years?",P0 — High,,1. Not Started,
-5,Main,5.8,Does the Company have any FedRAMP certified systems?,P0 — High,,1. Not Started,
+ Has the Company experienced any material, repeated, or persistent interruptions of its IT systems or products during the past ten years?",P0 — High,,1. Not Started,Thibault Candebat
+5,Main,5.8,Does the Company have any FedRAMP certified systems?,P0 — High,,1. Not Started,Thibault Candebat
 6,Main,6.1,"Provide architectural diagrams of Fin, Helpdesk, Copilot, Outbound, underlying agent platform, data platform, newer agents (sales, commerce, customer success) and other application, AI (model pipeline, RAG, 3P model access infra), and platform services; per-diagram, indicate which components are shared services vs. product-specific, and which are self-built vs. vendor-sourced",P00 — Critical (cross-functional priority),,1. Not Started,
 6,Main,6.2,"Feature parity matrix - Fin feature comparison with 3P helpdesk (e.g., Zendesk, Salesforce Service Cloud, ServiceNow, Freshworks) vs. Fin on Helpdesk; integration depth and architecture by 3P helpdesk - read path, write path, data sync, event types",P0 — High,,1. Not Started,
 6,Main,6.3,"Fin win/loss rate data vs. Sierra, Decagon, Hubspot, Zendesk",P1 — Standard,,1. Not Started,
@@ -456,7 +456,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 12,Main,12.9,Copies of most recent AR & AP agings,P0 — High,,1. Not Started,Anne Pierce
 12,Main,12.10,List of all active vendors by expense/payment amount for the last two fiscal years along with description of services for each vendor. Please provide monthly history for top vendors ie AWS,P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.11,List of any significant audit deficiencies for the past two years (if public),P1 — Standard,,1. Not Started,Anne Pierce
-12,Main,12.12,"Schedule of unbilled backlog, if available",P0 — High,,1. Not Started,Nikolay Trenin
+12,Main,12.12,"Schedule of unbilled backlog, if available",P0 — High,,Blocked,Nikolay Trenin
 12,Main,12.13,"Current price list of all product SKUs, denoting active vs. inactive SKUs, and services Rate Cards if applicable",P1 — Standard,,1. Not Started,Nikolay Trenin
 12,Main,12.14,"Provide calculations of employee fringe rates (%) - benefits (e.g. insurance, PTO) and payroll taxes divided by total compensation (base pay, bonus, commission)",P0 — High,,1. Not Started,Tommy Bettles
 12,Main,12.15,Historical write-offs and provisions for unbilled receivables (contract assets) and accounts receivable by contract number and customer for the last 3 years,P1 — Standard,,1. Not Started,Nikolay Trenin
