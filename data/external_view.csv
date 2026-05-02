@@ -156,15 +156,15 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (viii) any internal investigations conducted by the Company to determine whether the Company or its personnel made a false statement to the government or otherwise engaged in improper conduct in connection with the performance of a contract;
  (ix) any instance in which the government has threatened or initiated debarment or suspension proceedings against the Company or any company personnel;
  (x) any known real or perceived organizational conflicts of interest (“OCIs”), potential OCI restrictions, or OCI mitigation plans currently in place; and
- (xi) trade-related audits, inquiries, investigations, requests for guidance, disclosures, notifications, or submissions, whether by or to customs, export controls, sanctions, or antiboycott officials or related agencies, in any country or region.",P0 — High,,1. Not Started,Stephanie Chin
+ (xi) trade-related audits, inquiries, investigations, requests for guidance, disclosures, notifications, or submissions, whether by or to customs, export controls, sanctions, or antiboycott officials or related agencies, in any country or region.",P0 — High,,2. In Progress,Stephanie Chin
 4,Main,4.3,"Describe any pending or threatened internal, governmental or other third-party (including inspector general, FBI, grand jury, Congress or the GAO) investigations or inquiries, and any remedial or enforcement actions with respect thereto, in the past five years.
   
  (i) Have any allegations of corruption ever been made against the Company or any officer, director, employee, counterparty, or third party, including partners and resellers, if applicable, acting on behalf of Company by any person or entity? If yes, please explain and attach the results.
  (ii) Does the Company have any past or pending criminal convictions, suspensions, debarments, proposed debarments, or other disqualifications related to conducting business with the U.S. government or any other foreign governments? If yes, please explain.
  (iii) Are there any reasons to believe that any of the Company’s contracts have been obtained or retained through improper payments?
  (iv) Are there reasons to believe that any of the Company’s employees or third parties offered, made, gave, authorized the giving of any improper payment to customers or government officials or facilitated such acts?
- (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,1. Not Started,Stephanie Chin
-4,Main,4.4,"Provide summaries of any pending or threatened litigation, proceeding (including arbitration) or claim (including those that pertain to specific subject areas covered elsewhere – e.g., intellectual property, employee matters, government contracts/subcontracts and trade-related matters, and whether as the recipient/defendant or claimant/plaintiff) involving the Company or any of its officers, directors or employees, in the past five years.",P00 — Critical (cross-functional priority),Required,1. Not Started,Stephanie Chin
+ (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,2. In Progress,Stephanie Chin
+4,Main,4.4,"Provide summaries of any pending or threatened litigation, proceeding (including arbitration) or claim (including those that pertain to specific subject areas covered elsewhere – e.g., intellectual property, employee matters, government contracts/subcontracts and trade-related matters, and whether as the recipient/defendant or claimant/plaintiff) involving the Company or any of its officers, directors or employees, in the past five years.",P00 — Critical (cross-functional priority),Required,2. In Progress,Stephanie Chin
 4,Main,4.5,Provide copies of litigation letters relating to the Company from outside legal counsel to independent auditors in the past five years.,P1 — Standard,,1. Not Started,Anne Pierce
 4,Main,4.6,"Describe any closed, pending or threatened internal, governmental or other third-party investigation or inquiries with a summary of any remedial or enforcement actions (including related to IP, privacy and data security practices and employment). Provide copies of any related consent or other decrees, judgments, orders, releases, settlement agreements or other similar agreements. 
   
@@ -173,7 +173,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (ii) Does the Company have any past or pending criminal convictions, suspensions, debarments, proposed debarments, or other disqualifications related to conducting business with the U.S. government or any other foreign governments? If yes, please explain.
  (iii) Are there any reasons to believe that any of the Company’s contracts have been obtained or retained through improper payments?
  (iv) Are there reasons to believe that any of the Company’s employees or third parties offered, made, gave, authorized the giving of any improper payment to customers or government officials or facilitated such acts?
- (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,1. Not Started,Stephanie Chin
+ (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,2. In Progress,Stephanie Chin
 4,Main,4.7,"Provide a copy of:
  (i) the Company’s code of conduct and other ethics and compliance policies and all compliance programs and controls (e.g., conflict of interest, whistleblower reporting, gifts & entertainment).
  (ii) any anti-corruption compliance policy, manual, or training materials used by the Company.
@@ -236,7 +236,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iii) how long such data is retained and how it is destroyed;
  (iv) who has access to such data and how access is controlled;
  (v) the third parties with whom such data is shared and the purpose of the sharing; and
- (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,1. Not Started,Stephanie Chin
+ (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,2. In Progress,Stephanie Chin
 5,Main,5.2,"Provide (i) copies of all agreements with customers, affiliates, service providers, or other third parties relating to the processing or transfer (including cross-border transfer) of data; and (ii) a list of all affiliated or third-party entities that collect or otherwise process data on behalf of the Company.",P0 — High,,1. Not Started,Brandon Kim
 5,Main,5.3,"Provide copies of all current and historical:
  (i) Privacy notices or policies;
@@ -248,12 +248,12 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (viii) Vendor security questionnaires/audit procedures;
  (ix) Cross-border transfer mechanism certifications or documentation;
  (x) Registrations and approvals from any data protection authorities or regulators; and
- (xi) Data retention schedules.",P0 — High,,1. Not Started,Stephanie Chin
+ (xi) Data retention schedules.",P0 — High,,2. In Progress,Stephanie Chin
 5,Main,5.4,"Provide copies of all current and historical data subject request intake and response procedures, including with respect to personal data used to train the Intelligent Products or otherwise used by the Company’s products.
   
  Indicate whether the Company’s products provide customers with controls to respond to such requests and, if so, describe the controls.
   
- Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,1. Not Started,Stephanie Chin
+ Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,2. In Progress,Stephanie Chin
 5,Main,5.5,"Copies of the following certifications/audit results/attestations or similar:
  (i) PCI DSS
  (ii) ISO 27001
@@ -384,9 +384,9 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 9,Main,9.18,"Renewals manager coverage ratios (clarify who owns renewals (RM, AE, CSM, other?))",P1 — Standard,,1. Not Started,Barry Wallace
 10,Employee,10.1,"A list of employees including hire date, position title, manager name, department name, work location, status (part time/full time/fixed term), compensation, overtime eligibility, employing legal entity, and details of any employees currently on leave. Compensation details should include salary, bonus, commission and deferred salary pursuant to any plans, and any other forms of compensation (such as car allowances, forgiveness of loans and other perquisites) paid to each of the Company’s employees in the last full fiscal year and to be paid in the current fiscal year. See the Employee Census & Contractor templates. Please download the templates and upload completed versions to the Employee folder of data room (do not complete the template in this shared file)",P00 — Critical (cross-functional priority),,1. Not Started,Alex Murtagh
 10,Employee,10.2,Please provide the Hiring Plan for next 2 years. See attached Hiring Plan template,P00 — Critical (cross-functional priority),,1. Not Started,Tommy Bettles
-10,Employee,10.3,"Description of any significant employment and labor problems the Company has experienced, including but not limited to litigation, agency charges, agency audits or investigations, and internal employee relations matters.",P0 — High,,1. Not Started,Stephanie Chin
+10,Employee,10.3,"Description of any significant employment and labor problems the Company has experienced, including but not limited to litigation, agency charges, agency audits or investigations, and internal employee relations matters.",P0 — High,,2. In Progress,Stephanie Chin
 10,Employee,10.4,Provide a Management and Organization chart.,P00 — Critical (cross-functional priority),Required,1. Not Started,Alex Murtagh
-10,Employee,10.5,"Description of any material transactions since inception with any “insider” (i.e., any officer, director, or owner of a substantial amount of the Company’s securities) or any associate of an “insider.”",P0 — High,,1. Not Started,Stephanie Chin
+10,Employee,10.5,"Description of any material transactions since inception with any “insider” (i.e., any officer, director, or owner of a substantial amount of the Company’s securities) or any associate of an “insider.”",P0 — High,,2. In Progress,Stephanie Chin
 10,Employee,10.6,"Executed versions and copies of the Company’s forms of proprietary rights agreements for employees, contractors, and consultants, including but not limited to agreements relating to intellectual property and trade secrets, confidentiality or nondisclosure, non-competition and assignment of inventions. List of all current and former employees, contractors and consultants who have not executed proprietary rights agreements.",P0 — High,,1. Not Started,Alex Murtagh
 10,Employee,10.7,Copy of all templates offer letters and employment agreements (U.S.and international). Copy of signed employment offer letters and agreements for all officers/key employees and all employees residing outside of the United States.,P0 — High,,1. Not Started,Alex Murtagh
 10,Employee,10.8,"Employee position descriptions, resumes/CVs, years of service with the company, grade.",P1 — Standard,,1. Not Started,Rachel Lanman
@@ -408,7 +408,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.23,"Description of outside business activities for each applicable employee, e.g. consulting, advisory or similar work with other companies, board seats on other companies, etc.",P1 — Standard,,1. Not Started,Stephanie Chin
 10,Employee,10.24,"Historical attrition data for past 3 years; indicating voluntary versus involuntary attrition, with reason codes if tracked. If reason codes are not available, please share the top 3 causes of attrition and any recent trends, including regrettable and non-regrettable",P0 — High,,2. In Progress,Lauren Cullen
 10,Employee,10.25,"Temporary agency, independent contractor or vendor agreements. List of all temporary agency personnel, independent contractors or consultants from the prior three years, including name, dates of service, average weekly hours, location, and function or title.",P1 — Standard,,1. Not Started,Anne Pierce
-10,Employee,10.26,"All documents relating to pending or concluded unfair labor practice charges, demands for union recognition, employee arbitrations and employee grievances or any claims under any benefits plans for which the Company may have liability. A statement describing any labor dispute, work stoppage, work slowdown, strike, lockout or other labor disruption threatened or occurring during the past five years.",P0 — High,,1. Not Started,Stephanie Chin
+10,Employee,10.26,"All documents relating to pending or concluded unfair labor practice charges, demands for union recognition, employee arbitrations and employee grievances or any claims under any benefits plans for which the Company may have liability. A statement describing any labor dispute, work stoppage, work slowdown, strike, lockout or other labor disruption threatened or occurring during the past five years.",P0 — High,,2. In Progress,Stephanie Chin
 11,Employee,11.1,"Summary of standard employee benefits (vacation, sick leave, sabbatical, medical insurance, life and disability insurance, etc.)",P0 — High,,1. Not Started,Erika Brogger
 11,Employee,11.2,"Details of pension plans and similar arrangements, including retirement indemnities, executive pension arrangements, jubilee payments and compulsory and profit sharing arrangements
  (i) summary of plans provided, including copies of summary plan descriptions;
