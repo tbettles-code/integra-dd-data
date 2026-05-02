@@ -8,7 +8,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
 1,Capital Structure,1.3,"Provide a capitalization table of the Company showing: 
  (i) All authorized and outstanding equity (including SAFEs), including (a) name, (b) address, (c) amount of equity held, (d) class/series of equity, (e) date of issuance, (f) consideration received and (g) certificate number (if certificated). Indicate whether any outstanding equity is subject to repurchase rights. 
  (ii) For all outstanding equity awards or other rights to acquire equity (including restricted stock, options, RSUs, phantom stock, convertible debt and warrants), including (a) name, (b) address, (c) amounts issued or granted, (d) date of grant or issuance, (e) grant type (ISO or NSO), (e) exercise or conversion price, (f) expiration dates, (g) vesting schedule (including vested and unvested as of current date), (h) vesting commencement date, (i) plan under which such issuance or grant occurred, (j) holder’s relationship to Company, (k) tax ID or tax status, (l) whether such equity provides for single or double trigger accelerations, and (m) any other relevant terms of such awards or rights. Note: Indicate whether restricted stock is by virtue of early exercise of options or grant of restricted stock and provide copies of any Section 83(b) elections that have been made.
- (iii) A summary of all equity awards or other rights to acquire equity, including those that have been authorized but not issued, canceled, exercised or repurchased.",P00 — Critical (cross-functional priority),,1. Not Started,Brandon Kim
+ (iii) A summary of all equity awards or other rights to acquire equity, including those that have been authorized but not issued, canceled, exercised or repurchased.",P00 — Critical (cross-functional priority),,2. In Progress,Brandon Kim
 1,Capital Structure,1.4,"Documents relating to ownership and control of the Company and its equity, including without limitation: 
  (i) agreements that include stockholder rights, voting trusts, registration rights, rights of first refusal, voting agreements, transfer restrictions, put/call agreements, and equity purchase rights;
  (ii) stock purchase agreements; 
@@ -17,20 +17,20 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (v) promises of ungranted equity awards (e.g. set forth in offer letters);
  (vi) stock redemption agreements;
  (vii) agreements effectuating any secondary transfers of stock; and
- (viii) convertible debt or similar instruments.",P00 — Critical (cross-functional priority),,1. Not Started,Brandon Kim
+ (viii) convertible debt or similar instruments.",P00 — Critical (cross-functional priority),,2. In Progress,Brandon Kim
 1,Capital Structure,1.5,"Provide copies of minutes and resolutions of the board of directors and stockholders for 
  (i) the last five years, 
  (ii) approving the current director and officer slate, and 
- (iii) approving all equity issuances.",P0 — High,,1. Not Started,Brandon Kim
-1,Capital Structure,1.6,"Provide documentation for all indebtedness (including loan and debt agreements, capital leases and lines of credit) and any other debt, equity or other financing, including sources and uses for each.",P00 — Critical (cross-functional priority),Required,1. Not Started,Brandon Kim
-1,Capital Structure,1.7,Provide documentation granting a security interest in assets (including IP) or securities of the Company.,P0 — High,,1. Not Started,Brandon Kim
+ (iii) approving all equity issuances.",P0 — High,,2. In Progress,Brandon Kim
+1,Capital Structure,1.6,"Provide documentation for all indebtedness (including loan and debt agreements, capital leases and lines of credit) and any other debt, equity or other financing, including sources and uses for each.",P00 — Critical (cross-functional priority),Required,2. In Progress,Brandon Kim
+1,Capital Structure,1.7,Provide documentation granting a security interest in assets (including IP) or securities of the Company.,P0 — High,,2. In Progress,Brandon Kim
 1,Capital Structure,1.8,"Provide a list of all states and foreign countries where the Company 
  (i) owns or leases real property or substantial personal property, 
  (ii) has employees, 
  (iii) has operations (including servers), 
  (iv) is required to hold permits, or 
  (iv) is registered / qualified to do business. 
- For each location, indicate the principal business activity.",P0 — High,,1. Not Started,Brandon Kim
+ For each location, indicate the principal business activity.",P0 — High,,2. In Progress,Brandon Kim
 1,Capital Structure,1.9,"Provide copies of all Beneficial Ownership Information Reports (BOIRs) filed with the US Department of Treasury’s Financial Crimes Enforcement Network (FinCEN), if applicable.",P0 — High,,1. Not Started,Anne Pierce
 2,Main,2.1,"Provide copies of standard forms / templates used in negotiations with customers, partners (OEM, VAR, ISV, reseller, referral, etc.), vendors or suppliers.",P0 — High,,1. Not Started,Michele Matsubara
 2,Main,2.2,"Provide copies of all written (and a description of all oral) agreements relating to the Company, its business and/or its assets, including any:
