@@ -279,14 +279,14 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 6,Main,6.8,Data schemas & size of data under management,P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.9,"Infrastructure diagrams – Cloud regions / data centers, logical diagrams, # of virtual / physical devices",P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.10,"Please provide Fin pricing and realization data: Fin list price history — every list price change since launch, with effective dates; Discount distribution — % of Fin customers (by conversation volume, industry, other customer segmentation types) on list price vs. discounted, and discount quartiles",P0 — High,,1. Not Started,Barry Wallace
-6,Main,6.11,"Results from the most recent performance testing for Helpdesk, Fin",P0 — High,,1. Not Started,
+6,Main,6.11,"Results from the most recent performance testing for Helpdesk, Fin",P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.12,Customer Data Flow Diagram,P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.13,Inventory of Customer Data,P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.14,"List of technical debt and sizing estimates. Examples: Manual processes performed, legacy systems, deferred software upgrades",P0 — High,,1. Not Started,Darragh Curran
 6,Main,6.15,"Inventory of R&D tools used in SDLC: work/bug mgmt, code repo, artifact repo(s), build systems, quality, security, OSS, logging & monitoring, etc",P0 — High,,1. Not Started,Darragh Curran
 6,Main,6.16,Link to document repository/help site and access if behind a login,P0 — High,,1. Not Started,Des Traynor
 6,Main,6.17,"Trust & Compliance Documentation - List of subprocessors, data processing agreements, and service legal agreements",P0 — High,,1. Not Started,Thibault Candebat
-6,Main,6.18,Please fill out the Third Party Package (3PP) Discovery Template tab,P0 — High,,1. Not Started,
+6,Main,6.18,Please fill out the Third Party Package (3PP) Discovery Template tab,P0 — High,,1. Not Started,Thibault Candebat
 6,Main,6.19,Flow chart of end-to-end provisioning process (incl systems),P1 — Standard,,1. Not Started,Thibault Candebat
 6,Main,6.20,List of Commercially available and supported source code versions,P1 — Standard,,1. Not Started,Brian Scanlan
 6,Main,6.21,"Policy/process documentation - change management, incident management, data storage, failover processes, etc",P1 — Standard,,1. Not Started,Brian Scanlan
