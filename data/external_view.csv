@@ -31,7 +31,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (iv) is required to hold permits, or 
  (iv) is registered / qualified to do business. 
  For each location, indicate the principal business activity.",P0 — High,,2. In Progress,Brandon Kim
-1,Capital Structure,1.9,"Provide copies of all Beneficial Ownership Information Reports (BOIRs) filed with the US Department of Treasury’s Financial Crimes Enforcement Network (FinCEN), if applicable.",P0 — High,,No Action Required,Anne Pierce
+1,Capital Structure,1.9,"Provide copies of all Beneficial Ownership Information Reports (BOIRs) filed with the US Department of Treasury’s Financial Crimes Enforcement Network (FinCEN), if applicable.",P0 — High,,6. In Dfin; Ready for MS,Anne Pierce
 2,Main,2.1,"Provide copies of standard forms / templates used in negotiations with customers, partners (OEM, VAR, ISV, reseller, referral, etc.), vendors or suppliers.",P0 — High,,2. In Progress,Michele Matsubara
 2,Main,2.2,"Provide copies of all written (and a description of all oral) agreements relating to the Company, its business and/or its assets, including any:
  (i) agreements, understandings or proposed transactions with top 25 customers, suppliers, consultants and vendors, as applicable;
@@ -284,7 +284,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 6,Main,6.13,Inventory of Customer Data,P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.14,"List of technical debt and sizing estimates. Examples: Manual processes performed, legacy systems, deferred software upgrades",P0 — High,,1. Not Started,Darragh Curran
 6,Main,6.15,"Inventory of R&D tools used in SDLC: work/bug mgmt, code repo, artifact repo(s), build systems, quality, security, OSS, logging & monitoring, etc",P0 — High,,1. Not Started,Darragh Curran
-6,Main,6.16,Link to document repository/help site and access if behind a login,P0 — High,,3. Ready for Legal & Fin Review,Des Traynor
+6,Main,6.16,Link to document repository/help site and access if behind a login,P0 — High,,5. In Dfin; Ready for Cooley,Des Traynor
 6,Main,6.17,"Trust & Compliance Documentation - List of subprocessors, data processing agreements, and service legal agreements",P0 — High,,1. Not Started,Thibault Candebat
 6,Main,6.18,Please fill out the Third Party Package (3PP) Discovery Template tab,P0 — High,,1. Not Started,Thibault Candebat
 6,Main,6.19,Flow chart of end-to-end provisioning process (incl systems),P1 — Standard,,1. Not Started,Thibault Candebat
@@ -391,11 +391,11 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.7,Copy of all templates offer letters and employment agreements (U.S.and international). Copy of signed employment offer letters and agreements for all officers/key employees and all employees residing outside of the United States.,P0 — High,,2. In Progress,Alex Murtagh
 10,Employee,10.8,"Employee position descriptions, resumes/CVs, years of service with the company, grade.",P1 — Standard,,1. Not Started,Rachel Lanman
 10,Employee,10.9,History of salary increases since hire (or at least the past 24 months).,P1 — Standard,,2. In Progress,Lauren Cullen
-10,Employee,10.10,"Copy of all collective bargaining arrangements, including details of coverage (if any).",P0 — High,,No Action Required,Stephanie Chin
+10,Employee,10.10,"Copy of all collective bargaining arrangements, including details of coverage (if any).",P0 — High,,6. In Dfin; Ready for MS,Stephanie Chin
 10,Employee,10.11,"List of existing expatriates, one way international transfers, and anyone who needs or has work authorization to work for the target company.",P0 — High,,2. In Progress,Salem Barakat
 10,Employee,10.12,Copy of all commission and bonus plans for the previous and current fiscal years.,P0 — High,,2. In Progress,Lauren Cullen
 10,Employee,10.13,"Description of compensation paid or to be paid to agents, consultants, partners or other non-employees for the previous and current fiscal years.",P0 — High,,1. Not Started,Anne Pierce
-10,Employee,10.14,"Founders Agreements and “golden parachute” and other change of control or severance plans or agreements, if any.",P0 — High,,4. Ready for DG Review,Lauren Cullen
+10,Employee,10.14,"Founders Agreements and “golden parachute” and other change of control or severance plans or agreements, if any.",P0 — High,,5. In Dfin; Ready for Cooley,Lauren Cullen
 10,Employee,10.15,Summary of worker’s compensation claims made.,P0 — High,,1. Not Started,Stephanie Chin
 10,Employee,10.16,"Employment policies, manuals and handbooks.",P1 — Standard,,2. In Progress,Alex Murtagh
 10,Employee,10.17,"Provide or describe any policies (whether formal or informal) related to soliciting or hiring employees from customers, suppliers, or partners",P0 — High,,1. Not Started,Stephanie Chin
@@ -455,7 +455,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 12,Main,12.8,Copies of revenue recognition policies for all revenue streams with reference to applicable accounting guidelines (if available),P0 — High,,1. Not Started,Nikolay Trenin
 12,Main,12.9,Copies of most recent AR & AP agings,P0 — High,,2. In Progress,Anne Pierce
 12,Main,12.10,List of all active vendors by expense/payment amount for the last two fiscal years along with description of services for each vendor. Please provide monthly history for top vendors ie AWS,P1 — Standard,,1. Not Started,Anne Pierce
-12,Main,12.11,List of any significant audit deficiencies for the past two years (if public),P1 — Standard,,No Action Required,Anne Pierce
+12,Main,12.11,List of any significant audit deficiencies for the past two years (if public),P1 — Standard,,6. In Dfin; Ready for MS,Anne Pierce
 12,Main,12.12,"Schedule of unbilled backlog, if available",P0 — High,,Blocked,Nikolay Trenin
 12,Main,12.13,"Current price list of all product SKUs, denoting active vs. inactive SKUs, and services Rate Cards if applicable",P1 — Standard,,1. Not Started,Nikolay Trenin
 12,Main,12.14,"Provide calculations of employee fringe rates (%) - benefits (e.g. insurance, PTO) and payroll taxes divided by total compensation (base pay, bonus, commission)",P0 — High,,1. Not Started,Tommy Bettles
@@ -485,7 +485,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 13,Main,13.12,"A listing of, and information regarding, all states in which the Company makes state and local tax filings (income, franchise, sales and use, payroll, property and all other types).",P1 — Standard,,1. Not Started,One Jae Paik
 13,Main,13.13,"Any documentation supporting the intercompany pricing of services, goods, or other transactions between the Company and it US and non-US affiliates (Section 6662(e) transfer pricing support). Please include all intercompany agreements between the US and Ireland entities that cover activities in the past three tax years.",P0 — High,,2. In Progress,One Jae Paik
 13,Main,13.14,Copies of all Section 409A studies commissioned by the Company for purposes of determining the exercise price of stock options granted to employees,P1 — Standard,,7. Shared with Diamond,Christie Johnson
-13,Main,13.15,"A narrative description of the Company’s overall global operating model from a tax perspective (e.g., intellectual property ownership, cost-sharing, principal/reseller structure, etc.), including cross-border/intercompany arrangements. Please describe the function of each entity, the purpose for its creation (to the extent different from its current function) and any restructuring previously undertaken since inception (NOT limited to the immediately preceding three-year period) that resulted in the current structure -- with particular attention to the three interposed entities between Ireland UC (Ireland) and Ireland, Inc. (US).",P00 — Critical (cross-functional priority),Required,3. Ready for Legal & Fin Review,One Jae Paik
+13,Main,13.15,"A narrative description of the Company’s overall global operating model from a tax perspective (e.g., intellectual property ownership, cost-sharing, principal/reseller structure, etc.), including cross-border/intercompany arrangements. Please describe the function of each entity, the purpose for its creation (to the extent different from its current function) and any restructuring previously undertaken since inception (NOT limited to the immediately preceding three-year period) that resulted in the current structure -- with particular attention to the three interposed entities between Ireland UC (Ireland) and Ireland, Inc. (US).",P00 — Critical (cross-functional priority),Required,4. Ready for DG Review,One Jae Paik
 14,Main,14.1,"Please provide an inventory of the type/model of all your client endpoints: laptops, desktops, mobile (please see ""IT Asset List Template"" tab).",P0 — High,,1. Not Started,Thibault Candebat
 14,Main,14.2,"What applications are used to run core business functions (Sales, Marketing, Services/Support, HR, Financials). Are your applications SaaS, on-prem, hybrid? Provide a vendor list of software used (please see ""Software Inventory Template"" tab).",P1 — Standard,,1. Not Started,Thibault Candebat
 14,Main,14.3,"Describe any cloud environments (i.e AWS, Azure, GCP) that are used for your corp environment. Describe the purpose of use and the method of access and authentication (i.e. direct connect, VPN, bastion hosts, SSO, direct system authentication, etc.).",P0 — High,,1. Not Started,Thibault Candebat
