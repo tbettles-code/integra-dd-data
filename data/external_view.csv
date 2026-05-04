@@ -284,7 +284,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 6,Main,6.13,Inventory of Customer Data,P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.14,"List of technical debt and sizing estimates. Examples: Manual processes performed, legacy systems, deferred software upgrades",P0 — High,,1. Not Started,Darragh Curran
 6,Main,6.15,"Inventory of R&D tools used in SDLC: work/bug mgmt, code repo, artifact repo(s), build systems, quality, security, OSS, logging & monitoring, etc",P0 — High,,1. Not Started,Darragh Curran
-6,Main,6.16,Link to document repository/help site and access if behind a login,P0 — High,,1. Not Started,Des Traynor
+6,Main,6.16,Link to document repository/help site and access if behind a login,P0 — High,,3. Ready for Legal & Fin Review,Des Traynor
 6,Main,6.17,"Trust & Compliance Documentation - List of subprocessors, data processing agreements, and service legal agreements",P0 — High,,1. Not Started,Thibault Candebat
 6,Main,6.18,Please fill out the Third Party Package (3PP) Discovery Template tab,P0 — High,,1. Not Started,Thibault Candebat
 6,Main,6.19,Flow chart of end-to-end provisioning process (incl systems),P1 — Standard,,1. Not Started,Thibault Candebat
