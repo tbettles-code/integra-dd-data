@@ -1,10 +1,10 @@
 Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
-1,Capital Structure,1.1,"Provide current organizational documents of the Company (including subsidiaries, affiliates and joint ventures) (the “Company”).",P00 — Critical (cross-functional priority),Required,2. In Progress,Brandon Kim
+1,Capital Structure,1.1,"Provide current organizational documents of the Company (including subsidiaries, affiliates and joint ventures) (the “Company”).",P00 — Critical (cross-functional priority),Required,5. In Dfin; Ready for Cooley,Brandon Kim
 1,Capital Structure,1.2,"Provide an organizational chart of the Company setting forth: 
  (i) ownership interests, 
  (ii) jurisdictions of formation and physical locations, 
  (iii) classification for U.S. federal income tax purposes and 
- (iv) current directors and officers.",P00 — Critical (cross-functional priority),,2. In Progress,Brandon Kim
+ (iv) current directors and officers.",P00 — Critical (cross-functional priority),,5. In Dfin; Ready for Cooley,Brandon Kim
 1,Capital Structure,1.3,"Provide a capitalization table of the Company showing: 
  (i) All authorized and outstanding equity (including SAFEs), including (a) name, (b) address, (c) amount of equity held, (d) class/series of equity, (e) date of issuance, (f) consideration received and (g) certificate number (if certificated). Indicate whether any outstanding equity is subject to repurchase rights. 
  (ii) For all outstanding equity awards or other rights to acquire equity (including restricted stock, options, RSUs, phantom stock, convertible debt and warrants), including (a) name, (b) address, (c) amounts issued or granted, (d) date of grant or issuance, (e) grant type (ISO or NSO), (e) exercise or conversion price, (f) expiration dates, (g) vesting schedule (including vested and unvested as of current date), (h) vesting commencement date, (i) plan under which such issuance or grant occurred, (j) holder’s relationship to Company, (k) tax ID or tax status, (l) whether such equity provides for single or double trigger accelerations, and (m) any other relevant terms of such awards or rights. Note: Indicate whether restricted stock is by virtue of early exercise of options or grant of restricted stock and provide copies of any Section 83(b) elections that have been made.
@@ -439,11 +439,11 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
  (iv) details of any share-based or incentive plan disclosures;
  (v) full details of grants received and current holdings for key employees;
  (vi) detail any share scheme entitlements;
- (vii) existing retention and incentive plans and payout schedules",P0 — High,,1. Not Started,Lauren Cullen
-11,Employee,11.6,"Plan documents (or written description) for any and all allowance plans or perquisites (car, phone, etc)",P0 — High,,1. Not Started,Lauren Cullen
+ (vii) existing retention and incentive plans and payout schedules",P0 — High,,1. Not Started,Niamh Fitzgerald
+11,Employee,11.6,"Plan documents (or written description) for any and all allowance plans or perquisites (car, phone, etc)",P0 — High,,1. Not Started,Niamh Fitzgerald
 11,Employee,11.7,"Calendar of compensation and benefits events: timing of ongoing payroll for various classes of employees, timing of performance reviews, salary increases, regular bonus payments, stock refreshes, company specific holidays or events.",P1 — Standard,,1. Not Started,Niamh Fitzgerald
 11,Employee,11.8,"Copies of all group health plan, retiree health plan, Section 125 Plan, 401(k) and other qualified pension and profit sharing plan documents, all amendments, summary plan descriptions, adoption agreements, trust agreements, administrative services agreements, group annuity contracts, resolutions, IRS opinion/determination letter, last five years nondiscrimination and compliance testing and last five years Form 5500.",P0 — High,,2. In Progress,Lauren Cullen
-11,Employee,11.9,"Copy of COBRA, HIPAA and Cancer Rights Act notices and notice procedures.",P1 — Standard,,1. Not Started,Niamh Fitzgerald
+11,Employee,11.9,"Copy of COBRA, HIPAA and Cancer Rights Act notices and notice procedures.",P1 — Standard,,3. Ready for Legal & Fin Review,Lauren Cullen
 11,Employee,11.10,Please provide the annual merit adjustment budget for your employees,P1 — Standard,,1. Not Started,Tommy Bettles
 12,Main,12.1,"Please share an updated version of the financial model previously shared, and include latest actuals for Q1 FY27 and plan, alongside any additional / relevant key metrics",P00 — Critical (cross-functional priority),,1. Not Started,Tommy Bettles
 12,Main,12.2,"Provide consolidated audited financial statements for the last 3 fiscal years, as available.",P00 — Critical (cross-functional priority),,7. Shared with Diamond,Anne Pierce
