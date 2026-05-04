@@ -229,7 +229,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 4,Main,4.20,"Does the Company have a process for approval of gifts, entertainment, travel, and other benefits provided to customers and government officials? If so, please describe.",P0 — High,,1. Not Started,Anne Pierce
 4,Main,4.21,"Does the Company have interactions, directly or indirectly, with non-U.S. government entities in connection with any licenses, permits, certifications (e.g., labor licenses, import/export licenses, etc.) that are needed to do business in other countries?",P0 — High,,1. Not Started,Anne Pierce
 4,Main,4.22,"Does the Company make non-U.S. charitable or political donations? If yes, describe.",P0 — High,,3. Ready for Legal & Fin Review,Anne Pierce
-4,Main,4.23,Does the Company provide its employees or third parties with petty cash/cash advances?,P0 — High,,2. In Progress,Anne Pierce
+4,Main,4.23,Does the Company provide its employees or third parties with petty cash/cash advances?,P0 — High,,3. Ready for Legal & Fin Review,Anne Pierce
 5,Main,5.1,"Provide a description of:
  (i) the source and type(s) of personal data (including any sensitive data) processed by the Company, including by each Company product or service (note that “sensitive data” includes, e.g., data relating to biometrics, genetics, race, ethnicity, political opinions, health);
  (ii) the purpose of the processing;
@@ -389,7 +389,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.5,"Description of any material transactions since inception with any “insider” (i.e., any officer, director, or owner of a substantial amount of the Company’s securities) or any associate of an “insider.”",P0 — High,,2. In Progress,Stephanie Chin
 10,Employee,10.6,"Executed versions and copies of the Company’s forms of proprietary rights agreements for employees, contractors, and consultants, including but not limited to agreements relating to intellectual property and trade secrets, confidentiality or nondisclosure, non-competition and assignment of inventions. List of all current and former employees, contractors and consultants who have not executed proprietary rights agreements.",P0 — High,,2. In Progress,Alex Murtagh
 10,Employee,10.7,Copy of all templates offer letters and employment agreements (U.S.and international). Copy of signed employment offer letters and agreements for all officers/key employees and all employees residing outside of the United States.,P0 — High,,2. In Progress,Alex Murtagh
-10,Employee,10.8,"Employee position descriptions, resumes/CVs, years of service with the company, grade.",P1 — Standard,,1. Not Started,Rachel Lanman
+10,Employee,10.8,"Employee position descriptions, resumes/CVs, years of service with the company, grade.",P1 — Standard,,2. In Progress,Rachel Lanman
 10,Employee,10.9,History of salary increases since hire (or at least the past 24 months).,P1 — Standard,,2. In Progress,Lauren Cullen
 10,Employee,10.10,"Copy of all collective bargaining arrangements, including details of coverage (if any).",P0 — High,,6. In Dfin; Ready for MS,Stephanie Chin
 10,Employee,10.11,"List of existing expatriates, one way international transfers, and anyone who needs or has work authorization to work for the target company.",P0 — High,,2. In Progress,Salem Barakat
