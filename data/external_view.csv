@@ -308,7 +308,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 7,Main,7.3,"Please provide a breakdown of the number of employees that are dedicated to a) Incident Response, b) Threat Intelligence, c) Log Management, d) General SOC and the location of those employees",P00 — Critical (cross-functional priority),Required,5. In Dfin; Ready for Cooley,Thibault Candebat
 7,Main,7.4,"Please complete the supplemental questions related to model usage in the ""Model Questionnaire"" tab",P00 — Critical (cross-functional priority),Required,1. Not Started,Fergal Reid
 8,Main,8.1,"Please provide a list of all customers based on template found in ""Customer Template"" tab",P00 — Critical (cross-functional priority),,2. In Progress,Tommy Bettles
-8,Main,8.2,"Provide all documentation relating to any agreement or arrangement with any DIAMOND director, officer or employee (e.g., advisory or consulting agreements).",P0 — High,,1. Not Started,Barry Wallace
+8,Main,8.2,"Provide all documentation relating to any agreement or arrangement with any DIAMOND director, officer or employee (e.g., advisory or consulting agreements).",P0 — High,,1. Not Started,Michele Matsubara
 8,Main,8.3,Provide the current ARR by product,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.4,Please provide ARR from New Customers and count of number of new customers for the past 3 years,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.5,"Provide an overview of the GTM model including routes to market, growth/sales strategy, organizational structure and sales process.",P0 — High,,1. Not Started,Barry Wallace
@@ -466,7 +466,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 12,Main,12.19,"Future sublease rental income schedule, by lease by month, in local currency and USD (if applicable)",P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.20,"Are you aware of actual litigation, any expressed intention to commence litigation or the threat of litigation against Ernst & Young (Diamond's audit firm) that may be brought by the Company, its officers or directors?",P1 — Standard,,7. Shared with Diamond,Anne Pierce
 12,Main,12.21,Does the Company have any business or lending relationships with Ernst & Young (Diamond's audit firm) or any Ernst & Young affiliates?,P1 — Standard,,7. Shared with Diamond,Anne Pierce
-12,Main,12.22,Please provide most current deferred commissions amortization schedule / waterfall,P0 — High,,1. Not Started,Nikolay Trenin
+12,Main,12.22,Please provide most current deferred commissions amortization schedule / waterfall,P0 — High,,2. In Progress,Nikolay Trenin
 12,Main,12.23,Please provide historical & forecasted cost to serve (COGS) broken out by product.,P0 — High,,1. Not Started,Tommy Bettles
 12,Main,12.24,Provide detail of what costs are being capitalized as software development costs and associated amortization schedules for those capitalized costs,P0 — High,,2. In Progress,Anne Pierce
 12,Main,12.25,"Provide management rep letters, required audit communications, and summary of adjusted and unadjusted differences for recently completed audits.",P0 — High,,1. Not Started,Anne Pierce
