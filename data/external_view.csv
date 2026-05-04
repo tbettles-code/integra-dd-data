@@ -52,7 +52,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
 2,Main,2.4,"Provide copies of all written (and a description of all oral) agreements that restrict the Company or any affiliate in any respect related to employee solicitation or hiring, whether or not expired. NOTE: if standard form customer, supplier, or partner agreements already provided include such restrictions – please indicate as such and note any deviations from the form.",P00 — Critical (cross-functional priority),Required,2. In Progress,Michele Matsubara
 2,Main,2.5,"Provide a list of agreements where THE COMPANY has been appointed a partner, OEM, VAR, reseller or distributor, showing all associated spend or revenue during the last two fiscal years and the current fiscal year.",P0 — High,,1. Not Started,Michele Matsubara
 2,Main,2.6,"Provide a list of agreements where the Company has appointed ANOTHER PARTY as partner, OEM, VAR, reseller or distributor, showing revenues during the last two fiscal years and the current fiscal year.",P0 — High,,1. Not Started,Michele Matsubara
-2,Main,2.7,"Provide all documentation relating to any agreement or arrangement with any Salesforce director, officer or employee (e.g., advisory or consulting agreements).",P0 — High,,1. Not Started,Anne Pierce
+2,Main,2.7,"Provide all documentation relating to any agreement or arrangement with any DIAMOND director, officer or employee (e.g., advisory or consulting agreements).",P0 — High,,1. Not Started,Anne Pierce
 3,Main,3.1,"Provide a list of all worldwide 
  (i) patents, 
  (ii) registered and unregistered trademarks, service marks, trade dress and trade names, 
@@ -308,7 +308,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 7,Main,7.3,"Please provide a breakdown of the number of employees that are dedicated to a) Incident Response, b) Threat Intelligence, c) Log Management, d) General SOC and the location of those employees",P00 — Critical (cross-functional priority),Required,5. In Dfin; Ready for Cooley,Thibault Candebat
 7,Main,7.4,"Please complete the supplemental questions related to model usage in the ""Model Questionnaire"" tab",P00 — Critical (cross-functional priority),Required,1. Not Started,Fergal Reid
 8,Main,8.1,"Please provide a list of all customers based on template found in ""Customer Template"" tab",P00 — Critical (cross-functional priority),,2. In Progress,Tommy Bettles
-8,Main,8.2,"Provide all documentation relating to any agreement or arrangement with any DIAMOND director, officer or employee (e.g., advisory or consulting agreements).",P0 — High,,1. Not Started,Michele Matsubara
+8,Main,8.2,"Provide all documentation relating to any agreement or arrangement with any DIAMOND director, officer or employee (e.g., advisory or consulting agreements).",P0 — High,,No Action Required,Michele Matsubara
 8,Main,8.3,Provide the current ARR by product,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.4,Please provide ARR from New Customers and count of number of new customers for the past 3 years,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.5,"Provide an overview of the GTM model including routes to market, growth/sales strategy, organizational structure and sales process.",P0 — High,,1. Not Started,Barry Wallace
