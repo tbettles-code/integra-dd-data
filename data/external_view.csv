@@ -22,7 +22,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (i) the last five years, 
  (ii) approving the current director and officer slate, and 
  (iii) approving all equity issuances.",P0 — High,,2. In Progress,Brandon Kim
-1,Capital Structure,1.6,"Provide documentation for all indebtedness (including loan and debt agreements, capital leases and lines of credit) and any other debt, equity or other financing, including sources and uses for each.",P00 — Critical (cross-functional priority),Required,2. In Progress,Brandon Kim
+1,Capital Structure,1.6,"Provide documentation for all indebtedness (including loan and debt agreements, capital leases and lines of credit) and any other debt, equity or other financing, including sources and uses for each.",P00 — Critical (cross-functional priority),Required,4. Ready for DG Review,Brandon Kim
 1,Capital Structure,1.7,Provide documentation granting a security interest in assets (including IP) or securities of the Company.,P0 — High,,2. In Progress,Brandon Kim
 1,Capital Structure,1.8,"Provide a list of all states and foreign countries where the Company 
  (i) owns or leases real property or substantial personal property, 
@@ -75,7 +75,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
 3,Main,3.6,Provide a list of any employees or consultants engaged in the development of any material IP for the Company and indicating who has not signed proprietary information and invention agreements.,P0 — High,,1. Not Started,Michele Matsubara
 3,Main,3.7,"Provide any freedom-to-operate, and landscape IP searches performed by the Company or on behalf of the Company.",P0 — High,,1. Not Started,Michele Matsubara
 3,Main,3.8,"Provide any analyses, opinions or reviews of IP rights of third parties, including any formal or informal opinions involving the Company’s IP and with respect to infringement, misappropriation or violation of the IP rights of the Company.",P0 — High,,1. Not Started,Michele Matsubara
-3,Main,3.9,"Provide copies of any documentation related to the Company’s use of open or open source software, including a list of all open source components distributed as part of the Company’s products and services, or used by the Company to host, deliver, develop or distribute the Company’s products or services, and the applicable licenses.",P0 — High,,2. In Progress,Brian Scanlan
+3,Main,3.9,"Provide copies of any documentation related to the Company’s use of open or open source software, including a list of all open source components distributed as part of the Company’s products and services, or used by the Company to host, deliver, develop or distribute the Company’s products or services, and the applicable licenses.",P0 — High,,3. Ready for Legal & Fin Review,Brian Scanlan
 3,Main,3.10,"Provide a list of all open or open source projects that the Company has made public (e.g., GitHub and HuggingFace repositories) and a list of all open or open source projects to which the Company contributes.",P0 — High,,3. Ready for Legal & Fin Review,Brian Scanlan
 3,Main,3.11,Provide a list of any standards bodies or similar organizations to which the Company belongs related to the Company’s products or services and the Company’s policies regarding compliance with standard setting rules or contractual obligations.,P0 — High,,1. Not Started,Brian Scanlan
 3,Main,3.12,Provide a list of all social media account names or handles used by the Company.,P0 — High,,2. In Progress,Barry Wallace
@@ -369,7 +369,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 9,Main,9.3,"Last 8 quarters Services revenue backlog, book-to-bill ratio and warranty work (volume (#, person-days), value ($)) and Services attach rates",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.4,"Last 8 quarters Services deal count, average deal size, and duration",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.5,"Last 8 quarters Billable and Total utilization (by role if available), rate cards by role, rate realization and Services CSAT",P0 — High,,2. In Progress,Barry Wallace
-9,Main,9.6,Success coverage ratios and customer segmentation snapshot. Please highlight any Geo differences,P0 — High,,1. Not Started,Barry Wallace
+9,Main,9.6,Success coverage ratios and customer segmentation snapshot. Please highlight any Geo differences,P0 — High,,2. In Progress,Barry Wallace
 9,Main,9.7,"Last 8 quarters Success metrics (e.g., Log-in Rates, Usage, Adoption, Attrition, ARR Growth, CSAT/NPS)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.8,"Success programs snapshot (#, consumption, entitlements, monetization (if any), CSAT, NPS, other?)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.9,"Last 24 months Red Accounts (at risk account) metrics (e.g., Count, Outcomes, ARR at Risk)",P0 — High,,1. Not Started,Barry Wallace
