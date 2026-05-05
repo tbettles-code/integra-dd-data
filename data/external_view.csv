@@ -373,7 +373,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 9,Main,9.7,"Last 8 quarters Success metrics (e.g., Log-in Rates, Usage, Adoption, Attrition, ARR Growth, CSAT/NPS)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.8,"Success programs snapshot (#, consumption, entitlements, monetization (if any), CSAT, NPS, other?)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.9,"Last 24 months Red Accounts (at risk account) metrics (e.g., Count, Outcomes, ARR at Risk)",P0 — High,,1. Not Started,Barry Wallace
-9,Main,9.10,"Support operations reports for last 24 months (ticket/case volumes, average days to close, average days open, monthly backlog, severity levels, response times, etc.). Please complete the ""Support Capacity Template""",P00 — Critical (cross-functional priority),Required,3. Ready for Legal & Fin Review,Barry Wallace
+9,Main,9.10,"Support operations reports for last 24 months (ticket/case volumes, average days to close, average days open, monthly backlog, severity levels, response times, etc.). Please complete the ""Support Capacity Template""",P00 — Critical (cross-functional priority),Required,4. Ready for DG Review,Barry Wallace
 9,Main,9.11,"24 months Support metrics snapshot (Case volume (incl. severity), SLA compliance, escalation rates, deflection rates, average dates to close, backlog (aged 30/60/90/90+), Support CSAT)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.12,Economics of any premium support offerings,P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.13,"Provide any 3rd-party support provider (e.g., Cognizant) governing documents and operating reports (if applicable)",P1 — Standard,,1. Not Started,Barry Wallace
@@ -466,7 +466,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 12,Main,12.19,"Future sublease rental income schedule, by lease by month, in local currency and USD (if applicable)",P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.20,"Are you aware of actual litigation, any expressed intention to commence litigation or the threat of litigation against Ernst & Young (Diamond's audit firm) that may be brought by the Company, its officers or directors?",P1 — Standard,,7. Shared with Diamond,Anne Pierce
 12,Main,12.21,Does the Company have any business or lending relationships with Ernst & Young (Diamond's audit firm) or any Ernst & Young affiliates?,P1 — Standard,,7. Shared with Diamond,Anne Pierce
-12,Main,12.22,Please provide most current deferred commissions amortization schedule / waterfall,P0 — High,,3. Ready for Legal & Fin Review,Nikolay Trenin
+12,Main,12.22,Please provide most current deferred commissions amortization schedule / waterfall,P0 — High,,5. In Dfin; Ready for Cooley,Nikolay Trenin
 12,Main,12.23,Please provide historical & forecasted cost to serve (COGS) broken out by product.,P0 — High,,1. Not Started,Tommy Bettles
 12,Main,12.24,Provide detail of what costs are being capitalized as software development costs and associated amortization schedules for those capitalized costs,P0 — High,,2. In Progress,Anne Pierce
 12,Main,12.25,"Provide management rep letters, required audit communications, and summary of adjusted and unadjusted differences for recently completed audits.",P0 — High,,5. In Dfin; Ready for Cooley,Anne Pierce
@@ -497,7 +497,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 15,Main,15.1,Please complete the Real Estate Template attached,P0 — High,,5. In Dfin; Ready for Cooley,Lauren Cullen
 15,Main,15.2,"Describe any new contracts, new leases, and new build outs in progress.",P0 — High,,2. In Progress,Lauren Cullen
 15,Main,15.3,"Copies of all fully executed lease documents, amendments, assignments, letters of agreements, CPI adjustments, MTM, Start Date Agreements, Termination, License Agreements, Property Management Agreements, Master Service Agreements and copies of all correspondence relevant to the lease documents (Landlord changes, estoppels, SNDA's, other notices, correspondence, current and historic Operating Expense / Real Estate Tax Estimate and Reconciliation statements and correspondence, etc)",P0 — High,,1. Not Started,Anne Pierce
-15,Main,15.4,"Copies of all invoices for the past month associated with current leases, schedules of rent including breakdown of payment amounts, and fixed asset schedules for each of your office locations.",P0 — High,,1. Not Started,Anne Pierce
+15,Main,15.4,"Copies of all invoices for the past month associated with current leases, schedules of rent including breakdown of payment amounts, and fixed asset schedules for each of your office locations.",P0 — High,,2. In Progress,Anne Pierce
 15,Main,15.5,"Please provide floor plans (CADs and pdfs), office exterior and interior photos, and a description of your office space(s) including rooftops or balconies. What are your office hours and do you have dedicated reception staff?",P1 — Standard,,1. Not Started,Lauren Cullen
 15,Main,15.6,Listing of subtenants of your space or customers or clients using your workspace/office.,P1 — Standard,,1. Not Started,Anne Pierce
 15,Main,15.7,Listing of other tenants in your building. Please provide company names.,P1 — Standard,,1. Not Started,Lauren Cullen
