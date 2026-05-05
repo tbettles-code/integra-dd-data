@@ -409,7 +409,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.24,"Historical attrition data for past 3 years; indicating voluntary versus involuntary attrition, with reason codes if tracked. If reason codes are not available, please share the top 3 causes of attrition and any recent trends, including regrettable and non-regrettable",P0 — High,,5. In Dfin; Ready for Cooley,Lauren Cullen
 10,Employee,10.25,"Temporary agency, independent contractor or vendor agreements. List of all temporary agency personnel, independent contractors or consultants from the prior three years, including name, dates of service, average weekly hours, location, and function or title.",P1 — Standard,,1. Not Started,Anne Pierce
 10,Employee,10.26,"All documents relating to pending or concluded unfair labor practice charges, demands for union recognition, employee arbitrations and employee grievances or any claims under any benefits plans for which the Company may have liability. A statement describing any labor dispute, work stoppage, work slowdown, strike, lockout or other labor disruption threatened or occurring during the past five years.",P0 — High,,2. In Progress,Stephanie Chin
-11,Employee,11.1,"Summary of standard employee benefits (vacation, sick leave, sabbatical, medical insurance, life and disability insurance, etc.)",P0 — High,,1. Not Started,Niamh Fitzgerald
+11,Employee,11.1,"Summary of standard employee benefits (vacation, sick leave, sabbatical, medical insurance, life and disability insurance, etc.)",P0 — High,,2. In Progress,Niamh Fitzgerald
 11,Employee,11.2,"Details of pension plans and similar arrangements, including retirement indemnities, executive pension arrangements, jubilee payments and compulsory and profit sharing arrangements
  (i) summary of plans provided, including copies of summary plan descriptions;
  (ii) documentation (rules, booklet, insurance contract) for material plans;
@@ -420,14 +420,14 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
  (vii) details of assumptions underlying reserve for retirement indemnities;
  (viii) annual cash contributions for each plan over the last 3 years and backing evidence, and current monthly company cash contribution rate;
  (ix) details of any areas where non-compliant;
- (x) details of any correspondence with regulators",P0 — High,,1. Not Started,Niamh Fitzgerald
+ (x) details of any correspondence with regulators",P0 — High,,2. In Progress,Niamh Fitzgerald
 11,Employee,11.3,"Plan documents (or written description) for any and all health and welfare benefits (executive and non-executive), including but not limited to health insurance, life insurance and disability insurance
  (i) information on current broker and provider/carrier arrangements, including fees/premiums;
  (ii) list of employees under plan;
  (iii) numbers of employees in plans (and total payroll) and total number of eligible employees (and payroll) if different;
  (iv) details of any legal issues, claims or disputes;
  (v) details of any areas where non-compliant;
- (vi) details of any correspondence with regulators or vendors",P0 — High,,1. Not Started,Niamh Fitzgerald
+ (vi) details of any correspondence with regulators or vendors",P0 — High,,2. In Progress,Niamh Fitzgerald
 11,Employee,11.4,"Plan documents or policies (or written description) for any and all redundancy/termination/severance plans
  (i) details of any legal issues, claims or disputes;
  (ii) details of any correspondence with regulators;
