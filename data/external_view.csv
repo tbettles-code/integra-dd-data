@@ -308,7 +308,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 7,Main,7.3,"Please provide a breakdown of the number of employees that are dedicated to a) Incident Response, b) Threat Intelligence, c) Log Management, d) General SOC and the location of those employees",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Thibault Candebat
 7,Main,7.4,"Please complete the supplemental questions related to model usage in the ""Model Questionnaire"" tab",P00 — Critical (cross-functional priority),Required,1. Not Started,Fergal Reid
 8,Main,8.1,"Please provide a list of all customers based on template found in ""Customer Template"" tab",P00 — Critical (cross-functional priority),,2. In Progress,Tommy Bettles
-8,Main,8.2,"For customers that have Fin + Helpdesk, please provide a breakdown of customers that use a) Ireland Helpdesk, b) Zendesk, c) Salesforce, d) Other Third Party helpdesk",P0 — High,,2. In Progress,Barry Wallace
+8,Main,8.2,"For customers that have Fin + Helpdesk, please provide a breakdown of customers that use a) Ireland Helpdesk, b) Zendesk, c) Salesforce, d) Other Third Party helpdesk",P0 — High,,3. Ready for Legal & Fin Review,Barry Wallace
 8,Main,8.3,Provide the current ARR by product,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.4,Please provide ARR from New Customers and count of number of new customers for the past 3 years,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.5,"Provide an overview of the GTM model including routes to market, growth/sales strategy, organizational structure and sales process.",P0 — High,,2. In Progress,Barry Wallace
