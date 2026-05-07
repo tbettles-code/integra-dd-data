@@ -49,7 +49,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (xiii) material agreements or proposed agreements pursuant to which the Company licenses proprietary rights from a third party in connection with the development, support and delivery of the Company’s products and/or services (other than “shrink-wrap” licenses with a list price of less than $10,000); and
  (xiv) material research and development agreements, product development agreements, marketing and advertising agreements.",P0 — High,,2. In Progress,Michele Matsubara
 2,Main,2.3,"Provide a list of names and addresses for the top 25 customers and top 25 partners, suppliers, vendors and consultants.",P00 — Critical (cross-functional priority),Required,5. In Dfin; Ready for Cooley,Anne Pierce
-2,Main,2.4,"Provide copies of all written (and a description of all oral) agreements that restrict the Company or any affiliate in any respect related to employee solicitation or hiring, whether or not expired. NOTE: if standard form customer, supplier, or partner agreements already provided include such restrictions – please indicate as such and note any deviations from the form.",P00 — Critical (cross-functional priority),Required,3. Ready for Legal & Fin Review,Michele Matsubara
+2,Main,2.4,"Provide copies of all written (and a description of all oral) agreements that restrict the Company or any affiliate in any respect related to employee solicitation or hiring, whether or not expired. NOTE: if standard form customer, supplier, or partner agreements already provided include such restrictions – please indicate as such and note any deviations from the form.",P00 — Critical (cross-functional priority),Required,2. In Progress,Michele Matsubara
 2,Main,2.5,"Provide a list of agreements where THE COMPANY has been appointed a partner, OEM, VAR, reseller or distributor, showing all associated spend or revenue during the last two fiscal years and the current fiscal year.",P0 — High,,1. Not Started,Michele Matsubara
 2,Main,2.6,"Provide a list of agreements where the Company has appointed ANOTHER PARTY as partner, OEM, VAR, reseller or distributor, showing revenues during the last two fiscal years and the current fiscal year.",P0 — High,,1. Not Started,Michele Matsubara
 2,Main,2.7,"Provide all documentation relating to any agreement or arrangement with any DIAMOND director, officer or employee (e.g., advisory or consulting agreements).",P0 — High,,1. Not Started,Anne Pierce
@@ -353,7 +353,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.29,Partner Revenue as % of Total Revenue for last 12 months (monthly/quarterly).,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.30,"List of customer accounts where Partners are performing implementation services. Include customer, Partner name, and rough size ($) of project.",P0 — High,,2. In Progress,Barry Wallace
 8,Main,8.31,"Complete ""Partner Template"" worksheet",P0 — High,,2. In Progress,Brandon Kim
-8,Main,8.32,Provide your standard Partner Agreement template and addendums.  Upload top 10 Partner agreements in dataroom.,P1 — Standard,,1. Not Started,Barry Wallace
+8,Main,8.32,Provide your standard Partner Agreement template and addendums.  Upload top 10 Partner agreements in dataroom.,P1 — Standard,,1. Not Started,Brandon Kim
 8,Main,8.33,Partner certification overview and current metrics (i.e. certified resources).,P1 — Standard,,1. Not Started,Barry Wallace
 8,Main,8.34,List of customer and partner training courses / enablement content.,P1 — Standard,,1. Not Started,Barry Wallace
 8,Main,8.35,"Marketing, Sales and Sales Dev org chart",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
@@ -364,11 +364,11 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.40,Complete list of event commitments and level of sponsorship,P1 — Standard,,1. Not Started,Barry Wallace
 8,Main,8.41,"FY26 and year-to-date FY27 sales development comp plan, quota, productivity and attainment per SDR",P0 — High,,2. In Progress,Barry Wallace
 8,Main,8.42,List of all external technologies and purpose to power marketing or sales development activity,P1 — Standard,,1. Not Started,Barry Wallace
-9,Main,9.1,"Services operations reports for last 8 quarters (Bookings, Revenue, Headcount, Costs, Margin, Utilization, Rates)",P0 — High,,2. In Progress,Junan Pang
+9,Main,9.1,"Services operations reports for last 8 quarters (Bookings, Revenue, Headcount, Costs, Margin, Utilization, Rates)",P0 — High,,3. Ready for Legal & Fin Review,Junan Pang
 9,Main,9.2,"Services product/offerings overview. Breakout last 8 quarters Services revenue by product line and by service offering (e.g., Media & Entertainment = product line, implementation services = service offering). Split T&M and Fixed Fee.",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.3,"Last 8 quarters Services revenue backlog, book-to-bill ratio and warranty work (volume (#, person-days), value ($)) and Services attach rates",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.4,"Last 8 quarters Services deal count, average deal size, and duration",P1 — Standard,,1. Not Started,Barry Wallace
-9,Main,9.5,"Last 8 quarters Billable and Total utilization (by role if available), rate cards by role, rate realization and Services CSAT",P0 — High,,2. In Progress,Barry Wallace
+9,Main,9.5,"Last 8 quarters Billable and Total utilization (by role if available), rate cards by role, rate realization and Services CSAT",P0 — High,,2. In Progress,Junan Pang
 9,Main,9.6,Success coverage ratios and customer segmentation snapshot. Please highlight any Geo differences,P0 — High,,2. In Progress,Barry Wallace
 9,Main,9.7,"Last 8 quarters Success metrics (e.g., Log-in Rates, Usage, Adoption, Attrition, ARR Growth, CSAT/NPS)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.8,"Success programs snapshot (#, consumption, entitlements, monetization (if any), CSAT, NPS, other?)",P1 — Standard,,1. Not Started,Barry Wallace
