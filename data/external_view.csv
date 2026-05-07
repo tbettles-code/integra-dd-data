@@ -306,7 +306,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 7,Main,7.1,"Please complete the ""Security Capabilities Questionnaire"" tab and upload any relevant documentation requested per questionnaire",P00 — Critical (cross-functional priority),Required,5. In Dfin; Ready for Cooley,Thibault Candebat
 7,Main,7.2,"Have you performed any security risk assessments in the past? If so, please upload the reports from those tests",P0 — High,,5. In Dfin; Ready for Cooley,Thibault Candebat
 7,Main,7.3,"Please provide a breakdown of the number of employees that are dedicated to a) Incident Response, b) Threat Intelligence, c) Log Management, d) General SOC and the location of those employees",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Thibault Candebat
-7,Main,7.4,"Please complete the supplemental questions related to model usage in the ""Model Questionnaire"" tab",P00 — Critical (cross-functional priority),Required,2. In Progress,Fergal Reid
+7,Main,7.4,"Please complete the supplemental questions related to model usage in the ""Model Questionnaire"" tab",P00 — Critical (cross-functional priority),Required,3. Ready for Legal & Fin Review,Fergal Reid
 8,Main,8.1,"Please provide a list of all customers based on template found in ""Customer Template"" tab",P00 — Critical (cross-functional priority),,2. In Progress,Tommy Bettles
 8,Main,8.2,"For customers that have Fin + Helpdesk, please provide a breakdown of customers that use a) Ireland Helpdesk, b) Zendesk, c) Salesforce, d) Other Third Party helpdesk",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
 8,Main,8.3,Provide the current ARR by product,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
