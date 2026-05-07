@@ -279,7 +279,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 6,Main,6.8,Data schemas & size of data under management,P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.9,"Infrastructure diagrams – Cloud regions / data centers, logical diagrams, # of virtual / physical devices",P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.10,"Please provide Fin pricing and realization data: Fin list price history — every list price change since launch, with effective dates; Discount distribution — % of Fin customers (by conversation volume, industry, other customer segmentation types) on list price vs. discounted, and discount quartiles",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
-6,Main,6.11,"Results from the most recent performance testing for Helpdesk, Fin",P0 — High,,1. Not Started,Brian Scanlan
+6,Main,6.11,"Results from the most recent performance testing for Helpdesk, Fin",P0 — High,,3. Ready for Legal & Fin Review,Brian Scanlan
 6,Main,6.12,Customer Data Flow Diagram,P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.13,Inventory of Customer Data,P0 — High,,1. Not Started,Brian Scanlan
 6,Main,6.14,"List of technical debt and sizing estimates. Examples: Manual processes performed, legacy systems, deferred software upgrades",P0 — High,,1. Not Started,Darragh Curran
