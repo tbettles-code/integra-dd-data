@@ -143,7 +143,7 @@ What policies and procedures are in place to ensure that data is only used in a 
   
 Describe any mechanisms the Company has in place to physically and/or logically segregate: (i) data, (ii) prediction / analytical models, and (iii) Intelligent Products’ output, in cases where items (i), (ii) or (iii) are proprietary to, or such segregation is required by, a third party.",P1 — Standard,,1. Not Started,Thibault Candebat
 3,Main,3.38,"What AI/ML models does the Company use and does the Company use any “open” or “open source” (including under OSI-approved software licenses and other public licenses) AI/ML models and, if so, under what licenses?",P1 — Standard,,1. Not Started,Fergal Reid
-4,Main,4.1,"Provide copies of all current permits, licenses, approvals, determinations and other qualifications issued by any federal, state, foreign or other governmental authority.",P0 — High,,1. Not Started,Brandon Kim
+4,Main,4.1,"Provide copies of all current permits, licenses, approvals, determinations and other qualifications issued by any federal, state, foreign or other governmental authority.",P0 — High,,2. In Progress,Brandon Kim
 4,Main,4.2,"Provide copies of any government audits or government investigations, refusals, deficiency notices, reports, correspondence, voluntary or involuntary disclosures and applications with or to governmental authorities, including relating to any alleged violations of governmental regulations or laws, including:
   
  (i) bid protests filed in any forum by the Company or involving an award made to the Company by a federal, state, or local governmental entity or an educational institution;
@@ -215,10 +215,10 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (v) Has the Company submitted any blocking or freezing notices to the U.S. or other governmental agency during the past five years? If so, provide copies.
  (vi) How does the Company determine the export classifications of its products and services?
  (vii) Provide a list of all export control classifications and copies of all CCATS and Commodity Jurisdiction requests.
- (viii) Does the Company maintain a detailed list of export and import licenses (general or specific) obtained or used, and any related reports or notifications made during the past five years? If so, provide such details.",P0 — High,,1. Not Started,Brandon Kim
+ (viii) Does the Company maintain a detailed list of export and import licenses (general or specific) obtained or used, and any related reports or notifications made during the past five years? If so, provide such details.",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
 4,Main,4.15,A list of any pending or threatened product warranty claims or product liability claims over the past five years.,P0 — High,,1. Not Started,Michele Matsubara
 4,Main,4.16,"A list and copies of all insurance policies, and any pending claims or disputes thereunder, including estimates regarding potential exposures.",P1 — Standard,,1. Not Started,Brandon Kim
-4,Main,4.17,"List any directors, officers, employees, or equity holders of the Company who is a government official or governmental or government-controlled entity and describe the nature of their positions.",P0 — High,,1. Not Started,Brandon Kim
+4,Main,4.17,"List any directors, officers, employees, or equity holders of the Company who is a government official or governmental or government-controlled entity and describe the nature of their positions.",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
 4,Main,4.18,"Use of Third Parties
  (i) List of all third parties, including agents, attorneys, consultants, dealers, distributors, freight forwarders, lobbyists, resellers, or any other third parties, that the Company retains to act on its behalf and a list of all countries in which these third parties act on behalf of Company.
  (ii) Describe nature and terms of business between the Company and each such third party, including types of goods / services, compensation terms, work done to obtain or retain business or regulatory approvals with governmental entities, and ownership (in whole or in part) or control (in whole or in part) by government officials or governmental entities.
@@ -261,10 +261,10 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iv) External pen test/vulnerability scan results
  (v) Data security policies and procedures
   
- If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,1. Not Started,Brandon Kim
+ If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,2. In Progress,Brandon Kim
 5,Main,5.6,"With what contractual and/or regulatory data security standards is the Company required to comply (e.g., NIST SP 800-171, NIST SP 800-53, DoD SRG, DISA STIG)?
   
- What audit or other steps does the Company take to ensure such compliance?",P0 — High,,1. Not Started,Brandon Kim
+ What audit or other steps does the Company take to ensure such compliance?",P0 — High,,2. In Progress,Brandon Kim
 5,Main,5.7,"Has the Company experienced any actual, alleged, or suspected data breach, cybersecurity incident, or other unauthorized intrusion into its IT systems during the past ten years?
   
  Has the Company experienced any material, repeated, or persistent interruptions of its IT systems or products during the past ten years?",P0 — High,,1. Not Started,Thibault Candebat
