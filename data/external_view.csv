@@ -267,19 +267,19 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  What audit or other steps does the Company take to ensure such compliance?",P0 — High,,2. In Progress,Brandon Kim
 5,Main,5.7,"Has the Company experienced any actual, alleged, or suspected data breach, cybersecurity incident, or other unauthorized intrusion into its IT systems during the past ten years?
   
- Has the Company experienced any material, repeated, or persistent interruptions of its IT systems or products during the past ten years?",P0 — High,,1. Not Started,Thibault Candebat
+ Has the Company experienced any material, repeated, or persistent interruptions of its IT systems or products during the past ten years?",P0 — High,,2. In Progress,Thibault Candebat
 5,Main,5.8,Does the Company have any FedRAMP certified systems?,P0 — High,,7. Shared with Diamond,Thibault Candebat
-6,Main,6.1,"Provide architectural diagrams of Fin, Helpdesk, Copilot, Outbound, underlying agent platform, data platform, newer agents (sales, commerce, customer success) and other application, AI (model pipeline, RAG, 3P model access infra), and platform services; per-diagram, indicate which components are shared services vs. product-specific, and which are self-built vs. vendor-sourced",P00 — Critical (cross-functional priority),,5. In Dfin; Ready for Cooley,Jordan Neill
+6,Main,6.1,"Provide architectural diagrams of Fin, Helpdesk, Copilot, Outbound, underlying agent platform, data platform, newer agents (sales, commerce, customer success) and other application, AI (model pipeline, RAG, 3P model access infra), and platform services; per-diagram, indicate which components are shared services vs. product-specific, and which are self-built vs. vendor-sourced",P00 — Critical (cross-functional priority),,7. Shared with Diamond,Jordan Neill
 6,Main,6.2,"Feature parity matrix - Fin feature comparison with 3P helpdesk (e.g., Zendesk, Salesforce Service Cloud, ServiceNow, Freshworks) vs. Fin on Helpdesk; integration depth and architecture by 3P helpdesk - read path, write path, data sync, event types",P0 — High,,3. Ready for Legal & Fin Review,Jordan Neill
 6,Main,6.3,"Fin win/loss rate data vs. Sierra, Decagon, Hubspot, Zendesk",P1 — Standard,,1. Not Started,Barry Wallace
 6,Main,6.4,Provide key API technical specs,P00 — Critical (cross-functional priority),,7. Shared with Diamond,Brian Scanlan
-6,Main,6.5,"Provide product roadmap (Fin, sales agent, commerce agent, CS agent, Helpdesk, copilot, underlying AI and data platform)",P00 — Critical (cross-functional priority),Required,5. In Dfin; Ready for Cooley,Des Traynor
+6,Main,6.5,"Provide product roadmap (Fin, sales agent, commerce agent, CS agent, Helpdesk, copilot, underlying AI and data platform)",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Des Traynor
 6,Main,6.6,"Provide an overview of the Engineering and Product team structure and roles, including an organization chart of the Engineering and Product team and third-party contractors and consultants. Detail the employees (name, role, location) in the AI engineering organization and note their projects/areas of work and note which work on Apex and AI model fine-tuning in particular. To the extent there are teams or individuals dedicated to specific products, please include that detail",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Darragh Curran
 6,Main,6.7,"List of third party or open source packages or datasets used in the system, including in the customer facing portion of the product. Please indicate if those OSS components are used as is or edited, also indicate if they are distributed to the customer.",P0 — High,,7. Shared with Diamond,Brian Scanlan
 6,Main,6.8,Data schemas & size of data under management,P0 — High,,3. Ready for Legal & Fin Review,Brian Scanlan
 6,Main,6.9,"Infrastructure diagrams – Cloud regions / data centers, logical diagrams, # of virtual / physical devices",P0 — High,,3. Ready for Legal & Fin Review,Brian Scanlan
-6,Main,6.10,"Please provide Fin pricing and realization data: Fin list price history — every list price change since launch, with effective dates; Discount distribution — % of Fin customers (by conversation volume, industry, other customer segmentation types) on list price vs. discounted, and discount quartiles",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
-6,Main,6.11,"Results from the most recent performance testing for Helpdesk, Fin",P0 — High,,5. In Dfin; Ready for Cooley,Brian Scanlan
+6,Main,6.10,"Please provide Fin pricing and realization data: Fin list price history — every list price change since launch, with effective dates; Discount distribution — % of Fin customers (by conversation volume, industry, other customer segmentation types) on list price vs. discounted, and discount quartiles",P0 — High,,7. Shared with Diamond,Barry Wallace
+6,Main,6.11,"Results from the most recent performance testing for Helpdesk, Fin",P0 — High,,7. Shared with Diamond,Brian Scanlan
 6,Main,6.12,Customer Data Flow Diagram,P0 — High,,3. Ready for Legal & Fin Review,Brian Scanlan
 6,Main,6.13,Inventory of Customer Data,P0 — High,,3. Ready for Legal & Fin Review,Brian Scanlan
 6,Main,6.14,"List of technical debt and sizing estimates. Examples: Manual processes performed, legacy systems, deferred software upgrades",P0 — High,,1. Not Started,Darragh Curran
@@ -307,13 +307,13 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 7,Main,7.2,"Have you performed any security risk assessments in the past? If so, please upload the reports from those tests",P0 — High,,7. Shared with Diamond,Thibault Candebat
 7,Main,7.3,"Please provide a breakdown of the number of employees that are dedicated to a) Incident Response, b) Threat Intelligence, c) Log Management, d) General SOC and the location of those employees",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Thibault Candebat
 7,Main,7.4,"Please complete the supplemental questions related to model usage in the ""Model Questionnaire"" tab",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Fergal Reid
-8,Main,8.1,"Please provide a list of all customers based on template found in ""Customer Template"" tab",P00 — Critical (cross-functional priority),,5. In Dfin; Ready for Cooley,Tommy Bettles
-8,Main,8.2,"For customers that have Fin + Helpdesk, please provide a breakdown of customers that use a) Ireland Helpdesk, b) Zendesk, c) Salesforce, d) Other Third Party helpdesk",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
-8,Main,8.3,Provide the current ARR by product,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
-8,Main,8.4,Please provide ARR from New Customers and count of number of new customers for the past 3 years,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
-8,Main,8.5,"Provide an overview of the GTM model including routes to market, growth/sales strategy, organizational structure and sales process.",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
+8,Main,8.1,"Please provide a list of all customers based on template found in ""Customer Template"" tab",P00 — Critical (cross-functional priority),,7. Shared with Diamond,Tommy Bettles
+8,Main,8.2,"For customers that have Fin + Helpdesk, please provide a breakdown of customers that use a) Ireland Helpdesk, b) Zendesk, c) Salesforce, d) Other Third Party helpdesk",P0 — High,,7. Shared with Diamond,Barry Wallace
+8,Main,8.3,Provide the current ARR by product,P0 — High,,7. Shared with Diamond,Tommy Bettles
+8,Main,8.4,Please provide ARR from New Customers and count of number of new customers for the past 3 years,P0 — High,,7. Shared with Diamond,Tommy Bettles
+8,Main,8.5,"Provide an overview of the GTM model including routes to market, growth/sales strategy, organizational structure and sales process.",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.6,Definition of Bookings and ARR by product,P0 — High,,4. Ready for DG Review,Tommy Bettles
-8,Main,8.7,Explain how you segment your bookings (new vs existing). Please provide details if this differs by product.,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
+8,Main,8.7,Explain how you segment your bookings (new vs existing). Please provide details if this differs by product.,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.8,"Provide bookings plan for current calendar year by quarter, product, region",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.9,"Provide booking attainment for previous 2 year and current fiscal year by quarter for the following:
 1. Quarter
@@ -323,9 +323,9 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 5. Source
 6. Existing business vs. New Logo
 7. Industry (if possible)",P00 — Critical (cross-functional priority),,7. Shared with Diamond,Tommy Bettles
-8,Main,8.10,"Provide a breakdown of bookings by new business vs. add-on / upgrade, by quarter for the past 2 years. Distinguish between 'new to Ireland' and 'new to Product'.",P1 — Standard,,5. In Dfin; Ready for Cooley,Tommy Bettles
+8,Main,8.10,"Provide a breakdown of bookings by new business vs. add-on / upgrade, by quarter for the past 2 years. Distinguish between 'new to Ireland' and 'new to Product'.",P1 — Standard,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.11,Provide high level description of opportunity stages and forecast methodology. Include your pipeline funnel/velocity.,P0 — High,,7. Shared with Diamond,Barry Wallace
-8,Main,8.12,Pipeline generated by month over the past 12 months,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
+8,Main,8.12,Pipeline generated by month over the past 12 months,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.13,"Provide open pipeline for the current fiscal year with the following views:
 1. Quarter
 2. Product
@@ -333,8 +333,8 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 4. Segment
 5. Source
 6. Exisitng business vs. New Logo
-7. Industry (if possible)",P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
-8,Main,8.14,Summary of the largest 25 opportunities in the pipeline for the current fiscal year,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
+7. Industry (if possible)",P0 — High,,7. Shared with Diamond,Tommy Bettles
+8,Main,8.14,Summary of the largest 25 opportunities in the pipeline for the current fiscal year,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.15,Percentage of pipeline expected to close in a typical quarter. Provide # of deals closed in a typical quarter,P1 — Standard,,1. Not Started,Tommy Bettles
 8,Main,8.16,"Please provide current and historical (past 3 years) Sales headcount for all Sales role types (incl. AE, Solution Engineers, Biz Dev, etc.)",P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.17,"What are your historical (previous fiscal year) and planned (current fiscal year) coverage ratios for the following:
@@ -359,7 +359,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.35,"Marketing, Sales and Sales Dev org chart",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.36,Last 12 months marketing spend by category and region,P0 — High,,1. Not Started,Tommy Bettles
 8,Main,8.37,"Quarterly lead flow, opportunity count, pipeline, and ACV for previous year (by region if possible)",P0 — High,,1. Not Started,Tommy Bettles
-8,Main,8.38,"Last 12 months pipeline contribution by channel (e.g., AE, SDR, Marketing)",P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
+8,Main,8.38,"Last 12 months pipeline contribution by channel (e.g., AE, SDR, Marketing)",P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.39,Monthly website traffic (visits and unique visitors) and form completion rates for previous year,P1 — Standard,,1. Not Started,Tommy Bettles
 8,Main,8.40,Complete list of event commitments and level of sponsorship,P1 — Standard,,1. Not Started,Barry Wallace
 8,Main,8.41,"FY26 and year-to-date FY27 sales development comp plan, quota, productivity and attainment per SDR",P0 — High,,3. Ready for Legal & Fin Review,Barry Wallace
@@ -409,7 +409,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.24,"Historical attrition data for past 3 years; indicating voluntary versus involuntary attrition, with reason codes if tracked. If reason codes are not available, please share the top 3 causes of attrition and any recent trends, including regrettable and non-regrettable",P0 — High,,7. Shared with Diamond,Lauren Cullen
 10,Employee,10.25,"Temporary agency, independent contractor or vendor agreements. List of all temporary agency personnel, independent contractors or consultants from the prior three years, including name, dates of service, average weekly hours, location, and function or title.",P1 — Standard,,1. Not Started,Anne Pierce
 10,Employee,10.26,"All documents relating to pending or concluded unfair labor practice charges, demands for union recognition, employee arbitrations and employee grievances or any claims under any benefits plans for which the Company may have liability. A statement describing any labor dispute, work stoppage, work slowdown, strike, lockout or other labor disruption threatened or occurring during the past five years.",P0 — High,,2. In Progress,Stephanie Chin
-11,Employee,11.1,"Summary of standard employee benefits (vacation, sick leave, sabbatical, medical insurance, life and disability insurance, etc.)",P0 — High,,5. In Dfin; Ready for Cooley,Niamh Fitzgerald
+11,Employee,11.1,"Summary of standard employee benefits (vacation, sick leave, sabbatical, medical insurance, life and disability insurance, etc.)",P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
 11,Employee,11.2,"Details of pension plans and similar arrangements, including retirement indemnities, executive pension arrangements, jubilee payments and compulsory and profit sharing arrangements
  (i) summary of plans provided, including copies of summary plan descriptions;
  (ii) documentation (rules, booklet, insurance contract) for material plans;
@@ -420,14 +420,14 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
  (vii) details of assumptions underlying reserve for retirement indemnities;
  (viii) annual cash contributions for each plan over the last 3 years and backing evidence, and current monthly company cash contribution rate;
  (ix) details of any areas where non-compliant;
- (x) details of any correspondence with regulators",P0 — High,,5. In Dfin; Ready for Cooley,Niamh Fitzgerald
+ (x) details of any correspondence with regulators",P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
 11,Employee,11.3,"Plan documents (or written description) for any and all health and welfare benefits (executive and non-executive), including but not limited to health insurance, life insurance and disability insurance
  (i) information on current broker and provider/carrier arrangements, including fees/premiums;
  (ii) list of employees under plan;
  (iii) numbers of employees in plans (and total payroll) and total number of eligible employees (and payroll) if different;
  (iv) details of any legal issues, claims or disputes;
  (v) details of any areas where non-compliant;
- (vi) details of any correspondence with regulators or vendors",P0 — High,,5. In Dfin; Ready for Cooley,Niamh Fitzgerald
+ (vi) details of any correspondence with regulators or vendors",P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
 11,Employee,11.4,"Plan documents or policies (or written description) for any and all redundancy/termination/severance plans
  (i) details of any legal issues, claims or disputes;
  (ii) details of any correspondence with regulators;
@@ -439,8 +439,8 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
  (iv) details of any share-based or incentive plan disclosures;
  (v) full details of grants received and current holdings for key employees;
  (vi) detail any share scheme entitlements;
- (vii) existing retention and incentive plans and payout schedules",P0 — High,,5. In Dfin; Ready for Cooley,Niamh Fitzgerald
-11,Employee,11.6,"Plan documents (or written description) for any and all allowance plans or perquisites (car, phone, etc)",P0 — High,,5. In Dfin; Ready for Cooley,Niamh Fitzgerald
+ (vii) existing retention and incentive plans and payout schedules",P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
+11,Employee,11.6,"Plan documents (or written description) for any and all allowance plans or perquisites (car, phone, etc)",P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
 11,Employee,11.7,"Calendar of compensation and benefits events: timing of ongoing payroll for various classes of employees, timing of performance reviews, salary increases, regular bonus payments, stock refreshes, company specific holidays or events.",P1 — Standard,,3. Ready for Legal & Fin Review,Niamh Fitzgerald
 11,Employee,11.8,"Copies of all group health plan, retiree health plan, Section 125 Plan, 401(k) and other qualified pension and profit sharing plan documents, all amendments, summary plan descriptions, adoption agreements, trust agreements, administrative services agreements, group annuity contracts, resolutions, IRS opinion/determination letter, last five years nondiscrimination and compliance testing and last five years Form 5500.",P0 — High,,No Action Required,Niamh Fitzgerald
 11,Employee,11.9,"Copy of COBRA, HIPAA and Cancer Rights Act notices and notice procedures.",P1 — Standard,,7. Shared with Diamond,Lauren Cullen
@@ -488,7 +488,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 13,Main,13.15,"A narrative description of the Company’s overall global operating model from a tax perspective (e.g., intellectual property ownership, cost-sharing, principal/reseller structure, etc.), including cross-border/intercompany arrangements. Please describe the function of each entity, the purpose for its creation (to the extent different from its current function) and any restructuring previously undertaken since inception (NOT limited to the immediately preceding three-year period) that resulted in the current structure -- with particular attention to the three interposed entities between Ireland UC (Ireland) and Ireland, Inc. (US).",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,One Jae Paik
 14,Main,14.1,"Please provide an inventory of the type/model of all your client endpoints: laptops, desktops, mobile (please see ""IT Asset List Template"" tab).",P0 — High,,3. Ready for Legal & Fin Review,Thibault Candebat
 14,Main,14.2,"What applications are used to run core business functions (Sales, Marketing, Services/Support, HR, Financials). Are your applications SaaS, on-prem, hybrid? Provide a vendor list of software used (please see ""Software Inventory Template"" tab).",P1 — Standard,,1. Not Started,Thibault Candebat
-14,Main,14.3,"Describe any cloud environments (i.e AWS, Azure, GCP) that are used for your corp environment. Describe the purpose of use and the method of access and authentication (i.e. direct connect, VPN, bastion hosts, SSO, direct system authentication, etc.).",P0 — High,,1. Not Started,Thibault Candebat
+14,Main,14.3,"Describe any cloud environments (i.e AWS, Azure, GCP) that are used for your corp environment. Describe the purpose of use and the method of access and authentication (i.e. direct connect, VPN, bastion hosts, SSO, direct system authentication, etc.).",P0 — High,,2. In Progress,Thibault Candebat
 14,Main,14.4,Describe what services are used for Identity or Single Sign On (SSO) within your environment. Describe how users authenticate to a directory service or MDM.,P1 — Standard,,1. Not Started,Thibault Candebat
 14,Main,14.5,"What is the standard network technology in your offices (WAN & LAN)? (Circuit type, wired and wireless network hardware). Please provide an internal network infrastructure overview and diagrams. 
     a. How is your network accessed remotely? 
@@ -497,7 +497,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 15,Main,15.1,Please complete the Real Estate Template attached,P0 — High,,7. Shared with Diamond,Lauren Cullen
 15,Main,15.2,"Describe any new contracts, new leases, and new build outs in progress.",P0 — High,,7. Shared with Diamond,Lauren Cullen
 15,Main,15.3,"Copies of all fully executed lease documents, amendments, assignments, letters of agreements, CPI adjustments, MTM, Start Date Agreements, Termination, License Agreements, Property Management Agreements, Master Service Agreements and copies of all correspondence relevant to the lease documents (Landlord changes, estoppels, SNDA's, other notices, correspondence, current and historic Operating Expense / Real Estate Tax Estimate and Reconciliation statements and correspondence, etc)",P0 — High,,2. In Progress,Anne Pierce
-15,Main,15.4,"Copies of all invoices for the past month associated with current leases, schedules of rent including breakdown of payment amounts, and fixed asset schedules for each of your office locations.",P0 — High,,5. In Dfin; Ready for Cooley,Anne Pierce
+15,Main,15.4,"Copies of all invoices for the past month associated with current leases, schedules of rent including breakdown of payment amounts, and fixed asset schedules for each of your office locations.",P0 — High,,7. Shared with Diamond,Anne Pierce
 15,Main,15.5,"Please provide floor plans (CADs and pdfs), office exterior and interior photos, and a description of your office space(s) including rooftops or balconies. What are your office hours and do you have dedicated reception staff?",P1 — Standard,,2. In Progress,Lauren Cullen
 15,Main,15.6,Listing of subtenants of your space or customers or clients using your workspace/office.,P1 — Standard,,7. Shared with Diamond,Anne Pierce
 15,Main,15.7,Listing of other tenants in your building. Please provide company names.,P1 — Standard,,2. In Progress,Lauren Cullen
