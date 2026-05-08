@@ -30,7 +30,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (iii) has operations (including servers), 
  (iv) is required to hold permits, or 
  (iv) is registered / qualified to do business. 
- For each location, indicate the principal business activity.",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
+ For each location, indicate the principal business activity.",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
 1,Capital Structure,1.9,"Provide copies of all Beneficial Ownership Information Reports (BOIRs) filed with the US Department of Treasury’s Financial Crimes Enforcement Network (FinCEN), if applicable.",P0 — High,,7. Shared with Diamond,Anne Pierce
 2,Main,2.1,"Provide copies of standard forms / templates used in negotiations with customers, partners (OEM, VAR, ISV, reseller, referral, etc.), vendors or suppliers.",P0 — High,,2. In Progress,Michele Matsubara
 2,Main,2.2,"Provide copies of all written (and a description of all oral) agreements relating to the Company, its business and/or its assets, including any:
@@ -143,7 +143,7 @@ What policies and procedures are in place to ensure that data is only used in a 
   
 Describe any mechanisms the Company has in place to physically and/or logically segregate: (i) data, (ii) prediction / analytical models, and (iii) Intelligent Products’ output, in cases where items (i), (ii) or (iii) are proprietary to, or such segregation is required by, a third party.",P1 — Standard,,1. Not Started,Thibault Candebat
 3,Main,3.38,"What AI/ML models does the Company use and does the Company use any “open” or “open source” (including under OSI-approved software licenses and other public licenses) AI/ML models and, if so, under what licenses?",P1 — Standard,,1. Not Started,Fergal Reid
-4,Main,4.1,"Provide copies of all current permits, licenses, approvals, determinations and other qualifications issued by any federal, state, foreign or other governmental authority.",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
+4,Main,4.1,"Provide copies of all current permits, licenses, approvals, determinations and other qualifications issued by any federal, state, foreign or other governmental authority.",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
 4,Main,4.2,"Provide copies of any government audits or government investigations, refusals, deficiency notices, reports, correspondence, voluntary or involuntary disclosures and applications with or to governmental authorities, including relating to any alleged violations of governmental regulations or laws, including:
   
  (i) bid protests filed in any forum by the Company or involving an award made to the Company by a federal, state, or local governmental entity or an educational institution;
@@ -300,7 +300,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 Production mode — cascaded pipeline vs. unified speech-to-speech
 Voice customer count, ARR, resolution rate, average handle time vs. text-based Fin
 Voice pricing model and unit economics — cost per minute, gross margin",P0 — High,,3. Ready for Legal & Fin Review,Fergal Reid
-6,Main,6.29,"AI/ML org chart separated from general Eng (applied AI, ML infra, evals, voice): headcount, leadership tenure, locations, and single-person dependencies. All AI/ML hires and departures in the last 18 months with prior employer",P0 — High,,3. Ready for Legal & Fin Review,Fergal Reid
+6,Main,6.29,"AI/ML org chart separated from general Eng (applied AI, ML infra, evals, voice): headcount, leadership tenure, locations, and single-person dependencies. All AI/ML hires and departures in the last 18 months with prior employer",P0 — High,,5. In Dfin; Ready for Cooley,Fergal Reid
 6,Main,6.30,"All foundation model, inference, STT, and TTS contracts (term, committed spend/minimums, rate limits, MFN/exclusivity, data and training rights, termination, price escalators). Plus customer contracts that pin a model provider, version, ""no training on my data,"" or data residency — with ARR exposure per commitment.",P0 — High,,3. Ready for Legal & Fin Review,Fergal Reid
 6,Main,6.31,"Customer-facing data training framework: contractual default (opt-in, opt-out, prohibited), % of ARR under each, product/SKU mechanism for changing it, and audit trail. ARR exposure for customers entitled to ""no training on my data."" Model quality impact if a meaningful share opts out going forward.",P0 — High,,3. Ready for Legal & Fin Review,Fergal Reid
 7,Main,7.1,"Please complete the ""Security Capabilities Questionnaire"" tab and upload any relevant documentation requested per questionnaire",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Thibault Candebat
