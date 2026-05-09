@@ -236,7 +236,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iii) how long such data is retained and how it is destroyed;
  (iv) who has access to such data and how access is controlled;
  (v) the third parties with whom such data is shared and the purpose of the sharing; and
- (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,3. Ready for Legal & Fin Review,Stephanie Chin
+ (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,5. In Dfin; Ready for Cooley,Stephanie Chin
 5,Main,5.2,"Provide (i) copies of all agreements with customers, affiliates, service providers, or other third parties relating to the processing or transfer (including cross-border transfer) of data; and (ii) a list of all affiliated or third-party entities that collect or otherwise process data on behalf of the Company.",P0 — High,,1. Not Started,Brandon Kim
 5,Main,5.3,"Provide copies of all current and historical:
  (i) Privacy notices or policies;
@@ -248,12 +248,12 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (viii) Vendor security questionnaires/audit procedures;
  (ix) Cross-border transfer mechanism certifications or documentation;
  (x) Registrations and approvals from any data protection authorities or regulators; and
- (xi) Data retention schedules.",P0 — High,,3. Ready for Legal & Fin Review,Stephanie Chin
+ (xi) Data retention schedules.",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
 5,Main,5.4,"Provide copies of all current and historical data subject request intake and response procedures, including with respect to personal data used to train the Intelligent Products or otherwise used by the Company’s products.
   
  Indicate whether the Company’s products provide customers with controls to respond to such requests and, if so, describe the controls.
   
- Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,3. Ready for Legal & Fin Review,Stephanie Chin
+ Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
 5,Main,5.5,"Copies of the following certifications/audit results/attestations or similar:
  (i) PCI DSS
  (ii) ISO 27001
@@ -261,10 +261,10 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iv) External pen test/vulnerability scan results
  (v) Data security policies and procedures
   
- If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
+ If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
 5,Main,5.6,"With what contractual and/or regulatory data security standards is the Company required to comply (e.g., NIST SP 800-171, NIST SP 800-53, DoD SRG, DISA STIG)?
   
- What audit or other steps does the Company take to ensure such compliance?",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
+ What audit or other steps does the Company take to ensure such compliance?",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
 5,Main,5.7,"Has the Company experienced any actual, alleged, or suspected data breach, cybersecurity incident, or other unauthorized intrusion into its IT systems during the past ten years?
   
  Has the Company experienced any material, repeated, or persistent interruptions of its IT systems or products during the past ten years?",P0 — High,,2. In Progress,Thibault Candebat
