@@ -143,7 +143,7 @@ What policies and procedures are in place to ensure that data is only used in a 
   
 Describe any mechanisms the Company has in place to physically and/or logically segregate: (i) data, (ii) prediction / analytical models, and (iii) Intelligent Products’ output, in cases where items (i), (ii) or (iii) are proprietary to, or such segregation is required by, a third party.",P1 — Standard,,1. Not Started,Thibault Candebat
 3,Main,3.38,"What AI/ML models does the Company use and does the Company use any “open” or “open source” (including under OSI-approved software licenses and other public licenses) AI/ML models and, if so, under what licenses?",P1 — Standard,,1. Not Started,Fergal Reid
-4,Main,4.1,"Provide copies of all current permits, licenses, approvals, determinations and other qualifications issued by any federal, state, foreign or other governmental authority.",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
+4,Main,4.1,"Provide copies of all current permits, licenses, approvals, determinations and other qualifications issued by any federal, state, foreign or other governmental authority.",P0 — High,,7. Shared with Diamond,Brandon Kim
 4,Main,4.2,"Provide copies of any government audits or government investigations, refusals, deficiency notices, reports, correspondence, voluntary or involuntary disclosures and applications with or to governmental authorities, including relating to any alleged violations of governmental regulations or laws, including:
   
  (i) bid protests filed in any forum by the Company or involving an award made to the Company by a federal, state, or local governmental entity or an educational institution;
@@ -163,7 +163,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (ii) Does the Company have any past or pending criminal convictions, suspensions, debarments, proposed debarments, or other disqualifications related to conducting business with the U.S. government or any other foreign governments? If yes, please explain.
  (iii) Are there any reasons to believe that any of the Company’s contracts have been obtained or retained through improper payments?
  (iv) Are there reasons to believe that any of the Company’s employees or third parties offered, made, gave, authorized the giving of any improper payment to customers or government officials or facilitated such acts?
- (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
+ (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,7. Shared with Diamond,Stephanie Chin
 4,Main,4.4,"Provide summaries of any pending or threatened litigation, proceeding (including arbitration) or claim (including those that pertain to specific subject areas covered elsewhere – e.g., intellectual property, employee matters, government contracts/subcontracts and trade-related matters, and whether as the recipient/defendant or claimant/plaintiff) involving the Company or any of its officers, directors or employees, in the past five years.",P00 — Critical (cross-functional priority),Required,5. In Dfin; Ready for Cooley,Stephanie Chin
 4,Main,4.5,Provide copies of litigation letters relating to the Company from outside legal counsel to independent auditors in the past five years.,P1 — Standard,,3. Ready for Legal & Fin Review,Anne Pierce
 4,Main,4.6,"Describe any closed, pending or threatened internal, governmental or other third-party investigation or inquiries with a summary of any remedial or enforcement actions (including related to IP, privacy and data security practices and employment). Provide copies of any related consent or other decrees, judgments, orders, releases, settlement agreements or other similar agreements. 
@@ -236,7 +236,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iii) how long such data is retained and how it is destroyed;
  (iv) who has access to such data and how access is controlled;
  (v) the third parties with whom such data is shared and the purpose of the sharing; and
- (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,2. In Progress,Stephanie Chin
+ (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,3. Ready for Legal & Fin Review,Stephanie Chin
 5,Main,5.2,"Provide (i) copies of all agreements with customers, affiliates, service providers, or other third parties relating to the processing or transfer (including cross-border transfer) of data; and (ii) a list of all affiliated or third-party entities that collect or otherwise process data on behalf of the Company.",P0 — High,,1. Not Started,Brandon Kim
 5,Main,5.3,"Provide copies of all current and historical:
  (i) Privacy notices or policies;
@@ -248,12 +248,12 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (viii) Vendor security questionnaires/audit procedures;
  (ix) Cross-border transfer mechanism certifications or documentation;
  (x) Registrations and approvals from any data protection authorities or regulators; and
- (xi) Data retention schedules.",P0 — High,,2. In Progress,Stephanie Chin
+ (xi) Data retention schedules.",P0 — High,,3. Ready for Legal & Fin Review,Stephanie Chin
 5,Main,5.4,"Provide copies of all current and historical data subject request intake and response procedures, including with respect to personal data used to train the Intelligent Products or otherwise used by the Company’s products.
   
  Indicate whether the Company’s products provide customers with controls to respond to such requests and, if so, describe the controls.
   
- Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,2. In Progress,Stephanie Chin
+ Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,3. Ready for Legal & Fin Review,Stephanie Chin
 5,Main,5.5,"Copies of the following certifications/audit results/attestations or similar:
  (i) PCI DSS
  (ii) ISO 27001
@@ -261,16 +261,16 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iv) External pen test/vulnerability scan results
  (v) Data security policies and procedures
   
- If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,2. In Progress,Brandon Kim
+ If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
 5,Main,5.6,"With what contractual and/or regulatory data security standards is the Company required to comply (e.g., NIST SP 800-171, NIST SP 800-53, DoD SRG, DISA STIG)?
   
- What audit or other steps does the Company take to ensure such compliance?",P0 — High,,2. In Progress,Brandon Kim
+ What audit or other steps does the Company take to ensure such compliance?",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
 5,Main,5.7,"Has the Company experienced any actual, alleged, or suspected data breach, cybersecurity incident, or other unauthorized intrusion into its IT systems during the past ten years?
   
  Has the Company experienced any material, repeated, or persistent interruptions of its IT systems or products during the past ten years?",P0 — High,,2. In Progress,Thibault Candebat
 5,Main,5.8,Does the Company have any FedRAMP certified systems?,P0 — High,,7. Shared with Diamond,Thibault Candebat
 6,Main,6.1,"Provide architectural diagrams of Fin, Helpdesk, Copilot, Outbound, underlying agent platform, data platform, newer agents (sales, commerce, customer success) and other application, AI (model pipeline, RAG, 3P model access infra), and platform services; per-diagram, indicate which components are shared services vs. product-specific, and which are self-built vs. vendor-sourced",P00 — Critical (cross-functional priority),,7. Shared with Diamond,Jordan Neill
-6,Main,6.2,"Feature parity matrix - Fin feature comparison with 3P helpdesk (e.g., Zendesk, Salesforce Service Cloud, ServiceNow, Freshworks) vs. Fin on Helpdesk; integration depth and architecture by 3P helpdesk - read path, write path, data sync, event types",P0 — High,,3. Ready for Legal & Fin Review,Jordan Neill
+6,Main,6.2,"Feature parity matrix - Fin feature comparison with 3P helpdesk (e.g., Zendesk, Salesforce Service Cloud, ServiceNow, Freshworks) vs. Fin on Helpdesk; integration depth and architecture by 3P helpdesk - read path, write path, data sync, event types",P0 — High,,5. In Dfin; Ready for Cooley,Jordan Neill
 6,Main,6.3,"Fin win/loss rate data vs. Sierra, Decagon, Hubspot, Zendesk",P1 — Standard,,1. Not Started,Barry Wallace
 6,Main,6.4,Provide key API technical specs,P00 — Critical (cross-functional priority),,7. Shared with Diamond,Brian Scanlan
 6,Main,6.5,"Provide product roadmap (Fin, sales agent, commerce agent, CS agent, Helpdesk, copilot, underlying AI and data platform)",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Des Traynor
@@ -300,7 +300,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 Production mode — cascaded pipeline vs. unified speech-to-speech
 Voice customer count, ARR, resolution rate, average handle time vs. text-based Fin
 Voice pricing model and unit economics — cost per minute, gross margin",P0 — High,,3. Ready for Legal & Fin Review,Fergal Reid
-6,Main,6.29,"AI/ML org chart separated from general Eng (applied AI, ML infra, evals, voice): headcount, leadership tenure, locations, and single-person dependencies. All AI/ML hires and departures in the last 18 months with prior employer",P0 — High,,5. In Dfin; Ready for Cooley,Fergal Reid
+6,Main,6.29,"AI/ML org chart separated from general Eng (applied AI, ML infra, evals, voice): headcount, leadership tenure, locations, and single-person dependencies. All AI/ML hires and departures in the last 18 months with prior employer",P0 — High,,7. Shared with Diamond,Fergal Reid
 6,Main,6.30,"All foundation model, inference, STT, and TTS contracts (term, committed spend/minimums, rate limits, MFN/exclusivity, data and training rights, termination, price escalators). Plus customer contracts that pin a model provider, version, ""no training on my data,"" or data residency — with ARR exposure per commitment.",P0 — High,,3. Ready for Legal & Fin Review,Fergal Reid
 6,Main,6.31,"Customer-facing data training framework: contractual default (opt-in, opt-out, prohibited), % of ARR under each, product/SKU mechanism for changing it, and audit trail. ARR exposure for customers entitled to ""no training on my data."" Model quality impact if a meaningful share opts out going forward.",P0 — High,,3. Ready for Legal & Fin Review,Fergal Reid
 7,Main,7.1,"Please complete the ""Security Capabilities Questionnaire"" tab and upload any relevant documentation requested per questionnaire",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Thibault Candebat
@@ -346,7 +346,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.22,Average sales cycle by product and region for the current and past 2 years (including detail on # of days deals in pipeline before closing),P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Barry Wallace
 8,Main,8.23,"Detail on historical and forecasted close rates for both ‘all’ business and new business subset. Please include details of how this differs by product, if applicable",P0 — High,,3. Ready for Legal & Fin Review,Barry Wallace
 8,Main,8.24,"Provide high level description / responsibilities for all sales functions including all sales operations and supporting roles (Enablement, Field Operations etc).",P0 — High,,7. Shared with Diamond,Barry Wallace
-8,Main,8.25,"Partner Program Overview (Benefits, Requirements, Partner Types, Program Tiers, etc.)",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
+8,Main,8.25,"Partner Program Overview (Benefits, Requirements, Partner Types, Program Tiers, etc.)",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.26,Alliances & Channels Org Chart.  Note resources shared with other GTM functions.  Highlight function including internal/external focused.,P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.27,"Partner revenue by indirect and direct business for last 12 months (monthly or quarterly).  Breakdown by sourced, co-sell, or influenced by partner. Further breakdown by partner name, product, customer's country.",P0 — High,,3. Ready for Legal & Fin Review,Barry Wallace
 8,Main,8.28,"Open Partner pipeline by indirect and direct business. Breakdown by sourced, co-sell, or influenced by partner. Further breakdown by partner name, product, customer's country.",P0 — High,,2. In Progress,Barry Wallace
@@ -382,7 +382,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 9,Main,9.16,Auto-renewal program snapshot (if one exists),P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.17,"Renewals calendar for next 24 months (Accounts, $ value, by product line, by geo)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.18,"Renewals manager coverage ratios (clarify who owns renewals (RM, AE, CSM, other?))",P1 — Standard,,1. Not Started,Barry Wallace
-10,Employee,10.1,"A list of employees including hire date, position title, manager name, department name, work location, status (part time/full time/fixed term), compensation, overtime eligibility, employing legal entity, and details of any employees currently on leave. Compensation details should include salary, bonus, commission and deferred salary pursuant to any plans, and any other forms of compensation (such as car allowances, forgiveness of loans and other perquisites) paid to each of the Company’s employees in the last full fiscal year and to be paid in the current fiscal year. See the Employee Census & Contractor templates. Please download the templates and upload completed versions to the Employee folder of data room (do not complete the template in this shared file)",P00 — Critical (cross-functional priority),,5. In Dfin; Ready for Cooley,Alex Murtagh
+10,Employee,10.1,"A list of employees including hire date, position title, manager name, department name, work location, status (part time/full time/fixed term), compensation, overtime eligibility, employing legal entity, and details of any employees currently on leave. Compensation details should include salary, bonus, commission and deferred salary pursuant to any plans, and any other forms of compensation (such as car allowances, forgiveness of loans and other perquisites) paid to each of the Company’s employees in the last full fiscal year and to be paid in the current fiscal year. See the Employee Census & Contractor templates. Please download the templates and upload completed versions to the Employee folder of data room (do not complete the template in this shared file)",P00 — Critical (cross-functional priority),,7. Shared with Diamond,Alex Murtagh
 10,Employee,10.2,Please provide the Hiring Plan for next 2 years. See attached Hiring Plan template,P00 — Critical (cross-functional priority),,7. Shared with Diamond,Tommy Bettles
 10,Employee,10.3,"Description of any significant employment and labor problems the Company has experienced, including but not limited to litigation, agency charges, agency audits or investigations, and internal employee relations matters.",P0 — High,,2. In Progress,Stephanie Chin
 10,Employee,10.4,Provide a Management and Organization chart.,P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Alex Murtagh
@@ -390,10 +390,10 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.6,"Executed versions and copies of the Company’s forms of proprietary rights agreements for employees, contractors, and consultants, including but not limited to agreements relating to intellectual property and trade secrets, confidentiality or nondisclosure, non-competition and assignment of inventions. List of all current and former employees, contractors and consultants who have not executed proprietary rights agreements.",P0 — High,,2. In Progress,Alex Murtagh
 10,Employee,10.7,Copy of all templates offer letters and employment agreements (U.S.and international). Copy of signed employment offer letters and agreements for all officers/key employees and all employees residing outside of the United States.,P0 — High,,3. Ready for Legal & Fin Review,Alex Murtagh
 10,Employee,10.8,"Employee position descriptions, resumes/CVs, years of service with the company, grade.",P1 — Standard,,2. In Progress,Lauren Cullen
-10,Employee,10.9,History of salary increases since hire (or at least the past 24 months).,P1 — Standard,,5. In Dfin; Ready for Cooley,Niamh Fitzgerald
+10,Employee,10.9,History of salary increases since hire (or at least the past 24 months).,P1 — Standard,,7. Shared with Diamond,Niamh Fitzgerald
 10,Employee,10.10,"Copy of all collective bargaining arrangements, including details of coverage (if any).",P0 — High,,7. Shared with Diamond,Stephanie Chin
 10,Employee,10.11,"List of existing expatriates, one way international transfers, and anyone who needs or has work authorization to work for the target company.",P0 — High,,3. Ready for Legal & Fin Review,Salem Barakat
-10,Employee,10.12,Copy of all commission and bonus plans for the previous and current fiscal years.,P0 — High,,5. In Dfin; Ready for Cooley,Niamh Fitzgerald
+10,Employee,10.12,Copy of all commission and bonus plans for the previous and current fiscal years.,P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
 10,Employee,10.13,"Description of compensation paid or to be paid to agents, consultants, partners or other non-employees for the previous and current fiscal years.",P0 — High,,1. Not Started,Anne Pierce
 10,Employee,10.14,"Founders Agreements and “golden parachute” and other change of control or severance plans or agreements, if any.",P0 — High,,7. Shared with Diamond,Lauren Cullen
 10,Employee,10.15,Summary of worker’s compensation claims made.,P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
@@ -441,7 +441,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
  (vi) detail any share scheme entitlements;
  (vii) existing retention and incentive plans and payout schedules",P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
 11,Employee,11.6,"Plan documents (or written description) for any and all allowance plans or perquisites (car, phone, etc)",P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
-11,Employee,11.7,"Calendar of compensation and benefits events: timing of ongoing payroll for various classes of employees, timing of performance reviews, salary increases, regular bonus payments, stock refreshes, company specific holidays or events.",P1 — Standard,,5. In Dfin; Ready for Cooley,Niamh Fitzgerald
+11,Employee,11.7,"Calendar of compensation and benefits events: timing of ongoing payroll for various classes of employees, timing of performance reviews, salary increases, regular bonus payments, stock refreshes, company specific holidays or events.",P1 — Standard,,7. Shared with Diamond,Niamh Fitzgerald
 11,Employee,11.8,"Copies of all group health plan, retiree health plan, Section 125 Plan, 401(k) and other qualified pension and profit sharing plan documents, all amendments, summary plan descriptions, adoption agreements, trust agreements, administrative services agreements, group annuity contracts, resolutions, IRS opinion/determination letter, last five years nondiscrimination and compliance testing and last five years Form 5500.",P0 — High,,No Action Required,Niamh Fitzgerald
 11,Employee,11.9,"Copy of COBRA, HIPAA and Cancer Rights Act notices and notice procedures.",P1 — Standard,,7. Shared with Diamond,Lauren Cullen
 11,Employee,11.10,Please provide the annual merit adjustment budget for your employees,P1 — Standard,,1. Not Started,Tommy Bettles
