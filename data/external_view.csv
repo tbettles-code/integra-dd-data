@@ -164,7 +164,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iii) Are there any reasons to believe that any of the Company’s contracts have been obtained or retained through improper payments?
  (iv) Are there reasons to believe that any of the Company’s employees or third parties offered, made, gave, authorized the giving of any improper payment to customers or government officials or facilitated such acts?
  (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,7. Shared with Diamond,Stephanie Chin
-4,Main,4.4,"Provide summaries of any pending or threatened litigation, proceeding (including arbitration) or claim (including those that pertain to specific subject areas covered elsewhere – e.g., intellectual property, employee matters, government contracts/subcontracts and trade-related matters, and whether as the recipient/defendant or claimant/plaintiff) involving the Company or any of its officers, directors or employees, in the past five years.",P00 — Critical (cross-functional priority),Required,5. In Dfin; Ready for Cooley,Stephanie Chin
+4,Main,4.4,"Provide summaries of any pending or threatened litigation, proceeding (including arbitration) or claim (including those that pertain to specific subject areas covered elsewhere – e.g., intellectual property, employee matters, government contracts/subcontracts and trade-related matters, and whether as the recipient/defendant or claimant/plaintiff) involving the Company or any of its officers, directors or employees, in the past five years.",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Stephanie Chin
 4,Main,4.5,Provide copies of litigation letters relating to the Company from outside legal counsel to independent auditors in the past five years.,P1 — Standard,,4. Ready for DG Review,Anne Pierce
 4,Main,4.6,"Describe any closed, pending or threatened internal, governmental or other third-party investigation or inquiries with a summary of any remedial or enforcement actions (including related to IP, privacy and data security practices and employment). Provide copies of any related consent or other decrees, judgments, orders, releases, settlement agreements or other similar agreements. 
   
@@ -173,7 +173,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (ii) Does the Company have any past or pending criminal convictions, suspensions, debarments, proposed debarments, or other disqualifications related to conducting business with the U.S. government or any other foreign governments? If yes, please explain.
  (iii) Are there any reasons to believe that any of the Company’s contracts have been obtained or retained through improper payments?
  (iv) Are there reasons to believe that any of the Company’s employees or third parties offered, made, gave, authorized the giving of any improper payment to customers or government officials or facilitated such acts?
- (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
+ (v) Are there reasons to believe that improper payments at the Company are ongoing?",P0 — High,,7. Shared with Diamond,Stephanie Chin
 4,Main,4.7,"Provide a copy of:
  (i) the Company’s code of conduct and other ethics and compliance policies and all compliance programs and controls (e.g., conflict of interest, whistleblower reporting, gifts & entertainment).
  (ii) any anti-corruption compliance policy, manual, or training materials used by the Company.
@@ -205,7 +205,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (v) Does the Company maintain a log for the past five years of all trainings, including communications, including information about to whom and by whom the training is given?
  (vi) Are the Company’s compliance policies communicated to its directors, officers, and employees, as well as business partners, including consultants, agents, distributors, and other intermediaries? If so, how and with what frequency? When did the most recent communication occur?",P1 — Standard,,1. Not Started,Stephanie Chin
 4,Main,4.10,"Describe accounting, internal controls, compliance or risk management issues, and the escalation process for such issues, of the Company and its affiliates rising to the senior management level or identified by the internal audit department in the last five years.",P0 — High,,7. Shared with Diamond,Anne Pierce
-4,Main,4.11,"Describe any internal disciplinary actions of the Company or its affiliates against, and/or investigations concerning, officers, directors, managers or employees in the last five years.",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
+4,Main,4.11,"Describe any internal disciplinary actions of the Company or its affiliates against, and/or investigations concerning, officers, directors, managers or employees in the last five years.",P0 — High,,7. Shared with Diamond,Stephanie Chin
 4,Main,4.12,"For export compliance purposes, please itemize all employees, contractors, or interns who are citizens, nationals, or residents of a US comprehensively sanctioned territory (currently Cuba, Iran, North Korea, Syria, Crimea, Luhansk, Donetsk). If you have received export control licenses pursuant to the work of these individuals, please include.",P0 — High,,2. In Progress,Alex Murtagh
 4,Main,4.13,"Provide an itemized list of all products, technology, or software exported from the US for the past five years, including their export classifications (e.g., ECCN or USML). For tangible product exports, provide a copy of the shipper's export declaration, waybill or bill of lading.",P0 — High,,2. In Progress,Brandon Kim
 4,Main,4.14,"(i) Are any Company officers, directors, major shareholders or investors designated as SDNs (Specially Designated Nationals and Blocked Persons) or otherwise restricted, denied, frozen, or debarred parties under any governmental lists?
@@ -236,7 +236,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iii) how long such data is retained and how it is destroyed;
  (iv) who has access to such data and how access is controlled;
  (v) the third parties with whom such data is shared and the purpose of the sharing; and
- (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,5. In Dfin; Ready for Cooley,Stephanie Chin
+ (vi) how the company distinguishes between its role as a controller versus its role as a processor with respect to such data.",P00 — Critical (cross-functional priority),,7. Shared with Diamond,Stephanie Chin
 5,Main,5.2,"Provide (i) copies of all agreements with customers, affiliates, service providers, or other third parties relating to the processing or transfer (including cross-border transfer) of data; and (ii) a list of all affiliated or third-party entities that collect or otherwise process data on behalf of the Company.",P0 — High,,1. Not Started,Brandon Kim
 5,Main,5.3,"Provide copies of all current and historical:
  (i) Privacy notices or policies;
@@ -248,12 +248,12 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (viii) Vendor security questionnaires/audit procedures;
  (ix) Cross-border transfer mechanism certifications or documentation;
  (x) Registrations and approvals from any data protection authorities or regulators; and
- (xi) Data retention schedules.",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
+ (xi) Data retention schedules.",P0 — High,,7. Shared with Diamond,Stephanie Chin
 5,Main,5.4,"Provide copies of all current and historical data subject request intake and response procedures, including with respect to personal data used to train the Intelligent Products or otherwise used by the Company’s products.
   
  Indicate whether the Company’s products provide customers with controls to respond to such requests and, if so, describe the controls.
   
- Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
+ Is there any impact on operations when the Company or its customer responds to such requests (e.g., would deletion affect product effectiveness )?",P0 — High,,7. Shared with Diamond,Stephanie Chin
 5,Main,5.5,"Copies of the following certifications/audit results/attestations or similar:
  (i) PCI DSS
  (ii) ISO 27001
@@ -261,10 +261,10 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (iv) External pen test/vulnerability scan results
  (v) Data security policies and procedures
   
- If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
+ If the above are not available, please describe the measures the Company takes to protect data and its products and IT systems from unauthorized access, including to detect such access.",P0 — High,,7. Shared with Diamond,Brandon Kim
 5,Main,5.6,"With what contractual and/or regulatory data security standards is the Company required to comply (e.g., NIST SP 800-171, NIST SP 800-53, DoD SRG, DISA STIG)?
   
- What audit or other steps does the Company take to ensure such compliance?",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
+ What audit or other steps does the Company take to ensure such compliance?",P0 — High,,7. Shared with Diamond,Brandon Kim
 5,Main,5.7,"Has the Company experienced any actual, alleged, or suspected data breach, cybersecurity incident, or other unauthorized intrusion into its IT systems during the past ten years?
   
  Has the Company experienced any material, repeated, or persistent interruptions of its IT systems or products during the past ten years?",P0 — High,,2. In Progress,Thibault Candebat
@@ -369,7 +369,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 9,Main,9.3,"Last 8 quarters Services revenue backlog, book-to-bill ratio and warranty work (volume (#, person-days), value ($)) and Services attach rates",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.4,"Last 8 quarters Services deal count, average deal size, and duration",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.5,"Last 8 quarters Billable and Total utilization (by role if available), rate cards by role, rate realization and Services CSAT",P0 — High,,3. Ready for Legal & Fin Review,Junan Pang
-9,Main,9.6,Success coverage ratios and customer segmentation snapshot. Please highlight any Geo differences,P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
+9,Main,9.6,Success coverage ratios and customer segmentation snapshot. Please highlight any Geo differences,P0 — High,,7. Shared with Diamond,Barry Wallace
 9,Main,9.7,"Last 8 quarters Success metrics (e.g., Log-in Rates, Usage, Adoption, Attrition, ARR Growth, CSAT/NPS)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.8,"Success programs snapshot (#, consumption, entitlements, monetization (if any), CSAT, NPS, other?)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.9,"Last 24 months Red Accounts (at risk account) metrics (e.g., Count, Outcomes, ARR at Risk)",P0 — High,,3. Ready for Legal & Fin Review,Barry Wallace
@@ -388,7 +388,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.4,Provide a Management and Organization chart.,P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Alex Murtagh
 10,Employee,10.5,"Description of any material transactions since inception with any “insider” (i.e., any officer, director, or owner of a substantial amount of the Company’s securities) or any associate of an “insider.”",P0 — High,,2. In Progress,Stephanie Chin
 10,Employee,10.6,"Executed versions and copies of the Company’s forms of proprietary rights agreements for employees, contractors, and consultants, including but not limited to agreements relating to intellectual property and trade secrets, confidentiality or nondisclosure, non-competition and assignment of inventions. List of all current and former employees, contractors and consultants who have not executed proprietary rights agreements.",P0 — High,,2. In Progress,Alex Murtagh
-10,Employee,10.7,Copy of all templates offer letters and employment agreements (U.S.and international). Copy of signed employment offer letters and agreements for all officers/key employees and all employees residing outside of the United States.,P0 — High,,5. In Dfin; Ready for Cooley,Alex Murtagh
+10,Employee,10.7,Copy of all templates offer letters and employment agreements (U.S.and international). Copy of signed employment offer letters and agreements for all officers/key employees and all employees residing outside of the United States.,P0 — High,,7. Shared with Diamond,Alex Murtagh
 10,Employee,10.8,"Employee position descriptions, resumes/CVs, years of service with the company, grade.",P1 — Standard,,2. In Progress,Lauren Cullen
 10,Employee,10.9,History of salary increases since hire (or at least the past 24 months).,P1 — Standard,,7. Shared with Diamond,Niamh Fitzgerald
 10,Employee,10.10,"Copy of all collective bargaining arrangements, including details of coverage (if any).",P0 — High,,7. Shared with Diamond,Stephanie Chin
@@ -396,7 +396,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.12,Copy of all commission and bonus plans for the previous and current fiscal years.,P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
 10,Employee,10.13,"Description of compensation paid or to be paid to agents, consultants, partners or other non-employees for the previous and current fiscal years.",P0 — High,,1. Not Started,Anne Pierce
 10,Employee,10.14,"Founders Agreements and “golden parachute” and other change of control or severance plans or agreements, if any.",P0 — High,,7. Shared with Diamond,Lauren Cullen
-10,Employee,10.15,Summary of worker’s compensation claims made.,P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
+10,Employee,10.15,Summary of worker’s compensation claims made.,P0 — High,,7. Shared with Diamond,Stephanie Chin
 10,Employee,10.16,"Employment policies, manuals and handbooks.",P1 — Standard,,2. In Progress,Alex Murtagh
 10,Employee,10.17,"Provide or describe any policies (whether formal or informal) related to soliciting or hiring employees from customers, suppliers, or partners",P0 — High,,2. In Progress,Stephanie Chin
 10,Employee,10.18,"Provide or describe any instructions given to HR or recruiting (including any third-party recruiting agencies) that identify categories of prospective employees for which there are limitations or restrictions for soliciting or hiring (e.g., no-hire, no-solicit, and/or no-“cold calling” lists; notification requirements to current employer; etc.).",P0 — High,,2. In Progress,Stephanie Chin
@@ -408,7 +408,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.23,"Description of outside business activities for each applicable employee, e.g. consulting, advisory or similar work with other companies, board seats on other companies, etc.",P1 — Standard,,1. Not Started,Stephanie Chin
 10,Employee,10.24,"Historical attrition data for past 3 years; indicating voluntary versus involuntary attrition, with reason codes if tracked. If reason codes are not available, please share the top 3 causes of attrition and any recent trends, including regrettable and non-regrettable",P0 — High,,7. Shared with Diamond,Lauren Cullen
 10,Employee,10.25,"Temporary agency, independent contractor or vendor agreements. List of all temporary agency personnel, independent contractors or consultants from the prior three years, including name, dates of service, average weekly hours, location, and function or title.",P1 — Standard,,1. Not Started,Anne Pierce
-10,Employee,10.26,"All documents relating to pending or concluded unfair labor practice charges, demands for union recognition, employee arbitrations and employee grievances or any claims under any benefits plans for which the Company may have liability. A statement describing any labor dispute, work stoppage, work slowdown, strike, lockout or other labor disruption threatened or occurring during the past five years.",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
+10,Employee,10.26,"All documents relating to pending or concluded unfair labor practice charges, demands for union recognition, employee arbitrations and employee grievances or any claims under any benefits plans for which the Company may have liability. A statement describing any labor dispute, work stoppage, work slowdown, strike, lockout or other labor disruption threatened or occurring during the past five years.",P0 — High,,7. Shared with Diamond,Stephanie Chin
 11,Employee,11.1,"Summary of standard employee benefits (vacation, sick leave, sabbatical, medical insurance, life and disability insurance, etc.)",P0 — High,,7. Shared with Diamond,Niamh Fitzgerald
 11,Employee,11.2,"Details of pension plans and similar arrangements, including retirement indemnities, executive pension arrangements, jubilee payments and compulsory and profit sharing arrangements
  (i) summary of plans provided, including copies of summary plan descriptions;
