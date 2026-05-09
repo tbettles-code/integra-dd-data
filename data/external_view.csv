@@ -21,7 +21,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
 1,Capital Structure,1.5,"Provide copies of minutes and resolutions of the board of directors and stockholders for 
  (i) the last five years, 
  (ii) approving the current director and officer slate, and 
- (iii) approving all equity issuances.",P0 — High,,3. Ready for Legal & Fin Review,Brandon Kim
+ (iii) approving all equity issuances.",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
 1,Capital Structure,1.6,"Provide documentation for all indebtedness (including loan and debt agreements, capital leases and lines of credit) and any other debt, equity or other financing, including sources and uses for each.",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Brandon Kim
 1,Capital Structure,1.7,Provide documentation granting a security interest in assets (including IP) or securities of the Company.,P0 — High,,7. Shared with Diamond,Brandon Kim
 1,Capital Structure,1.8,"Provide a list of all states and foreign countries where the Company 
@@ -508,5 +508,5 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 16,Main,16.4,"Provide current contracts requiring foreign travel that have booking or security provisions already provided in the contract. (Location, provision, duration)",P1 — Standard,,1. Not Started,Thibault Candebat
 16,Main,16.5,Provide any Business Continuity and Crisis Management plans,P1 — Standard,,1. Not Started,Thibault Candebat
 16,Main,16.6,"For each location, provide any site risk assessments",P1 — Standard,,1. Not Started,Thibault Candebat
-16,Main,16.7,"For each location, provide any site health and safety assessments / program information",P1 — Standard,,3. Ready for Legal & Fin Review,Thibault Candebat
+16,Main,16.7,"For each location, provide any site health and safety assessments / program information",P1 — Standard,,1. Not Started,Thibault Candebat
 15,Main,15.9,"Please provide a document summarizing the buildout of the new office in San Francisco, including any associated cost estimates, along with details on the expansion of the London office / lease updates of currently owned floors as mentioned on 5/6 call",P0 — High,,7. Shared with Diamond,Lauren Cullen
