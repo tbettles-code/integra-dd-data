@@ -344,7 +344,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.20,Average AE Ramp time including methodology used to calculate,P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.21,Average deal size by quarter and by product for the last 2 years,P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.22,Average sales cycle by product and region for the current and past 2 years (including detail on # of days deals in pipeline before closing),P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Barry Wallace
-8,Main,8.23,"Detail on historical and forecasted close rates for both ‘all’ business and new business subset. Please include details of how this differs by product, if applicable",P0 — High,,3. Ready for Legal & Fin Review,Barry Wallace
+8,Main,8.23,"Detail on historical and forecasted close rates for both ‘all’ business and new business subset. Please include details of how this differs by product, if applicable",P0 — High,,4. Ready for DG Review,Barry Wallace
 8,Main,8.24,"Provide high level description / responsibilities for all sales functions including all sales operations and supporting roles (Enablement, Field Operations etc).",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.25,"Partner Program Overview (Benefits, Requirements, Partner Types, Program Tiers, etc.)",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.26,Alliances & Channels Org Chart.  Note resources shared with other GTM functions.  Highlight function including internal/external focused.,P0 — High,,7. Shared with Diamond,Barry Wallace
@@ -362,7 +362,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.38,"Last 12 months pipeline contribution by channel (e.g., AE, SDR, Marketing)",P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.39,Monthly website traffic (visits and unique visitors) and form completion rates for previous year,P1 — Standard,,1. Not Started,Tommy Bettles
 8,Main,8.40,Complete list of event commitments and level of sponsorship,P1 — Standard,,1. Not Started,Barry Wallace
-8,Main,8.41,"FY26 and year-to-date FY27 sales development comp plan, quota, productivity and attainment per SDR",P0 — High,,3. Ready for Legal & Fin Review,Barry Wallace
+8,Main,8.41,"FY26 and year-to-date FY27 sales development comp plan, quota, productivity and attainment per SDR",P0 — High,,4. Ready for DG Review,Barry Wallace
 8,Main,8.42,List of all external technologies and purpose to power marketing or sales development activity,P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.1,"Services operations reports for last 8 quarters (Bookings, Revenue, Headcount, Costs, Margin, Utilization, Rates)",P0 — High,,3. Ready for Legal & Fin Review,Junan Pang
 9,Main,9.2,"Services product/offerings overview. Breakout last 8 quarters Services revenue by product line and by service offering (e.g., Media & Entertainment = product line, implementation services = service offering). Split T&M and Fixed Fee.",P1 — Standard,,1. Not Started,Barry Wallace
@@ -500,8 +500,8 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 15,Main,15.4,"Copies of all invoices for the past month associated with current leases, schedules of rent including breakdown of payment amounts, and fixed asset schedules for each of your office locations.",P0 — High,,7. Shared with Diamond,Anne Pierce
 15,Main,15.5,"Please provide floor plans (CADs and pdfs), office exterior and interior photos, and a description of your office space(s) including rooftops or balconies. What are your office hours and do you have dedicated reception staff?",P1 — Standard,,5. In Dfin; Ready for Cooley,Lauren Cullen
 15,Main,15.6,Listing of subtenants of your space or customers or clients using your workspace/office.,P1 — Standard,,7. Shared with Diamond,Anne Pierce
-15,Main,15.7,Listing of other tenants in your building. Please provide company names.,P1 — Standard,,3. Ready for Legal & Fin Review,Lauren Cullen
-15,Main,15.8,"Do you have any special features built into your space that are critical to the team's function (Network Operations Center, Sound/Film Studio, Lab space, etc.)?",P1 — Standard,,3. Ready for Legal & Fin Review,Lauren Cullen
+15,Main,15.7,Listing of other tenants in your building. Please provide company names.,P1 — Standard,,5. In Dfin; Ready for Cooley,Lauren Cullen
+15,Main,15.8,"Do you have any special features built into your space that are critical to the team's function (Network Operations Center, Sound/Film Studio, Lab space, etc.)?",P1 — Standard,,5. In Dfin; Ready for Cooley,Lauren Cullen
 16,Main,16.1,"Provide any existing workspace security policies and procedures along with any audits performed, internally or externally",P1 — Standard,,1. Not Started,Thibault Candebat
 16,Main,16.2,Provide any business impact analysis reports and the process in place to perform,P1 — Standard,,1. Not Started,Thibault Candebat
 16,Main,16.3,List common and uncommon business travel locations,P1 — Standard,,1. Not Started,Thibault Candebat
