@@ -276,12 +276,12 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 6,Main,6.5,"Provide product roadmap (Fin, sales agent, commerce agent, CS agent, Helpdesk, copilot, underlying AI and data platform)",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Des Traynor
 6,Main,6.6,"Provide an overview of the Engineering and Product team structure and roles, including an organization chart of the Engineering and Product team and third-party contractors and consultants. Detail the employees (name, role, location) in the AI engineering organization and note their projects/areas of work and note which work on Apex and AI model fine-tuning in particular. To the extent there are teams or individuals dedicated to specific products, please include that detail",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Darragh Curran
 6,Main,6.7,"List of third party or open source packages or datasets used in the system, including in the customer facing portion of the product. Please indicate if those OSS components are used as is or edited, also indicate if they are distributed to the customer.",P0 — High,,7. Shared with Diamond,Brian Scanlan
-6,Main,6.8,Data schemas & size of data under management,P0 — High,,5. In Dfin; Ready for Cooley,Brian Scanlan
-6,Main,6.9,"Infrastructure diagrams – Cloud regions / data centers, logical diagrams, # of virtual / physical devices",P0 — High,,5. In Dfin; Ready for Cooley,Brian Scanlan
+6,Main,6.8,Data schemas & size of data under management,P0 — High,,7. Shared with Diamond,Brian Scanlan
+6,Main,6.9,"Infrastructure diagrams – Cloud regions / data centers, logical diagrams, # of virtual / physical devices",P0 — High,,7. Shared with Diamond,Brian Scanlan
 6,Main,6.10,"Please provide Fin pricing and realization data: Fin list price history — every list price change since launch, with effective dates; Discount distribution — % of Fin customers (by conversation volume, industry, other customer segmentation types) on list price vs. discounted, and discount quartiles",P0 — High,,7. Shared with Diamond,Barry Wallace
 6,Main,6.11,"Results from the most recent performance testing for Helpdesk, Fin",P0 — High,,7. Shared with Diamond,Brian Scanlan
-6,Main,6.12,Customer Data Flow Diagram,P0 — High,,5. In Dfin; Ready for Cooley,Brian Scanlan
-6,Main,6.13,Inventory of Customer Data,P0 — High,,5. In Dfin; Ready for Cooley,Brian Scanlan
+6,Main,6.12,Customer Data Flow Diagram,P0 — High,,7. Shared with Diamond,Brian Scanlan
+6,Main,6.13,Inventory of Customer Data,P0 — High,,7. Shared with Diamond,Brian Scanlan
 6,Main,6.14,"List of technical debt and sizing estimates. Examples: Manual processes performed, legacy systems, deferred software upgrades",P0 — High,,2. In Progress,Darragh Curran
 6,Main,6.15,"Inventory of R&D tools used in SDLC: work/bug mgmt, code repo, artifact repo(s), build systems, quality, security, OSS, logging & monitoring, etc",P0 — High,,2. In Progress,Darragh Curran
 6,Main,6.16,Link to document repository/help site and access if behind a login,P0 — High,,7. Shared with Diamond,Des Traynor
@@ -289,20 +289,20 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 6,Main,6.18,Please fill out the Third Party Package (3PP) Discovery Template tab,P0 — High,,2. In Progress,Thibault Candebat
 6,Main,6.19,Flow chart of end-to-end provisioning process (incl systems),P1 — Standard,,1. Not Started,Thibault Candebat
 6,Main,6.20,List of Commercially available and supported source code versions,P1 — Standard,,No Action Required,Brian Scanlan
-6,Main,6.21,"Policy/process documentation - change management, incident management, data storage, failover processes, etc",P1 — Standard,,5. In Dfin; Ready for Cooley,Brian Scanlan
+6,Main,6.21,"Policy/process documentation - change management, incident management, data storage, failover processes, etc",P1 — Standard,,7. Shared with Diamond,Brian Scanlan
 6,Main,6.22,Document inventory of all physical assets along with connectivity diagrams,P1 — Standard,,1. Not Started,Thibault Candebat
-6,Main,6.23,Load balancing and HA diagrams,P1 — Standard,,5. In Dfin; Ready for Cooley,Brian Scanlan
-6,Main,6.24,"Model dependency map: for every customer-facing AI feature, foundation model in production today (provider, exact version), 12 months ago, and planned 6–12 months out, with access path (direct API, hyperscaler, self-hosted, broker) and rationale. Monthly inference cost broken out by feature, product (Fin service agent vs. copilot), customer, model, and request volume. For Apex: training cost per cycle, re-training frequency, hosting cost, and side-by-side cost comparison vs. running the same workload on third-party LLMs (historical if Apex replaced a prior 3P deployment, and at current API pricing).",P0 — High,,5. In Dfin; Ready for Cooley,Fergal Reid
-6,Main,6.25,"Apex swap-out posture from Qwen to GPT-OSS or other open-weight candidates: engineering effort, timeline, quality regression risk, and per-inference cost delta. Include any base-model swap testing already performed (results, eval deltas).",P0 — High,,5. In Dfin; Ready for Cooley,Fergal Reid
+6,Main,6.23,Load balancing and HA diagrams,P1 — Standard,,7. Shared with Diamond,Brian Scanlan
+6,Main,6.24,"Model dependency map: for every customer-facing AI feature, foundation model in production today (provider, exact version), 12 months ago, and planned 6–12 months out, with access path (direct API, hyperscaler, self-hosted, broker) and rationale. Monthly inference cost broken out by feature, product (Fin service agent vs. copilot), customer, model, and request volume. For Apex: training cost per cycle, re-training frequency, hosting cost, and side-by-side cost comparison vs. running the same workload on third-party LLMs (historical if Apex replaced a prior 3P deployment, and at current API pricing).",P0 — High,,7. Shared with Diamond,Fergal Reid
+6,Main,6.25,"Apex swap-out posture from Qwen to GPT-OSS or other open-weight candidates: engineering effort, timeline, quality regression risk, and per-inference cost delta. Include any base-model swap testing already performed (results, eval deltas).",P0 — High,,7. Shared with Diamond,Fergal Reid
 6,Main,6.26,"Every fine-tuned, distilled, or custom-trained model in production including Apex. For each: base model, training method, data annotation pipeline, inference serving, training data provenance and consent/licensing basis, opt-in vs. opt-out posture (with current rates by customer cohort), de-identification/PII-stripping pipeline, where customers exercise the choice (admin console, SKU, contract), eval and AI safety methodology and results, benchmarks vs. other LLMs, and engineering owner. Plus the company's articulation of defensible AI IP with supporting artifacts.",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Fergal Reid
-6,Main,6.27,"Orchestration layer, RAG architecture, and eval infrastructure: home-built vs. vendor (LangChain, LlamaIndex, Braintrust, LangSmith, etc.), team size maintaining each, and per-tenant data isolation design. Sample end-to-end trace and eval pass rates for the last 6 release cycles.",P0 — High,,5. In Dfin; Ready for Cooley,Fergal Reid
+6,Main,6.27,"Orchestration layer, RAG architecture, and eval infrastructure: home-built vs. vendor (LangChain, LlamaIndex, Braintrust, LangSmith, etc.), team size maintaining each, and per-tenant data isolation design. Sample end-to-end trace and eval pass rates for the last 6 release cycles.",P0 — High,,7. Shared with Diamond,Fergal Reid
 6,Main,6.28,"Fin Voice: End-to-end voice pipeline diagram with every vendor named (telephony, VAD, STT, LLM, TTS, orchestration)
 Production mode — cascaded pipeline vs. unified speech-to-speech
 Voice customer count, ARR, resolution rate, average handle time vs. text-based Fin
-Voice pricing model and unit economics — cost per minute, gross margin",P0 — High,,5. In Dfin; Ready for Cooley,Fergal Reid
+Voice pricing model and unit economics — cost per minute, gross margin",P0 — High,,7. Shared with Diamond,Fergal Reid
 6,Main,6.29,"AI/ML org chart separated from general Eng (applied AI, ML infra, evals, voice): headcount, leadership tenure, locations, and single-person dependencies. All AI/ML hires and departures in the last 18 months with prior employer",P0 — High,,7. Shared with Diamond,Fergal Reid
 6,Main,6.30,"All foundation model, inference, STT, and TTS contracts (term, committed spend/minimums, rate limits, MFN/exclusivity, data and training rights, termination, price escalators). Plus customer contracts that pin a model provider, version, ""no training on my data,"" or data residency — with ARR exposure per commitment.",P0 — High,,3. Ready for Legal & Fin Review,Fergal Reid
-6,Main,6.31,"Customer-facing data training framework: contractual default (opt-in, opt-out, prohibited), % of ARR under each, product/SKU mechanism for changing it, and audit trail. ARR exposure for customers entitled to ""no training on my data."" Model quality impact if a meaningful share opts out going forward.",P0 — High,,5. In Dfin; Ready for Cooley,Fergal Reid
+6,Main,6.31,"Customer-facing data training framework: contractual default (opt-in, opt-out, prohibited), % of ARR under each, product/SKU mechanism for changing it, and audit trail. ARR exposure for customers entitled to ""no training on my data."" Model quality impact if a meaningful share opts out going forward.",P0 — High,,7. Shared with Diamond,Fergal Reid
 7,Main,7.1,"Please complete the ""Security Capabilities Questionnaire"" tab and upload any relevant documentation requested per questionnaire",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Thibault Candebat
 7,Main,7.2,"Have you performed any security risk assessments in the past? If so, please upload the reports from those tests",P0 — High,,7. Shared with Diamond,Thibault Candebat
 7,Main,7.3,"Please provide a breakdown of the number of employees that are dedicated to a) Incident Response, b) Threat Intelligence, c) Log Management, d) General SOC and the location of those employees",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Thibault Candebat
@@ -312,7 +312,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.3,Provide the current ARR by product,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.4,Please provide ARR from New Customers and count of number of new customers for the past 3 years,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.5,"Provide an overview of the GTM model including routes to market, growth/sales strategy, organizational structure and sales process.",P0 — High,,7. Shared with Diamond,Barry Wallace
-8,Main,8.6,Definition of Bookings and ARR by product,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
+8,Main,8.6,Definition of Bookings and ARR by product,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.7,Explain how you segment your bookings (new vs existing). Please provide details if this differs by product.,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.8,"Provide bookings plan for current calendar year by quarter, product, region",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.9,"Provide booking attainment for previous 2 year and current fiscal year by quarter for the following:
@@ -348,10 +348,10 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.24,"Provide high level description / responsibilities for all sales functions including all sales operations and supporting roles (Enablement, Field Operations etc).",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.25,"Partner Program Overview (Benefits, Requirements, Partner Types, Program Tiers, etc.)",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.26,Alliances & Channels Org Chart.  Note resources shared with other GTM functions.  Highlight function including internal/external focused.,P0 — High,,7. Shared with Diamond,Barry Wallace
-8,Main,8.27,"Partner revenue by indirect and direct business for last 12 months (monthly or quarterly).  Breakdown by sourced, co-sell, or influenced by partner. Further breakdown by partner name, product, customer's country.",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
-8,Main,8.28,"Open Partner pipeline by indirect and direct business. Breakdown by sourced, co-sell, or influenced by partner. Further breakdown by partner name, product, customer's country.",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
-8,Main,8.29,Partner Revenue as % of Total Revenue for last 12 months (monthly/quarterly).,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
-8,Main,8.30,"List of customer accounts where Partners are performing implementation services. Include customer, Partner name, and rough size ($) of project.",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
+8,Main,8.27,"Partner revenue by indirect and direct business for last 12 months (monthly or quarterly).  Breakdown by sourced, co-sell, or influenced by partner. Further breakdown by partner name, product, customer's country.",P0 — High,,7. Shared with Diamond,Barry Wallace
+8,Main,8.28,"Open Partner pipeline by indirect and direct business. Breakdown by sourced, co-sell, or influenced by partner. Further breakdown by partner name, product, customer's country.",P0 — High,,7. Shared with Diamond,Barry Wallace
+8,Main,8.29,Partner Revenue as % of Total Revenue for last 12 months (monthly/quarterly).,P0 — High,,7. Shared with Diamond,Tommy Bettles
+8,Main,8.30,"List of customer accounts where Partners are performing implementation services. Include customer, Partner name, and rough size ($) of project.",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.31,"Complete ""Partner Template"" worksheet",P0 — High,,2. In Progress,Brandon Kim
 8,Main,8.32,Provide your standard Partner Agreement template and addendums.  Upload top 10 Partner agreements in dataroom.,P1 — Standard,,1. Not Started,Brandon Kim
 8,Main,8.33,Partner certification overview and current metrics (i.e. certified resources).,P1 — Standard,,1. Not Started,Barry Wallace
@@ -364,20 +364,20 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.40,Complete list of event commitments and level of sponsorship,P1 — Standard,,1. Not Started,Barry Wallace
 8,Main,8.41,"FY26 and year-to-date FY27 sales development comp plan, quota, productivity and attainment per SDR",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.42,List of all external technologies and purpose to power marketing or sales development activity,P1 — Standard,,1. Not Started,Barry Wallace
-9,Main,9.1,"Services operations reports for last 8 quarters (Bookings, Revenue, Headcount, Costs, Margin, Utilization, Rates)",P0 — High,,5. In Dfin; Ready for Cooley,Junan Pang
+9,Main,9.1,"Services operations reports for last 8 quarters (Bookings, Revenue, Headcount, Costs, Margin, Utilization, Rates)",P0 — High,,7. Shared with Diamond,Junan Pang
 9,Main,9.2,"Services product/offerings overview. Breakout last 8 quarters Services revenue by product line and by service offering (e.g., Media & Entertainment = product line, implementation services = service offering). Split T&M and Fixed Fee.",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.3,"Last 8 quarters Services revenue backlog, book-to-bill ratio and warranty work (volume (#, person-days), value ($)) and Services attach rates",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.4,"Last 8 quarters Services deal count, average deal size, and duration",P1 — Standard,,1. Not Started,Barry Wallace
-9,Main,9.5,"Last 8 quarters Billable and Total utilization (by role if available), rate cards by role, rate realization and Services CSAT",P0 — High,,5. In Dfin; Ready for Cooley,Junan Pang
+9,Main,9.5,"Last 8 quarters Billable and Total utilization (by role if available), rate cards by role, rate realization and Services CSAT",P0 — High,,7. Shared with Diamond,Junan Pang
 9,Main,9.6,Success coverage ratios and customer segmentation snapshot. Please highlight any Geo differences,P0 — High,,7. Shared with Diamond,Barry Wallace
 9,Main,9.7,"Last 8 quarters Success metrics (e.g., Log-in Rates, Usage, Adoption, Attrition, ARR Growth, CSAT/NPS)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.8,"Success programs snapshot (#, consumption, entitlements, monetization (if any), CSAT, NPS, other?)",P1 — Standard,,1. Not Started,Barry Wallace
-9,Main,9.9,"Last 24 months Red Accounts (at risk account) metrics (e.g., Count, Outcomes, ARR at Risk)",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
+9,Main,9.9,"Last 24 months Red Accounts (at risk account) metrics (e.g., Count, Outcomes, ARR at Risk)",P0 — High,,7. Shared with Diamond,Barry Wallace
 9,Main,9.10,"Support operations reports for last 24 months (ticket/case volumes, average days to close, average days open, monthly backlog, severity levels, response times, etc.). Please complete the ""Support Capacity Template""",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Barry Wallace
 9,Main,9.11,"24 months Support metrics snapshot (Case volume (incl. severity), SLA compliance, escalation rates, deflection rates, average dates to close, backlog (aged 30/60/90/90+), Support CSAT)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.12,Economics of any premium support offerings,P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.13,"Provide any 3rd-party support provider (e.g., Cognizant) governing documents and operating reports (if applicable)",P1 — Standard,,1. Not Started,Barry Wallace
-9,Main,9.14,"Snapshot of current enablement content (for both employees (Services, Success, Support + Renewals) and Customers) + content consumption data (24 months if available)",P0 — High,,5. In Dfin; Ready for Cooley,Barry Wallace
+9,Main,9.14,"Snapshot of current enablement content (for both employees (Services, Success, Support + Renewals) and Customers) + content consumption data (24 months if available)",P0 — High,,7. Shared with Diamond,Barry Wallace
 9,Main,9.15,"Last 24 months Renewals metrics (Won/Lost - both $ and #, top 3 reasons for attrition, customer churn, revenue churn, upsells, downsells)",P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.16,Auto-renewal program snapshot (if one exists),P1 — Standard,,1. Not Started,Barry Wallace
 9,Main,9.17,"Renewals calendar for next 24 months (Accounts, $ value, by product line, by geo)",P1 — Standard,,1. Not Started,Barry Wallace
@@ -500,8 +500,8 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 15,Main,15.4,"Copies of all invoices for the past month associated with current leases, schedules of rent including breakdown of payment amounts, and fixed asset schedules for each of your office locations.",P0 — High,,7. Shared with Diamond,Anne Pierce
 15,Main,15.5,"Please provide floor plans (CADs and pdfs), office exterior and interior photos, and a description of your office space(s) including rooftops or balconies. What are your office hours and do you have dedicated reception staff?",P1 — Standard,,7. Shared with Diamond,Lauren Cullen
 15,Main,15.6,Listing of subtenants of your space or customers or clients using your workspace/office.,P1 — Standard,,7. Shared with Diamond,Anne Pierce
-15,Main,15.7,Listing of other tenants in your building. Please provide company names.,P1 — Standard,,5. In Dfin; Ready for Cooley,Lauren Cullen
-15,Main,15.8,"Do you have any special features built into your space that are critical to the team's function (Network Operations Center, Sound/Film Studio, Lab space, etc.)?",P1 — Standard,,5. In Dfin; Ready for Cooley,Lauren Cullen
+15,Main,15.7,Listing of other tenants in your building. Please provide company names.,P1 — Standard,,7. Shared with Diamond,Lauren Cullen
+15,Main,15.8,"Do you have any special features built into your space that are critical to the team's function (Network Operations Center, Sound/Film Studio, Lab space, etc.)?",P1 — Standard,,7. Shared with Diamond,Lauren Cullen
 16,Main,16.1,"Provide any existing workspace security policies and procedures along with any audits performed, internally or externally",P1 — Standard,,1. Not Started,Thibault Candebat
 16,Main,16.2,Provide any business impact analysis reports and the process in place to perform,P1 — Standard,,1. Not Started,Thibault Candebat
 16,Main,16.3,List common and uncommon business travel locations,P1 — Standard,,1. Not Started,Thibault Candebat
