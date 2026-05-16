@@ -82,14 +82,14 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
 3,Main,3.13,Provide copies of agreements obligating the Company to provide source code or AI/ML models or algorithms to a third party upon the occurrence of certain events.,P0 — High,,2. In Progress,Michele Matsubara
 3,Main,3.14,Provide copies of agreements in which the customers’ right to use the services converts to a perpetual right as a result of a triggering event.,P0 — High,,2. In Progress,Michele Matsubara
 3,Main,3.15,"Describe how the Company’s products and services are shipped from the United States and downloaded or otherwise delivered outside of the United States, and the jurisdictions to which they are delivered.",P0 — High,,5. In Dfin; Ready for Cooley,Brian Scanlan
-3,Main,3.16,"Provide a list of past, pending, threatened, or potential actions, proceedings, or offers to license involving the technology or IP of the Company made by or against the Company.",P1 — Standard,,1. Not Started,Michele Matsubara
+3,Main,3.16,"Provide a list of past, pending, threatened, or potential actions, proceedings, or offers to license involving the technology or IP of the Company made by or against the Company.",P1 — Standard,,2. In Progress,Michele Matsubara
 3,Main,3.17,"Provide copies of any ethical or governance principles and policies that the Company has adopted with respect to its machine learning (“ML”), artificial intelligence (“AI”) and/or other decision making or decision supporting software and/or its other data analytics products (including derived from pre-existing third-party material) (collectively, “Intelligent Products”).
   
  (i) What steps has the Company taken to operationalize its above principles and policies and/or otherwise ensure that its Intelligent Products are trustworthy?
   
  (ii) Provide details regarding any actual or alleged non-compliance with the above principles and policies.
   
- (iii) How does the Company monitor legal developments pertaining to Intelligent Product ethics or regulation?",P1 — Standard,,1. Not Started,Michele Matsubara
+ (iii) How does the Company monitor legal developments pertaining to Intelligent Product ethics or regulation?",P1 — Standard,,2. In Progress,Michele Matsubara
 3,Main,3.18,"Has the Company used any generative AI tools or services in the development of Company IP? If so, what are the Company’s policies and processes regarding:
   
  (i) independent human review of the content being generated;
