@@ -336,7 +336,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 7. Industry (if possible)",P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.14,Summary of the largest 25 opportunities in the pipeline for the current fiscal year,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.15,Percentage of pipeline expected to close in a typical quarter. Provide # of deals closed in a typical quarter,P1 — Standard,,2. In Progress,Tyler Will
-8,Main,8.16,"Please provide current and historical (past 3 years) Sales headcount for all Sales role types (incl. AE, Solution Engineers, Biz Dev, etc.)",P0 — High,,1. Not Started,Tommy Bettles
+8,Main,8.16,"Please provide current and historical (past 3 years) Sales headcount for all Sales role types (incl. AE, Solution Engineers, Biz Dev, etc.)",P0 — High,,2. In Progress,Tommy Bettles
 8,Main,8.17,"What are your historical (previous fiscal year) and planned (current fiscal year) coverage ratios for the following:
 1) AE : Biz Dev 2) AE : SE 3) AE: Co-Primes",P0 — High,,2. In Progress,Tyler Will
 8,Main,8.18,Provide current calendar year variable comp plan and supporting documentation by role,P1 — Standard,,1. Not Started,Barry Wallace
@@ -358,9 +358,9 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.34,List of customer and partner training courses / enablement content.,P1 — Standard,,1. Not Started,Barry Wallace
 8,Main,8.35,"Marketing, Sales and Sales Dev org chart",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.36,Last 12 months marketing spend by category and region,P0 — High,,7. Shared with Diamond,Tommy Bettles
-8,Main,8.37,"Quarterly lead flow, opportunity count, pipeline, and ACV for previous year (by region if possible)",P0 — High,,1. Not Started,Tommy Bettles
+8,Main,8.37,"Quarterly lead flow, opportunity count, pipeline, and ACV for previous year (by region if possible)",P0 — High,,2. In Progress,Tommy Bettles
 8,Main,8.38,"Last 12 months pipeline contribution by channel (e.g., AE, SDR, Marketing)",P0 — High,,7. Shared with Diamond,Tommy Bettles
-8,Main,8.39,Monthly website traffic (visits and unique visitors) and form completion rates for previous year,P1 — Standard,,1. Not Started,Tommy Bettles
+8,Main,8.39,Monthly website traffic (visits and unique visitors) and form completion rates for previous year,P1 — Standard,,2. In Progress,Tommy Bettles
 8,Main,8.40,Complete list of event commitments and level of sponsorship,P1 — Standard,,1. Not Started,Barry Wallace
 8,Main,8.41,"FY26 and year-to-date FY27 sales development comp plan, quota, productivity and attainment per SDR",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.42,List of all external technologies and purpose to power marketing or sales development activity,P1 — Standard,,1. Not Started,Barry Wallace
@@ -400,10 +400,10 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 10,Employee,10.16,"Employment policies, manuals and handbooks.",P1 — Standard,,2. In Progress,Alex Murtagh
 10,Employee,10.17,"Provide or describe any policies (whether formal or informal) related to soliciting or hiring employees from customers, suppliers, or partners",P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
 10,Employee,10.18,"Provide or describe any instructions given to HR or recruiting (including any third-party recruiting agencies) that identify categories of prospective employees for which there are limitations or restrictions for soliciting or hiring (e.g., no-hire, no-solicit, and/or no-“cold calling” lists; notification requirements to current employer; etc.).",P0 — High,,3. Ready for Legal & Fin Review,Stephanie Chin
-10,Employee,10.19,"Description of Company practices and copies of any policies regarding background checks, and a list of employees who have completed any background check, including the specific list of items included in the background check and any results from the background check.",P1 — Standard,,5. In Dfin; Ready for Cooley,Alex Murtagh
+10,Employee,10.19,"Description of Company practices and copies of any policies regarding background checks, and a list of employees who have completed any background check, including the specific list of items included in the background check and any results from the background check.",P1 — Standard,,7. Shared with Diamond,Alex Murtagh
 10,Employee,10.19,"Copies of agreements for loans (including any promissory notes) to key employees, and any other agreements with officers, directors, employees and consultants, whether or not now outstanding.",P0 — High,,7. Shared with Diamond,Lauren Cullen
 10,Employee,10.20,Copies of any non competition or non-solicitation agreements signed by current employees. Copies of any non-competition agreements to which current employees are bound to former employers.,P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
-10,Employee,10.21,Copies of any policies relating to the payment of overtime to employees. List and description of all positions that Target Company has deemed eligible for overtime pay.,P0 — High,,5. In Dfin; Ready for Cooley,Stephanie Chin
+10,Employee,10.21,Copies of any policies relating to the payment of overtime to employees. List and description of all positions that Target Company has deemed eligible for overtime pay.,P0 — High,,7. Shared with Diamond,Stephanie Chin
 10,Employee,10.22,"Description of any reductions in force, redundancies or voluntary furlough programs in the past three years, including dates, location and number of employees impacted.",P1 — Standard,,2. In Progress,Alex Murtagh
 10,Employee,10.23,"Description of outside business activities for each applicable employee, e.g. consulting, advisory or similar work with other companies, board seats on other companies, etc.",P1 — Standard,,1. Not Started,Stephanie Chin
 10,Employee,10.24,"Historical attrition data for past 3 years; indicating voluntary versus involuntary attrition, with reason codes if tracked. If reason codes are not available, please share the top 3 causes of attrition and any recent trends, including regrettable and non-regrettable",P0 — High,,7. Shared with Diamond,Lauren Cullen
@@ -496,7 +496,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 14,Main,14.6,Describe any data centers and overall management where servers and network services are provided to your employees / customers.,P1 — Standard,,1. Not Started,Thibault Candebat
 15,Main,15.1,Please complete the Real Estate Template attached,P0 — High,,7. Shared with Diamond,Lauren Cullen
 15,Main,15.2,"Describe any new contracts, new leases, and new build outs in progress.",P0 — High,,7. Shared with Diamond,Lauren Cullen
-15,Main,15.3,"Copies of all fully executed lease documents, amendments, assignments, letters of agreements, CPI adjustments, MTM, Start Date Agreements, Termination, License Agreements, Property Management Agreements, Master Service Agreements and copies of all correspondence relevant to the lease documents (Landlord changes, estoppels, SNDA's, other notices, correspondence, current and historic Operating Expense / Real Estate Tax Estimate and Reconciliation statements and correspondence, etc)",P0 — High,,5. In Dfin; Ready for Cooley,Anne Pierce
+15,Main,15.3,"Copies of all fully executed lease documents, amendments, assignments, letters of agreements, CPI adjustments, MTM, Start Date Agreements, Termination, License Agreements, Property Management Agreements, Master Service Agreements and copies of all correspondence relevant to the lease documents (Landlord changes, estoppels, SNDA's, other notices, correspondence, current and historic Operating Expense / Real Estate Tax Estimate and Reconciliation statements and correspondence, etc)",P0 — High,,7. Shared with Diamond,Anne Pierce
 15,Main,15.4,"Copies of all invoices for the past month associated with current leases, schedules of rent including breakdown of payment amounts, and fixed asset schedules for each of your office locations.",P0 — High,,7. Shared with Diamond,Anne Pierce
 15,Main,15.5,"Please provide floor plans (CADs and pdfs), office exterior and interior photos, and a description of your office space(s) including rooftops or balconies. What are your office hours and do you have dedicated reception staff?",P1 — Standard,,7. Shared with Diamond,Lauren Cullen
 15,Main,15.6,Listing of subtenants of your space or customers or clients using your workspace/office.,P1 — Standard,,7. Shared with Diamond,Anne Pierce
