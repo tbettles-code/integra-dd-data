@@ -461,7 +461,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 12,Main,12.14,"Provide calculations of employee fringe rates (%) - benefits (e.g. insurance, PTO) and payroll taxes divided by total compensation (base pay, bonus, commission)",P0 — High,,7. Shared with Diamond,Tommy Bettles
 12,Main,12.15,Historical write-offs and provisions for unbilled receivables (contract assets) and accounts receivable by contract number and customer for the last 3 years,P1 — Standard,,1. Not Started,Nikolay Trenin
 12,Main,12.16,"Schedule of any off-balance sheet commitments, guarantees or contingent liabilities (e.g. litigation, other commitments) as at the most recent month-end",P1 — Standard,,2. In Progress,Anne Pierce
-12,Main,12.17,"Future lease commitment schedule, by lease by month, in local currency and USD",P2 — Low Priority,,1. Not Started,Anne Pierce
+12,Main,12.17,"Future lease commitment schedule, by lease by month, in local currency and USD",P2 — Low Priority,,3. Ready for Legal & Fin Review,Anne Pierce
 12,Main,12.18,Lease ROU asset and liability amortization schedules (if accounted for under ASC 842),P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.19,"Future sublease rental income schedule, by lease by month, in local currency and USD (if applicable)",P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.20,"Are you aware of actual litigation, any expressed intention to commence litigation or the threat of litigation against Ernst & Young (Diamond's audit firm) that may be brought by the Company, its officers or directors?",P1 — Standard,,7. Shared with Diamond,Anne Pierce
