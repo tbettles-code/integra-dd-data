@@ -32,7 +32,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (iv) is registered / qualified to do business. 
  For each location, indicate the principal business activity.",P0 — High,,7. Shared with Diamond,Brandon Kim
 1,Capital Structure,1.9,"Provide copies of all Beneficial Ownership Information Reports (BOIRs) filed with the US Department of Treasury’s Financial Crimes Enforcement Network (FinCEN), if applicable.",P0 — High,,7. Shared with Diamond,Anne Pierce
-2,Main,2.1,"Provide copies of standard forms / templates used in negotiations with customers, partners (OEM, VAR, ISV, reseller, referral, etc.), vendors or suppliers.",P0 — High,,3. Ready for Legal & Fin Review,Michele Matsubara
+2,Main,2.1,"Provide copies of standard forms / templates used in negotiations with customers, partners (OEM, VAR, ISV, reseller, referral, etc.), vendors or suppliers.",P0 — High,,5. In Dfin; Ready for Cooley,Michele Matsubara
 2,Main,2.2,"Provide copies of all written (and a description of all oral) agreements relating to the Company, its business and/or its assets, including any:
  (i) agreements, understandings or proposed transactions with top 25 customers, suppliers, consultants and vendors, as applicable;
  (ii) Agreements, understandings or proposed transactions with partners (OEM, VAR, ISV, reseller, referral, etc.) including those where the Company is appointed as a third party’s partner. Note: If such agreement is on the form provided above, please provide only if such agreement contains material deviations; 
@@ -286,7 +286,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 6,Main,6.15,"Inventory of R&D tools used in SDLC: work/bug mgmt, code repo, artifact repo(s), build systems, quality, security, OSS, logging & monitoring, etc",P0 — High,,5. In Dfin; Ready for Cooley,Darragh Curran
 6,Main,6.16,Link to document repository/help site and access if behind a login,P0 — High,,7. Shared with Diamond,Des Traynor
 6,Main,6.17,"Trust & Compliance Documentation - List of subprocessors, data processing agreements, and service legal agreements",P0 — High,,7. Shared with Diamond,Thibault Candebat
-6,Main,6.18,Please fill out the Third Party Package (3PP) Discovery Template tab,P0 — High,,3. Ready for Legal & Fin Review,Thibault Candebat
+6,Main,6.18,Please fill out the Third Party Package (3PP) Discovery Template tab,P0 — High,,5. In Dfin; Ready for Cooley,Thibault Candebat
 6,Main,6.19,Flow chart of end-to-end provisioning process (incl systems),P1 — Standard,,1. Not Started,Thibault Candebat
 6,Main,6.20,List of Commercially available and supported source code versions,P1 — Standard,,No Action Required,Brian Scanlan
 6,Main,6.21,"Policy/process documentation - change management, incident management, data storage, failover processes, etc",P1 — Standard,,7. Shared with Diamond,Brian Scanlan
