@@ -50,7 +50,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (xiv) material research and development agreements, product development agreements, marketing and advertising agreements.",P0 — High,,5. In Dfin; Ready for Cooley,Michele Matsubara
 2,Main,2.3,"Provide a list of names and addresses for the top 25 customers and top 25 partners, suppliers, vendors and consultants.",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Anne Pierce
 2,Main,2.4,"Provide copies of all written (and a description of all oral) agreements that restrict the Company or any affiliate in any respect related to employee solicitation or hiring, whether or not expired. NOTE: if standard form customer, supplier, or partner agreements already provided include such restrictions – please indicate as such and note any deviations from the form.",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Michele Matsubara
-2,Main,2.5,"Provide a list of agreements where THE COMPANY has been appointed a partner, OEM, VAR, reseller or distributor, showing all associated spend or revenue during the last two fiscal years and the current fiscal year.",P0 — High,,5. In Dfin; Ready for Cooley,Michele Matsubara
+2,Main,2.5,"Provide a list of agreements where THE COMPANY has been appointed a partner, OEM, VAR, reseller or distributor, showing all associated spend or revenue during the last two fiscal years and the current fiscal year.",P0 — High,,7. Shared with Diamond,Michele Matsubara
 2,Main,2.6,"Provide a list of agreements where the Company has appointed ANOTHER PARTY as partner, OEM, VAR, reseller or distributor, showing revenues during the last two fiscal years and the current fiscal year.",P0 — High,,5. In Dfin; Ready for Cooley,Michele Matsubara
 2,Main,2.7,"Provide all documentation relating to any agreement or arrangement with any DIAMOND director, officer or employee (e.g., advisory or consulting agreements).",P0 — High,,7. Shared with Diamond,Anne Pierce
 3,Main,3.1,"Provide a list of all worldwide 
@@ -82,7 +82,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
 3,Main,3.13,Provide copies of agreements obligating the Company to provide source code or AI/ML models or algorithms to a third party upon the occurrence of certain events.,P0 — High,,2. In Progress,Michele Matsubara
 3,Main,3.14,Provide copies of agreements in which the customers’ right to use the services converts to a perpetual right as a result of a triggering event.,P0 — High,,2. In Progress,Michele Matsubara
 3,Main,3.15,"Describe how the Company’s products and services are shipped from the United States and downloaded or otherwise delivered outside of the United States, and the jurisdictions to which they are delivered.",P0 — High,,5. In Dfin; Ready for Cooley,Brian Scanlan
-3,Main,3.16,"Provide a list of past, pending, threatened, or potential actions, proceedings, or offers to license involving the technology or IP of the Company made by or against the Company.",P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
+3,Main,3.16,"Provide a list of past, pending, threatened, or potential actions, proceedings, or offers to license involving the technology or IP of the Company made by or against the Company.",P1 — Standard,,7. Shared with Diamond,Michele Matsubara
 3,Main,3.17,"Provide copies of any ethical or governance principles and policies that the Company has adopted with respect to its machine learning (“ML”), artificial intelligence (“AI”) and/or other decision making or decision supporting software and/or its other data analytics products (including derived from pre-existing third-party material) (collectively, “Intelligent Products”).
   
  (i) What steps has the Company taken to operationalize its above principles and policies and/or otherwise ensure that its Intelligent Products are trustworthy?
@@ -216,7 +216,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (vi) How does the Company determine the export classifications of its products and services?
  (vii) Provide a list of all export control classifications and copies of all CCATS and Commodity Jurisdiction requests.
  (viii) Does the Company maintain a detailed list of export and import licenses (general or specific) obtained or used, and any related reports or notifications made during the past five years? If so, provide such details.",P0 — High,,7. Shared with Diamond,Brandon Kim
-4,Main,4.15,A list of any pending or threatened product warranty claims or product liability claims over the past five years.,P0 — High,,5. In Dfin; Ready for Cooley,Michele Matsubara
+4,Main,4.15,A list of any pending or threatened product warranty claims or product liability claims over the past five years.,P0 — High,,7. Shared with Diamond,Michele Matsubara
 4,Main,4.16,"A list and copies of all insurance policies, and any pending claims or disputes thereunder, including estimates regarding potential exposures.",P1 — Standard,,1. Not Started,Brandon Kim
 4,Main,4.17,"List any directors, officers, employees, or equity holders of the Company who is a government official or governmental or government-controlled entity and describe the nature of their positions.",P0 — High,,7. Shared with Diamond,Brandon Kim
 4,Main,4.18,"Use of Third Parties
