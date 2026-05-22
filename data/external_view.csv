@@ -462,12 +462,12 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 12,Main,12.15,Historical write-offs and provisions for unbilled receivables (contract assets) and accounts receivable by contract number and customer for the last 3 years,P1 — Standard,,1. Not Started,Nikolay Trenin
 12,Main,12.16,"Schedule of any off-balance sheet commitments, guarantees or contingent liabilities (e.g. litigation, other commitments) as at the most recent month-end",P1 — Standard,,2. In Progress,Anne Pierce
 12,Main,12.17,"Future lease commitment schedule, by lease by month, in local currency and USD",P2 — Low Priority,,7. Shared with Diamond,Anne Pierce
-12,Main,12.18,Lease ROU asset and liability amortization schedules (if accounted for under ASC 842),P1 — Standard,,1. Not Started,Anne Pierce
+12,Main,12.18,Schedule of all lease payments and ROU amortization monthly by lease for Feb-24 to Apr-26.,P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.19,"Future sublease rental income schedule, by lease by month, in local currency and USD (if applicable)",P1 — Standard,,1. Not Started,Anne Pierce
 12,Main,12.20,"Are you aware of actual litigation, any expressed intention to commence litigation or the threat of litigation against Ernst & Young (Diamond's audit firm) that may be brought by the Company, its officers or directors?",P1 — Standard,,7. Shared with Diamond,Anne Pierce
 12,Main,12.21,Does the Company have any business or lending relationships with Ernst & Young (Diamond's audit firm) or any Ernst & Young affiliates?,P1 — Standard,,7. Shared with Diamond,Anne Pierce
 12,Main,12.22,Please provide most current deferred commissions amortization schedule / waterfall,P0 — High,,7. Shared with Diamond,Nikolay Trenin
-12,Main,12.23,Please provide historical & forecasted cost to serve (COGS) broken out by product.,P0 — High,,4. Ready for DG Review,Tommy Bettles
+12,Main,12.23,Please provide historical & forecasted cost to serve (COGS) broken out by product.,P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
 12,Main,12.24,Provide detail of what costs are being capitalized as software development costs and associated amortization schedules for those capitalized costs,P0 — High,,7. Shared with Diamond,Anne Pierce
 12,Main,12.25,"Provide management rep letters, required audit communications, and summary of adjusted and unadjusted differences for recently completed audits.",P0 — High,,7. Shared with Diamond,Anne Pierce
 12,Main,12.26,Provide revenue (not ARR) by country for the last full fiscal year (FY26),P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Nikolay Trenin
