@@ -47,7 +47,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (xi) material letters of intent or contracts in negotiation;
  (xii) powers of attorneys granted by the Company to a third party, granting such party the authority to bind the Company;
  (xiii) material agreements or proposed agreements pursuant to which the Company licenses proprietary rights from a third party in connection with the development, support and delivery of the Company’s products and/or services (other than “shrink-wrap” licenses with a list price of less than $10,000); and
- (xiv) material research and development agreements, product development agreements, marketing and advertising agreements.",P0 — High,,5. In Dfin; Ready for Cooley,Michele Matsubara
+ (xiv) material research and development agreements, product development agreements, marketing and advertising agreements.",P0 — High,,7. Shared with Diamond,Michele Matsubara
 2,Main,2.3,"Provide a list of names and addresses for the top 25 customers and top 25 partners, suppliers, vendors and consultants.",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Anne Pierce
 2,Main,2.4,"Provide copies of all written (and a description of all oral) agreements that restrict the Company or any affiliate in any respect related to employee solicitation or hiring, whether or not expired. NOTE: if standard form customer, supplier, or partner agreements already provided include such restrictions – please indicate as such and note any deviations from the form.",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Michele Matsubara
 2,Main,2.5,"Provide a list of agreements where THE COMPANY has been appointed a partner, OEM, VAR, reseller or distributor, showing all associated spend or revenue during the last two fiscal years and the current fiscal year.",P0 — High,,7. Shared with Diamond,Michele Matsubara
@@ -70,7 +70,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (v) with third parties relating to joint ventures or the development or acquisition of inventions, technology, IP, products or provision of services;
  (vi) that are proprietary information and invention agreements, NDAs, or any other agreement purporting to assign IP rights to the Company, signed by employees and consultants;
  (vii) pursuant to which the Company has developed or agreed to develop any technology or IP the Company is restricted from using generally; or
- (viii) that are service agreements, outsourcing agreements, third-party hardware or software maintenance agreements and similar agreements related to electronic data processing or services.",P0 — High,,5. In Dfin; Ready for Cooley,Michele Matsubara
+ (viii) that are service agreements, outsourcing agreements, third-party hardware or software maintenance agreements and similar agreements related to electronic data processing or services.",P0 — High,,7. Shared with Diamond,Michele Matsubara
 3,Main,3.5,"Provide a list of third-party IP that is incorporated in, used in or necessary for the Company’s products or services.",P0 — High,,5. In Dfin; Ready for Cooley,Niall Doyle
 3,Main,3.6,Provide a list of any employees or consultants engaged in the development of any material IP for the Company and indicating who has not signed proprietary information and invention agreements.,P0 — High,,2. In Progress,Michele Matsubara
 3,Main,3.7,"Provide any freedom-to-operate, and landscape IP searches performed by the Company or on behalf of the Company.",P0 — High,,2. In Progress,Michele Matsubara
@@ -95,12 +95,12 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  (i) independent human review of the content being generated;
  (ii) security auditing of any code being generated;
  (iii) automated scanning of the generated content for inclusion of or similarity to third-party software or content;
- (iv) registration of copyrights in and to the generated content (including disclosure to the US Copyright Office the degree to which the works were AI-generated and/or contributed to by the Company’s personnel)?",P1 — Standard,,5. In Dfin; Ready for Cooley,Thibault Candebat
-3,Main,3.19,Has the Company performed a risk and/or impact assessment to assess the potential harms arising from decisions and actions the Intelligent Products make? Please provide copies.,P1 — Standard,,5. In Dfin; Ready for Cooley,Thibault Candebat
+ (iv) registration of copyrights in and to the generated content (including disclosure to the US Copyright Office the degree to which the works were AI-generated and/or contributed to by the Company’s personnel)?",P1 — Standard,,7. Shared with Diamond,Thibault Candebat
+3,Main,3.19,Has the Company performed a risk and/or impact assessment to assess the potential harms arising from decisions and actions the Intelligent Products make? Please provide copies.,P1 — Standard,,7. Shared with Diamond,Thibault Candebat
 3,Main,3.20,"Who within the Company and what outside advisors, if any, are involved in managing the Intelligent Products and their trustworthiness and are they engaged throughout the product lifecycle?
   
  Who is ultimately responsible and who are the key decision makers?
- To what extent, if any, does the Company’s data governance committee address these issues?",P1 — Standard,,5. In Dfin; Ready for Cooley,Thibault Candebat
+ To what extent, if any, does the Company’s data governance committee address these issues?",P1 — Standard,,7. Shared with Diamond,Thibault Candebat
 3,Main,3.21,"Are the Intelligent Products designed to ensure that (i) any of their output or decisions are not biased, and (ii) the data they use is accurate and continuously up-to-date? If so, please describe the steps that the Company took to design the Intelligent Products and any bias analysis done on them.",P0 — High,,7. Shared with Diamond,Thibault Candebat
 3,Main,3.22,"If the Intelligent Products are a feature of the Company’s other products, are Customers or users provided with a mechanism to opt-into or out of the use of the Intelligent Products and/or use of their data for improvement of Company products? If yes, please describe the process.",P1 — Standard,,2. In Progress,Michele Matsubara
 3,Main,3.23,"Describe (i) steps the Company takes to prevent customers from using Intelligent Products for illegal or illicit purposes, and (ii) provide a copy of any binding acceptable use policy applicable to customers’ use of Intelligent Products.",P1 — Standard,,2. In Progress,Michele Matsubara
@@ -124,7 +124,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  Provide a list of all instances where an Intelligent Product has not met the claim and the Company’s remediation actions to address the claim.",P1 — Standard,,3. Ready for Legal & Fin Review,Thibault Candebat
 3,Main,3.30,"Describe the testing, monitoring, and auditing that the Company performs with respect to its Intelligent Products throughout the products’ lifecycle.
   
- Provide any related process and procedure documentation pertaining to the design, development, release, and maintenance of the Intelligent Product throughout its lifecycle.",P1 — Standard,,5. In Dfin; Ready for Cooley,Brian McDonnell
+ Provide any related process and procedure documentation pertaining to the design, development, release, and maintenance of the Intelligent Product throughout its lifecycle.",P1 — Standard,,7. Shared with Diamond,Brian McDonnell
 3,Main,3.31,"Describe the mechanisms, if any, the Company has in place to receive feedback about the Intelligent Products.",P1 — Standard,,5. In Dfin; Ready for Cooley,Fergal Reid
 3,Main,3.32,"Describe the response mechanisms, if any, that are in place to respond to any trustworthiness issue in connection with any Intelligent Product.",P1 — Standard,,5. In Dfin; Ready for Cooley,Thibault Candebat
 3,Main,3.33,"How does the Company make its Intelligent Products and the decisions made or facilitated by them transparent?
@@ -206,7 +206,7 @@ Describe any mechanisms the Company has in place to physically and/or logically 
  (vi) Are the Company’s compliance policies communicated to its directors, officers, and employees, as well as business partners, including consultants, agents, distributors, and other intermediaries? If so, how and with what frequency? When did the most recent communication occur?",P1 — Standard,,2. In Progress,Stephanie Chin
 4,Main,4.10,"Describe accounting, internal controls, compliance or risk management issues, and the escalation process for such issues, of the Company and its affiliates rising to the senior management level or identified by the internal audit department in the last five years.",P0 — High,,7. Shared with Diamond,Anne Pierce
 4,Main,4.11,"Describe any internal disciplinary actions of the Company or its affiliates against, and/or investigations concerning, officers, directors, managers or employees in the last five years.",P0 — High,,7. Shared with Diamond,Stephanie Chin
-4,Main,4.12,"For export compliance purposes, please itemize all employees, contractors, or interns who are citizens, nationals, or residents of a US comprehensively sanctioned territory (currently Cuba, Iran, North Korea, Syria, Crimea, Luhansk, Donetsk). If you have received export control licenses pursuant to the work of these individuals, please include.",P0 — High,,5. In Dfin; Ready for Cooley,Alex Murtagh
+4,Main,4.12,"For export compliance purposes, please itemize all employees, contractors, or interns who are citizens, nationals, or residents of a US comprehensively sanctioned territory (currently Cuba, Iran, North Korea, Syria, Crimea, Luhansk, Donetsk). If you have received export control licenses pursuant to the work of these individuals, please include.",P0 — High,,7. Shared with Diamond,Alex Murtagh
 4,Main,4.13,"Provide an itemized list of all products, technology, or software exported from the US for the past five years, including their export classifications (e.g., ECCN or USML). For tangible product exports, provide a copy of the shipper's export declaration, waybill or bill of lading.",P0 — High,,7. Shared with Diamond,Brandon Kim
 4,Main,4.14,"(i) Are any Company officers, directors, major shareholders or investors designated as SDNs (Specially Designated Nationals and Blocked Persons) or otherwise restricted, denied, frozen, or debarred parties under any governmental lists?
  (ii) Does the Company use automated sanctioned and blocked party screening software? If so, itemize the lists included in the screen.
@@ -339,7 +339,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.16,"Please provide current and historical (past 3 years) Sales headcount for all Sales role types (incl. AE, Solution Engineers, Biz Dev, etc.)",P0 — High,,2. In Progress,Tommy Bettles
 8,Main,8.17,"What are your historical (previous fiscal year) and planned (current fiscal year) coverage ratios for the following:
 1) AE : Biz Dev 2) AE : SE 3) AE: Co-Primes",P0 — High,,5. In Dfin; Ready for Cooley,Tyler Will
-8,Main,8.18,Provide current calendar year variable comp plan and supporting documentation by role,P1 — Standard,,5. In Dfin; Ready for Cooley,Barry Wallace
+8,Main,8.18,Provide current calendar year variable comp plan and supporting documentation by role,P1 — Standard,,7. Shared with Diamond,Barry Wallace
 8,Main,8.19,Provide YTD and historical quota and attainment details on average for each sales role (anonymized basis) and methodology used to calculate,P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.20,Average AE Ramp time including methodology used to calculate,P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.21,Average deal size by quarter and by product for the last 2 years,P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
@@ -355,12 +355,12 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.31,"Complete ""Partner Template"" worksheet",P0 — High,,5. In Dfin; Ready for Cooley,Brandon Kim
 8,Main,8.32,Provide your standard Partner Agreement template and addendums.  Upload top 10 Partner agreements in dataroom.,P1 — Standard,,7. Shared with Diamond,Brandon Kim
 8,Main,8.33,Partner certification overview and current metrics (i.e. certified resources).,P1 — Standard,,3. Ready for Legal & Fin Review,Barry Wallace
-8,Main,8.34,List of customer and partner training courses / enablement content.,P1 — Standard,,5. In Dfin; Ready for Cooley,Barry Wallace
+8,Main,8.34,List of customer and partner training courses / enablement content.,P1 — Standard,,7. Shared with Diamond,Barry Wallace
 8,Main,8.35,"Marketing, Sales and Sales Dev org chart",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.36,Last 12 months marketing spend by category and region,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.37,"Quarterly lead flow, opportunity count, pipeline, and ACV for previous year (by region if possible)",P0 — High,,2. In Progress,Tommy Bettles
 8,Main,8.38,"Last 12 months pipeline contribution by channel (e.g., AE, SDR, Marketing)",P0 — High,,7. Shared with Diamond,Tommy Bettles
-8,Main,8.39,Monthly website traffic (visits and unique visitors) and form completion rates for previous year,P1 — Standard,,5. In Dfin; Ready for Cooley,Tommy Bettles
+8,Main,8.39,Monthly website traffic (visits and unique visitors) and form completion rates for previous year,P1 — Standard,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.40,Complete list of event commitments and level of sponsorship,P1 — Standard,,3. Ready for Legal & Fin Review,Barry Wallace
 8,Main,8.41,"FY26 and year-to-date FY27 sales development comp plan, quota, productivity and attainment per SDR",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.42,List of all external technologies and purpose to power marketing or sales development activity,P1 — Standard,,3. Ready for Legal & Fin Review,Barry Wallace
