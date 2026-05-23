@@ -287,10 +287,10 @@ Describe any mechanisms the Company has in place to physically and/or logically 
 6,Main,6.16,Link to document repository/help site and access if behind a login,P0 — High,,7. Shared with Diamond,Des Traynor
 6,Main,6.17,"Trust & Compliance Documentation - List of subprocessors, data processing agreements, and service legal agreements",P0 — High,,7. Shared with Diamond,Thibault Candebat
 6,Main,6.18,Please fill out the Third Party Package (3PP) Discovery Template tab,P0 — High,,7. Shared with Diamond,Thibault Candebat
-6,Main,6.19,Flow chart of end-to-end provisioning process (incl systems),P1 — Standard,,3. Ready for Legal & Fin Review,Thibault Candebat
+6,Main,6.19,Flow chart of end-to-end provisioning process (incl systems),P1 — Standard,,5. In Dfin; Ready for Cooley,Thibault Candebat
 6,Main,6.20,List of Commercially available and supported source code versions,P1 — Standard,,No Action Required,Brian Scanlan
 6,Main,6.21,"Policy/process documentation - change management, incident management, data storage, failover processes, etc",P1 — Standard,,7. Shared with Diamond,Brian Scanlan
-6,Main,6.22,Document inventory of all physical assets along with connectivity diagrams,P1 — Standard,,3. Ready for Legal & Fin Review,Thibault Candebat
+6,Main,6.22,Document inventory of all physical assets along with connectivity diagrams,P1 — Standard,,5. In Dfin; Ready for Cooley,Thibault Candebat
 6,Main,6.23,Load balancing and HA diagrams,P1 — Standard,,7. Shared with Diamond,Brian Scanlan
 6,Main,6.24,"Model dependency map: for every customer-facing AI feature, foundation model in production today (provider, exact version), 12 months ago, and planned 6–12 months out, with access path (direct API, hyperscaler, self-hosted, broker) and rationale. Monthly inference cost broken out by feature, product (Fin service agent vs. copilot), customer, model, and request volume. For Apex: training cost per cycle, re-training frequency, hosting cost, and side-by-side cost comparison vs. running the same workload on third-party LLMs (historical if Apex replaced a prior 3P deployment, and at current API pricing).",P0 — High,,7. Shared with Diamond,Fergal Reid
 6,Main,6.25,"Apex swap-out posture from Qwen to GPT-OSS or other open-weight candidates: engineering effort, timeline, quality regression risk, and per-inference cost delta. Include any base-model swap testing already performed (results, eval deltas).",P0 — High,,7. Shared with Diamond,Fergal Reid
@@ -354,7 +354,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 8,Main,8.30,"List of customer accounts where Partners are performing implementation services. Include customer, Partner name, and rough size ($) of project.",P0 — High,,7. Shared with Diamond,Barry Wallace
 8,Main,8.31,"Complete ""Partner Template"" worksheet",P0 — High,,7. Shared with Diamond,Brandon Kim
 8,Main,8.32,Provide your standard Partner Agreement template and addendums.  Upload top 10 Partner agreements in dataroom.,P1 — Standard,,7. Shared with Diamond,Brandon Kim
-8,Main,8.33,Partner certification overview and current metrics (i.e. certified resources).,P1 — Standard,,3. Ready for Legal & Fin Review,Barry Wallace
+8,Main,8.33,Partner certification overview and current metrics (i.e. certified resources).,P1 — Standard,,5. In Dfin; Ready for Cooley,Barry Wallace
 8,Main,8.34,List of customer and partner training courses / enablement content.,P1 — Standard,,7. Shared with Diamond,Barry Wallace
 8,Main,8.35,"Marketing, Sales and Sales Dev org chart",P00 — Critical (cross-functional priority),Required,7. Shared with Diamond,Tommy Bettles
 8,Main,8.36,Last 12 months marketing spend by category and region,P0 — High,,7. Shared with Diamond,Tommy Bettles
