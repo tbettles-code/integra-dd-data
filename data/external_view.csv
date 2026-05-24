@@ -132,11 +132,11 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  Describe how the Company assesses what individuals or groups may be impacted by the Intelligent Product.
   
  Provide copies of all related notices, information, end user documentation, training and other relevant materials related to the Intelligent Product.",P1 — Standard,,7. Shared with Diamond,Thibault Candebat
-3,Main,3.34,Has the Company warranted or committed to defend or indemnify third parties against claims of IP infringement or misappropriation by the outputs of the Company’s Intelligent Products? Have any such claims been made or defended or indemnified by the Company?,P1 — Standard,,1. Not Started,Michele Matsubara
+3,Main,3.34,Has the Company warranted or committed to defend or indemnify third parties against claims of IP infringement or misappropriation by the outputs of the Company’s Intelligent Products? Have any such claims been made or defended or indemnified by the Company?,P1 — Standard,,3. Ready for Legal & Fin Review,Michele Matsubara
 3,Main,3.35,"Describe the measures the Company undertakes to protect its intellectual property rights or other interests in and to the Intelligent Products’ (i) prediction / analytical models and (ii) output data.
   
  Provide a list of third parties that have intellectual property rights in either (i) and/or (ii), and describe the nature of such rights.",P1 — Standard,,3. Ready for Legal & Fin Review,Michele Matsubara
-3,Main,3.36,What policies and procedures does the Company have in place to regulate the disclosure of confidential information in connection with use of third-party generative AI services by Company personnel? Is the Company aware of any Company personnel submitting trade secrets as prompts to third-party generative AI services?,P1 — Standard,,1. Not Started,Michele Matsubara
+3,Main,3.36,What policies and procedures does the Company have in place to regulate the disclosure of confidential information in connection with use of third-party generative AI services by Company personnel? Is the Company aware of any Company personnel submitting trade secrets as prompts to third-party generative AI services?,P1 — Standard,,3. Ready for Legal & Fin Review,Michele Matsubara
 3,Main,3.37,"Does the Company operate and adhere to a data management system that allows the Company to track the source of, and the Company’s rights to, all data used by the Company in connection with any Intelligent Products or other products or services?
   
 What policies and procedures are in place to ensure that data is only used in a manner consistent with the Company’s rights to such data?
@@ -336,7 +336,7 @@ Voice pricing model and unit economics — cost per minute, gross margin",P0 —
 7. Industry (if possible)",P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.14,Summary of the largest 25 opportunities in the pipeline for the current fiscal year,P0 — High,,7. Shared with Diamond,Tommy Bettles
 8,Main,8.15,Percentage of pipeline expected to close in a typical quarter. Provide # of deals closed in a typical quarter,P1 — Standard,,5. In Dfin; Ready for Cooley,Tyler Will
-8,Main,8.16,"Please provide current and historical (past 3 years) Sales headcount for all Sales role types (incl. AE, Solution Engineers, Biz Dev, etc.)",P0 — High,,4. Ready for DG Review,Tommy Bettles
+8,Main,8.16,"Please provide current and historical (past 3 years) Sales headcount for all Sales role types (incl. AE, Solution Engineers, Biz Dev, etc.)",P0 — High,,5. In Dfin; Ready for Cooley,Tommy Bettles
 8,Main,8.17,"What are your historical (previous fiscal year) and planned (current fiscal year) coverage ratios for the following:
 1) AE : Biz Dev 2) AE : SE 3) AE: Co-Primes",P0 — High,,7. Shared with Diamond,Tyler Will
 8,Main,8.18,Provide current calendar year variable comp plan and supporting documentation by role,P1 — Standard,,7. Shared with Diamond,Barry Wallace
