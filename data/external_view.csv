@@ -108,7 +108,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
   
  Do the Intelligent Products provide analysis, decisions, or predictions that (i) affect an individual’s rights under law (e.g., qualification for benefits), or (ii) would have a significant impact on the individual, including on their health, finances, employment, or reputation?
   
- If so, in either case: (i) please describe; and (ii) indicate whether the product requires human involvement by the Company or its customer to make such an analysis, decision, or prediction.",P1 — Standard,,1. Not Started,Niall Doyle
+ If so, in either case: (i) please describe; and (ii) indicate whether the product requires human involvement by the Company or its customer to make such an analysis, decision, or prediction.",P1 — Standard,,3. Ready for Legal & Fin Review,Niall Doyle
 3,Main,3.25,Describe steps the Company takes to minimize and protect personal data processed by Intelligent Products.,P1 — Standard,,3. Ready for Legal & Fin Review,Michele Matsubara
 3,Main,3.26,Provide a list of the Company’s sources of data used to train the Intelligent Products or enrich their outputs.,P1 — Standard,,7. Shared with Diamond,Niall Doyle
 3,Main,3.27,"With respect to data from the Company’s customers:
