@@ -89,7 +89,7 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
   
  (ii) Provide details regarding any actual or alleged non-compliance with the above principles and policies.
   
- (iii) How does the Company monitor legal developments pertaining to Intelligent Product ethics or regulation?",P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
+ (iii) How does the Company monitor legal developments pertaining to Intelligent Product ethics or regulation?",P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
 3,Main,3.18,"Has the Company used any generative AI tools or services in the development of Company IP? If so, what are the Company’s policies and processes regarding:
   
  (i) independent human review of the content being generated;
@@ -102,14 +102,14 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  Who is ultimately responsible and who are the key decision makers?
  To what extent, if any, does the Company’s data governance committee address these issues?",P1 — Standard,,7. Shared with Diamond,Thibault Candebat
 3,Main,3.21,"Are the Intelligent Products designed to ensure that (i) any of their output or decisions are not biased, and (ii) the data they use is accurate and continuously up-to-date? If so, please describe the steps that the Company took to design the Intelligent Products and any bias analysis done on them.",P0 — High,,7. Shared with Diamond,Thibault Candebat
-3,Main,3.22,"If the Intelligent Products are a feature of the Company’s other products, are Customers or users provided with a mechanism to opt-into or out of the use of the Intelligent Products and/or use of their data for improvement of Company products? If yes, please describe the process.",P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
-3,Main,3.23,"Describe (i) steps the Company takes to prevent customers from using Intelligent Products for illegal or illicit purposes, and (ii) provide a copy of any binding acceptable use policy applicable to customers’ use of Intelligent Products.",P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
+3,Main,3.22,"If the Intelligent Products are a feature of the Company’s other products, are Customers or users provided with a mechanism to opt-into or out of the use of the Intelligent Products and/or use of their data for improvement of Company products? If yes, please describe the process.",P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
+3,Main,3.23,"Describe (i) steps the Company takes to prevent customers from using Intelligent Products for illegal or illicit purposes, and (ii) provide a copy of any binding acceptable use policy applicable to customers’ use of Intelligent Products.",P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
 3,Main,3.24,"Do the Intelligent Products process personal data for the purpose of analyzing or predicting an individual’s performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location, movements or other characteristics? 
   
  Do the Intelligent Products provide analysis, decisions, or predictions that (i) affect an individual’s rights under law (e.g., qualification for benefits), or (ii) would have a significant impact on the individual, including on their health, finances, employment, or reputation?
   
- If so, in either case: (i) please describe; and (ii) indicate whether the product requires human involvement by the Company or its customer to make such an analysis, decision, or prediction.",P1 — Standard,,5. In Dfin; Ready for Cooley,Niall Doyle
-3,Main,3.25,Describe steps the Company takes to minimize and protect personal data processed by Intelligent Products.,P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
+ If so, in either case: (i) please describe; and (ii) indicate whether the product requires human involvement by the Company or its customer to make such an analysis, decision, or prediction.",P1 — Standard,,6. In Dfin; Ready for MS,Niall Doyle
+3,Main,3.25,Describe steps the Company takes to minimize and protect personal data processed by Intelligent Products.,P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
 3,Main,3.26,Provide a list of the Company’s sources of data used to train the Intelligent Products or enrich their outputs.,P1 — Standard,,7. Shared with Diamond,Niall Doyle
 3,Main,3.27,"With respect to data from the Company’s customers:
   
@@ -117,8 +117,8 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
   
  (ii) If so, do such customers have written agreements with the Company that allow the Company to use their data in this manner? Do any such agreements give customers, or do customers otherwise assert, rights to technology derived from use of their data, or impose restrictions on use?
   
- (iii)What rights does the Company have to any inputs that the Company’s customers submit to the Intelligent Products?",P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
-3,Main,3.28,"Has the Company obtained any data gathered using web scraping, web crawling, web harvesting software or any other data gathering method for which the Company does not have an express license to collect and use it? If so, please provide a list of websites from where such data is gathered and the applicable terms of use.",P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
+ (iii)What rights does the Company have to any inputs that the Company’s customers submit to the Intelligent Products?",P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
+3,Main,3.28,"Has the Company obtained any data gathered using web scraping, web crawling, web harvesting software or any other data gathering method for which the Company does not have an express license to collect and use it? If so, please provide a list of websites from where such data is gathered and the applicable terms of use.",P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
 3,Main,3.29,"Describe all claims made by the Company to third parties pertaining to the bias, accuracy, safety, reliability or operation of the Intelligent Products.
   
  Provide a list of all instances where an Intelligent Product has not met the claim and the Company’s remediation actions to address the claim.",P1 — Standard,,2. In Progress,Thibault Candebat
@@ -132,11 +132,11 @@ Section,Folder,DD Ref,Request,Diamond Priority,Intercom Priority,Status,Owner
  Describe how the Company assesses what individuals or groups may be impacted by the Intelligent Product.
   
  Provide copies of all related notices, information, end user documentation, training and other relevant materials related to the Intelligent Product.",P1 — Standard,,7. Shared with Diamond,Thibault Candebat
-3,Main,3.34,Has the Company warranted or committed to defend or indemnify third parties against claims of IP infringement or misappropriation by the outputs of the Company’s Intelligent Products? Have any such claims been made or defended or indemnified by the Company?,P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
+3,Main,3.34,Has the Company warranted or committed to defend or indemnify third parties against claims of IP infringement or misappropriation by the outputs of the Company’s Intelligent Products? Have any such claims been made or defended or indemnified by the Company?,P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
 3,Main,3.35,"Describe the measures the Company undertakes to protect its intellectual property rights or other interests in and to the Intelligent Products’ (i) prediction / analytical models and (ii) output data.
   
- Provide a list of third parties that have intellectual property rights in either (i) and/or (ii), and describe the nature of such rights.",P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
-3,Main,3.36,What policies and procedures does the Company have in place to regulate the disclosure of confidential information in connection with use of third-party generative AI services by Company personnel? Is the Company aware of any Company personnel submitting trade secrets as prompts to third-party generative AI services?,P1 — Standard,,5. In Dfin; Ready for Cooley,Michele Matsubara
+ Provide a list of third parties that have intellectual property rights in either (i) and/or (ii), and describe the nature of such rights.",P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
+3,Main,3.36,What policies and procedures does the Company have in place to regulate the disclosure of confidential information in connection with use of third-party generative AI services by Company personnel? Is the Company aware of any Company personnel submitting trade secrets as prompts to third-party generative AI services?,P1 — Standard,,6. In Dfin; Ready for MS,Michele Matsubara
 3,Main,3.37,"Does the Company operate and adhere to a data management system that allows the Company to track the source of, and the Company’s rights to, all data used by the Company in connection with any Intelligent Products or other products or services?
   
 What policies and procedures are in place to ensure that data is only used in a manner consistent with the Company’s rights to such data?
